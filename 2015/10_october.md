@@ -5,6 +5,8 @@
 * Spending for Thunderplains
 * Incoming money
 
+### Space Program
+* Discuss the space Tommy Yi found (Tommy).
 
 #### Thunderplains
 
