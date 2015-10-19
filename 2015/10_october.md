@@ -7,7 +7,6 @@
 
 
 #### Thunderplains
-* Update on child care sponsorship program (Carmen)
 
 #### User Groups
 * OKPHP needs help. Morgan Estes (Interim President) needs mentorship, support, funds...in okc *and* tulsa bc they switch off each month. Discuss potential merge with Drupal group to help. (Amanda)
