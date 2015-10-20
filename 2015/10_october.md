@@ -6,7 +6,8 @@
 * Incoming money
 
 ### Space Program
-* Discuss the space Tommy Yi found (Tommy).
+* Discuss the future/potential "Innovation District" space via Tommy Yi.
+* Discuss RaiseMore's new location.
 
 #### Thunderplains
 
