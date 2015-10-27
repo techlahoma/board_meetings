@@ -4,10 +4,9 @@
 * Last month spending for UG's
 * Spending for Thunderplains
 * Incoming money
-
-### Space Program
-* Discuss the future/potential "Innovation District" space via Tommy Yi.
-* Discuss RaiseMore's new location.
+- ##### Space Program
+    - Discuss the future/potential "Innovation District" space via Tommy Yi.
+    - Discuss RaiseMore's new location.
 
 #### Thunderplains
 
