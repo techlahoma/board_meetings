@@ -9,7 +9,7 @@
 
 #### User Groups
 * OKPHP needs help. Morgan Estes (Interim President) needs mentorship, support, funds...in okc *and* tulsa bc they switch off each month. Discuss potential merge with Drupal group to help. (Amanda)
-* Code for America is restructuring how they support brigades (which means that they'll no longer be providing the groups with money for pizza and venue fees). Matt Chandler wants to discuss Techlahoma supporting Code for OKC. (Matt/Amanda)
+* Code for America is restructuring how they support brigades (which means that they'll no longer be providing the groups with money for pizza and venue fees). Matt Chandler wants to discuss Techlahoma supporting Code for OKC. (Amanda)
 * Who all is authorized to order pizza for groups and what is the process? (1-2 minute item)
 * MaptimeOKC had to cancel this week due physical access problem. (5 minutes on prevention action item for UG's)
 
