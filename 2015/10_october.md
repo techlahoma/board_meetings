@@ -1,9 +1,9 @@
 ### October
 
-#### Financials
-* Last month spending for UG's
-* Spending for Thunderplains
-* Incoming money
+#### Financials (5 mins)
+* Last month spending for UG's (Vance)
+* Spending for Thunderplains (Vance)
+* Incoming money (Vance)
 
 #### Thunderplains
 
