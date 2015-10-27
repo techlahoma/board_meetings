@@ -5,10 +5,6 @@
 * Spending for Thunderplains
 * Incoming money
 
-### Space Program
-* Discuss the future/potential "Innovation District" space via Tommy Yi.
-* Discuss RaiseMore's new location.
-
 #### Thunderplains
 
 #### User Groups
@@ -19,6 +15,8 @@
 
 #### Administrative items
 * Board members signing paperwork at the meeting for the 2016-2018 year (signing articles/bylaws/grievance policy/conflict of interest policy) (Amanda)
-* Discuss Tommy Yi and John Kerber's meeting this Friday about an Adventure District (Amanda)
+* Space Program (15 minutes)
+  - Discuss the future/potential "Adventure/Innovation District" space via Tommy Yi.
+  - Discuss RaiseMore's new location.
 
 #### Open Forum
