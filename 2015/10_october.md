@@ -1,9 +1,9 @@
 ### October
 
-#### Financials
-* Last month spending for UG's
-* Spending for Thunderplains
-* Incoming money
+#### Financials (5 mins)
+* Last month spending for UG's (Amanda)
+* Spending for Thunderplains (Amanda)
+* Incoming money - see printout (Amanda)
 
 #### Thunderplains
 
