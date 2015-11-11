@@ -20,3 +20,4 @@
 * Discuss Mike Slack as a potential 6 month non-profit consultant for Techlahoma
 
 #### Open Forum
+* Anyone leading the jobs board project? Luke has interest from a few tech recruiting companies to put jobs in front of Tulsa Web Devs and/or sponsor Techlahoma
