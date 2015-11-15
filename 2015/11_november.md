@@ -27,6 +27,8 @@
 * Onboarding 2016-2017 officer member and board members
 * Discuss timeline for yea/nae Techlahoma and 404 merger
 * Discuss Mike Slack as a potential 6 month non-profit consultant for Techlahoma
+* Vote to approve or refine Techlahoma Software Lifecycle and Governance
+  - https://gist.github.com/datachomp/f8e2c026118b6f7885f7
 
 #### Open Forum
 * Anyone leading the jobs board project? Luke has interest from a few tech recruiting companies to put jobs in front of Tulsa Web Devs and/or sponsor Techlahoma
