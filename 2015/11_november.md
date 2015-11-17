@@ -11,7 +11,7 @@
 ### Thunder Plains
 
 #### Administrative items
-* Delete empty/dead repos (default action is to delete, vote for which to keep)
+* Delete empty/dead repos (default action is rob to delete, vote for which to keep)
   - https://github.com/techlahoma/space-program - all dead
   - https://github.com/techlahoma/techlahoma-calendar - all dead
   - https://github.com/techlahoma/board-membership - all dead
