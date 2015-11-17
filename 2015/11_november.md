@@ -23,6 +23,7 @@
   - https://gist.github.com/datachomp/fa62cf70fc9bdc481dd4
 * Space Program
   - Share details (space, finances, timeframe) on potential Techlahoma Community Space Tommy has located
+* Vote if we should allow board votes to happen in the open forum or not
 
 #### Open Forum
 * Anyone leading the jobs board project? Luke has interest from a few tech recruiting companies to put jobs in front of Tulsa Web Devs and/or sponsor Techlahoma
