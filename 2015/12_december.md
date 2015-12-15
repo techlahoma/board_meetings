@@ -12,6 +12,6 @@
 #### User Groups
 
 #### Administrative items
-
+* INFO - DNSimple link updated on website. Invoices are $0 :thumbsup:
 
 #### Open Forum
