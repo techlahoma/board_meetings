@@ -8,5 +8,6 @@
 #### User Groups
 
 #### Administrative items
+ * Techramento/Fiscal Sponsorship Vote
 
 #### Open Forum
