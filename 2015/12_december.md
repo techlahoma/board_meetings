@@ -16,6 +16,7 @@
   * Hexo Lander
   * Job Board
   * Shared Styles
+  * Thunderplains
   * Annual Report
 
 
@@ -25,5 +26,8 @@
 
 #### Administrative items
 * INFO - DNSimple link updated on website. Invoices are $0 :thumbsup:
+* INFO - Dead repos we voted to delete were deleted
+* Vote to approve or refine Techlahoma Software Lifecycle and Governance
+  - https://gist.github.com/datachomp/f8e2c026118b6f7885f7
 
 #### Open Forum
