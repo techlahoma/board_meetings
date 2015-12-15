@@ -16,7 +16,6 @@
 * #### 2015 Projects (10 minutes)
   * Hexo Lander
   * Job Board
-  * 200 OK - Friday, June 3rd
   * Shared Styles
   * Thunderplains
   * Annual Report
