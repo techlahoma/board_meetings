@@ -12,6 +12,7 @@
 * NEW! [Tulsa Data Science Meetup](http://www.meetup.com/Tulsa-Data-Science-Meetup/) first [meetup January 13](http://www.meetup.com/Tulsa-Data-Science-Meetup/events/227590351/)
 
 ### Financials
+* Revisit ear-marked donations [Discussion](https://github.com/techlahoma/techlahoma_donations/issues/10)
 
 
 ### 2016 Projects Updates
