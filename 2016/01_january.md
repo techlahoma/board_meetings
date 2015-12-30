@@ -1,4 +1,5 @@
 ## January
+http://talky.io/techlahoma
 
 ### Administrative Items
 * VOTE: Software governance policy https://gist.github.com/datachomp/f8e2c026118b6f7885f7
