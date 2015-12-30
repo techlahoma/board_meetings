@@ -8,5 +8,6 @@
 ### User Groups
 
 ### Financials
+* Revisit ear-marked donations [Discussion](https://github.com/techlahoma/techlahoma_donations/issues/10)
 
 ### Open Forum
