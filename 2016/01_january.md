@@ -11,6 +11,7 @@ http://talky.io/techlahoma
 
 ### User Groups Updates
 * NEW! [Tulsa Data Science Meetup](http://www.meetup.com/Tulsa-Data-Science-Meetup/) first [meetup January 13](http://www.meetup.com/Tulsa-Data-Science-Meetup/events/227590351/)
+Techlahoma Meetup? - Lucas Watson
 
 ### Financials
 * Revisit ear-marked donations [Discussion](https://github.com/techlahoma/techlahoma_donations/issues/10)
