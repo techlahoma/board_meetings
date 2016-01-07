@@ -14,6 +14,8 @@ http://talky.io/techlahoma
 Techlahoma Meetup? - Lucas Watson
 
 ### Financials
+* 2015 Summary
+  * Revenues & Costs
 * Revisit ear-marked donations [Discussion](https://github.com/techlahoma/techlahoma_donations/issues/10)
 
 
