@@ -15,7 +15,7 @@
 
 * Board Elections - 5 minutes
 	*** Votes - 
-	Luke Crouch - Voted In
+	Luke Crouch - Voted In (with bank account access for funding Tulsa programs)
 	Devin Clark - Voted In
 	Jeremy Green - Voted In
 	Lucas Watson - Voted In
