@@ -23,5 +23,6 @@ Techlahoma Meetup? - Lucas Watson
 * March 5-6: [CodeAcross](http://codeacross.us/) in Tulsa & OKC
 * June 3-4: 200 OK & [National Day of Civic Hacking](http://hackforchange.org/) in Tulsa
 * Oct/Nov: Thunder Plains in OKC
+* 2017: [View Source](https://viewsourceconf.org/) OK ?
 
 ### Open Forum
