@@ -24,5 +24,16 @@ Techlahoma Meetup? - Lucas Watson
 * June 3-4: 200 OK & [National Day of Civic Hacking](http://hackforchange.org/) in Tulsa
 * Oct/Nov: Thunder Plains in OKC
 * 2017: [View Source](https://viewsourceconf.org/) OK ?
+* Job Board
+  * Sample site <http://www.techlahomajobs.com/>
+  * Operational questions:
+      * Do we want full self-service that goes direclty on the site OR
+        do we want a review process?
+      * How / when does a company pay for a listing?
+      * How long does a listing live?
+      * What's the process for removing old / filled listings?
+      * Do we want people to apply directly through the site VS contacting potential employers directly?
+      * User / event tracking? How much do we do?
+
 
 ### Open Forum
