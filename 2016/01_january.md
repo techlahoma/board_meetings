@@ -1,6 +1,12 @@
 ## January
 http://talky.io/techlahoma
 
+### Open
+* Minutes
+* Attendance
+* Set meeting length (45 mins)
+* Announce post-meeting training for board
+
 ### Administrative Items
 * VOTE: Software governance policy https://gist.github.com/datachomp/f8e2c026118b6f7885f7
 * Decide on project owners for existing software projects.
