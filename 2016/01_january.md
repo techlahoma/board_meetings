@@ -17,6 +17,15 @@ Techlahoma Meetup? - Lucas Watson
 * 2015 Summary
   * Revenues & Costs
 * Revisit ear-marked donations [Discussion](https://github.com/techlahoma/techlahoma_donations/issues/10)
+  * With one of the goals of Techlahoma being to make it possible to
+    fund groups that may not have the means to solicit donations
+    themselves it seems like if we allow ear-marked donations that we
+    might quickly run into a situation where we can no longer fund
+    groups that don't have donations being ear-marked directly for them.
+    Maybe we could say that when donations are ear-marked for a
+    particular region/group that some XX% of the funds will go to the
+    ear-marked destination with the remainder (100-XX%) going to the
+    Techlahoma general fun?
 
 
 ### 2016 Projects Updates
