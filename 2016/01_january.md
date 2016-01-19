@@ -16,23 +16,31 @@ Techlahoma Meetup? - Lucas Watson
 ### Financials
 * 2015 Summary
   * Revenues & Costs
+    * Thunder Plains
+    * Usergroups
+* Zero Integration Updates [Vance]
 * Revisit ear-marked donations [Discussion](https://github.com/techlahoma/techlahoma_donations/issues/10)
   * With one of the goals of Techlahoma being to make it possible to
     fund groups that may not have the means to solicit donations
     themselves it seems like if we allow ear-marked donations that we
     might quickly run into a situation where we can no longer fund
     groups that don't have donations being ear-marked directly for them.
-    Maybe we could say that when donations are ear-marked for a
-    particular region/group that some XX% of the funds will go to the
-    ear-marked destination with the remainder (100-XX%) going to the
-    Techlahoma general fun?
-
+    * Earmarks based on
+      * Region
+      * Subject
+    * Administrative overhead
+* Sponsor Obligations
+    * Review tiers/ assign work (eg. Sponsor-Dinner)
+* Spending Authority Update [ Jesse, Luke, Vance, Amanda]
 
 ### 2016 Projects Updates
 * March 5-6: [CodeAcross](http://codeacross.us/) in Tulsa & OKC
 * June 3-4: 200 OK & [National Day of Civic Hacking](http://hackforchange.org/) in Tulsa
 * Oct/Nov: Thunder Plains in OKC
-* 2017: [View Source](https://viewsourceconf.org/) OK ?
+* 2017: [View Source](https://viewsourceconf.org/) OK [luke/devon?]
+* Space Program
+  * Brief Update [Tommy/ Ryan]
+  * Announce Project Update Meeting Time [Tommy/ Ryan]
 * Job Board
   * Sample site http://www.techlahomajobs.com
   * Operational questions:
@@ -45,4 +53,6 @@ Techlahoma Meetup? - Lucas Watson
       * User / event tracking? How much do we do?
 
 
-### Open Forum
+#Proposals
+  * Town hall?
+    * Board meetings are condensed/bounded. Do we need to schedule open community town hall timeevery so often
