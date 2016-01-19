@@ -25,9 +25,9 @@ Techlahoma Meetup? - Lucas Watson
 * Oct/Nov: Thunder Plains in OKC
 * 2017: [View Source](https://viewsourceconf.org/) OK ?
 * Job Board
-  * Sample site <http://www.techlahomajobs.com/>
+  * Sample site http://www.techlahomajobs.com
   * Operational questions:
-      * Do we want full self-service that goes direclty on the site OR
+      * Do we want full self-service that goes directly on the site OR
         do we want a review process?
       * How / when does a company pay for a listing?
       * How long does a listing live?
