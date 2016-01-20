@@ -26,6 +26,7 @@ Jesse would like a list of all the tulsa user groups.
 More discussion about new groups.
 
 Jesse is going to make an issue with to get a full list of user groups. 
+(Post-meeting note: https://github.com/techlahoma/board_meetings/issues/27)
 
 Ryan mentioned a future discussion about "techlahoma groups" and "techlahoma endorsed groups".
 
