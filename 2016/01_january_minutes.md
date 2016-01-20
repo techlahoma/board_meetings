@@ -66,7 +66,7 @@ We voted in December to bring Tommy Yi and John Kerber as advisors on the space 
 
 VOTE: Authorized in principal to enter into a lease. Need to identify a board member Tommy can consult with on the lease negotiations. 404 LLC will donate all their assets to Techlahoma. 404 will cease operations once the co-working.
 
-Vote was unamiously approved by all present board members.
+Vote was unamiously approved by all present board members with the exception of Luke who abstained.
 
 
 Lucas moves Job Board questions to be answered by the job board committe when that is formed.
