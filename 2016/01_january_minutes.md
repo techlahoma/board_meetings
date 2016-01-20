@@ -11,6 +11,7 @@
 * Amanda Harlin
 * Ada Harlin
 * Mike Slack
+* Luke Crouch (remote)
 
 Software governance policy discussion.
 
