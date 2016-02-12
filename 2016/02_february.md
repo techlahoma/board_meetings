@@ -24,3 +24,4 @@ http://talky.io/techlahoma
   * Brief Update [Tommy/ Ryan]
 
 ### Proposals
+* 2017: OK Coders & Techlahoma
