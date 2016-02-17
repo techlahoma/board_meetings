@@ -21,8 +21,11 @@ Leader: Lucas watson.
 - Donatin PAge Update (Jeremy)
 - Job Board Update ( Matt )
 - Xero Integration (Vance)
+- Insurance (Ryan)
 
 Space Program
+
+Other Updates
 
 ### Proposals
 * 2017: OK Coders & Techlahoma
