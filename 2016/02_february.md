@@ -2,26 +2,27 @@
 http://talky.io/techlahoma
 
 ### Open
-* Minutes
 * Attendance
-* Set meeting length (45 mins)
+* Approve previous minutes
 
-### Administrative Items
+### Short Administrative Items
+* VOTE Techlahoma Usergroup Definition https://github.com/techlahoma/board_meetings/issues/29
 * VOTE: Software governance policy https://gist.github.com/datachomp/f8e2c026118b6f7885f7
+* VOTE: Closed Meetings/ Open Spaces https://github.com/techlahoma/board_meetings/issues/30
+* VOTE: Slack Governance Policy https://github.com/techlahoma/board_meetings/issues/31
 
-### User Groups Updates
-* Which groups are officially part of Techlahoma?
+### Projects
+Note: we are handling fundraising business first.
+Leader: Lucas watson.
 
-### Financials
+### Individual Projects
+- Usergroup Finances ( Amanda )
+- Theme Roller Update ( Jeremy)
+- Donatin PAge Update (Jeremy)
+- Job Board Update ( Matt )
+- Xero Integration (Vance)
 
-### 2016 Projects Updates
-* March 5: CodeAcross
-* June 3, 200 OK:
-  * http://speakers.200ok.us/
-  * GKFF sponsoring (part of their Techlahoma donation)
-* Oct/Nov: Thunder Plains in OKC
-* Space Program
-  * Brief Update [Tommy/ Ryan]
+Space Program
 
 ### Proposals
 * 2017: OK Coders & Techlahoma
