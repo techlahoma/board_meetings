@@ -30,4 +30,4 @@ Other Updates
 ### Proposals
 * 2017: OK Coders & Techlahoma
 
-Presiden'ts Report
+President's Report
