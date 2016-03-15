@@ -20,8 +20,7 @@ http://talky.io/techlahoma
 * TulsaPy plans to join Techlahoma
 
 ### Individual Projects
-- Usergroup Finances (Amanda)
-- Theme Roller Update (Jeremy)
+- Insurance (Ryan)
 - Fundraising Comittee Update (Jeremy)
  - Update on usergroup "tour" (Jesse)
  - Last year vs this year YTD (Amanda)
@@ -30,12 +29,12 @@ http://talky.io/techlahoma
   -  Identify who will take the lead on "asking" that prospect.  
   -  Set target date for follow up
  -  Questions for Mike (devin records)
-
-- Job Board Update (Matt)
 - LessAccounting Integration (Vance)
-- Insurance (Ryan)
+- Space Program (Tommy)
 
-## Space Program
+### TODO/Needs assignment
+- GKFF grant request (Luke)
+ 
 
 ## Other Updates
 
