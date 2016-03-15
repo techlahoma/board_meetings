@@ -20,7 +20,7 @@ http://talky.io/techlahoma
     - So, we may be close to 4/5 long talk speakers already - without a single woman yet :( Only 1 woman has submitted
 
 * TulsaPy plans to join Techlahoma
-* Preplanning on Tunder Plains 2016 (Vance/Jesse)
+* Preplanning on Thunder Plains 2016 (Vance/Jesse)
 
 ### Individual Projects
 - Insurance (Ryan)
