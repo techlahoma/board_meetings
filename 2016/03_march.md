@@ -43,5 +43,7 @@ http://talky.io/techlahoma
 
 ## President's Report
 - Usergroups
-- finances recap 
+- finances recap
+- events
 - [2014](https://docs.google.com/spreadsheets/d/11CKhpxE1SsBRccyhoE50EFX3WF5z9hZxtYVpeLcg6vA/edit#gid=887227528) -> [2015](https://docs.google.com/spreadsheets/d/11CKhpxE1SsBRccyhoE50EFX3WF5z9hZxtYVpeLcg6vA/edit#gid=369504964) -> 2016 [10572 as of now]
+- closing
