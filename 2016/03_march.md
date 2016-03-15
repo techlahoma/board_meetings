@@ -38,6 +38,7 @@ http://talky.io/techlahoma
 ### TODO/Needs assignment
 - GKFF grant request (Luke)
 - UG Attendance Form (Jesse)
+- First Townhall Meeting (Open Space Technology) <Needs assignment>
  
 ## Other Updates
 
