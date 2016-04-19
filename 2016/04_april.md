@@ -23,7 +23,7 @@ http://talky.io/techlahoma
 - Insurance (Ryan)
 - Fundraising Comittee Update (Jeremy)
  - Question: Manual integration for checks (Jesse)
-- Space Program (Tommy)
+- Space Program (Tommy or Ryan)
 - Townhall (Amanda) [Vote on date]
 - Job board (Vance)
 - ThunderPlains (Vance)
