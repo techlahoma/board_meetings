@@ -33,6 +33,7 @@ http://talky.io/techlahoma
 ## Other Updates
 - Full slack mode (Ryan)
 - Insurance (Ryan)
-- DevOpsDay
+- DevOpsDay (Ryan)
+- Google Fiber? (Ryan)
 
 ## President's Report
