@@ -15,6 +15,7 @@ http://talky.io/techlahoma
   * 200 OK: Finalizing speakers & sponsors this week; early-bird tickets open on Friday
   * Preplanning on Thunder Plains 2016 (Vance/Jesse)
 * Meetups
+  * TulsaJS re-booting
 * Community Software
 
 ### Individual Projects
