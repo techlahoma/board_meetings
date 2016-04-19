@@ -20,12 +20,16 @@ http://talky.io/techlahoma
 ### Individual Projects
 - Insurance (Ryan)
 - Fundraising Comittee Update (Jeremy)
+ - Question: Manual integration for checks (Jesse)
 - Space Program (Tommy)
 - Townhall (Amanda) [Vote on date]
+- Job board (Vance)
+- ThunderPlains (Vance)
 
 ### TODO/Needs assignment
 
-
 ## Other Updates
+- Full slack mode (Ryan)
+- Insuarance (Ryan)
 
 ## President's Report
