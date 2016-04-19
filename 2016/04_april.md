@@ -20,8 +20,8 @@ http://talky.io/techlahoma
 ### Individual Projects
 - Insurance (Ryan)
 - Fundraising Comittee Update (Jeremy)
- - Update on usergroup "tour" (Jesse)
 - Space Program (Tommy)
+- Townhall (Amanda) [Vote on date]
 
 ### TODO/Needs assignment
 
