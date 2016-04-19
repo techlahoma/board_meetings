@@ -31,6 +31,7 @@ http://talky.io/techlahoma
 
 ## Other Updates
 - Full slack mode (Ryan)
-- Insuarance (Ryan)
+- Insurance (Ryan)
+- DevOpsDay
 
 ## President's Report
