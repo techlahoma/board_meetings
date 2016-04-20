@@ -14,17 +14,24 @@
 Jesse: Motion to approve minutes. Ryan seconds. Minutes are approved unanimously. 
 
 Luke gave a list of speakers for 200OK. 70-75 submissions.
+
 Techlahoma received a check from Mozilla for 200OK sponsorship.
+
 Vance: We are looking at venues. Break from innotech. More work but no longer splitting profit with innotech. 2 days, looking at devon boathouse. 200 people max. Currently in negotiations.
+
 Ryan wants to discuss why we are not using starspace for the venue. It is not big enough and disruptive for co-working.
+
 Thunder Plains committee.
+
 The goal is to open the cfp by the end of the month (beginning of may) for thunderplains.
 
 Josh Hamilton: TulsaJS
 
 Maybe 2 meetings a month, lunch and evening. Josh wants to bring the group back. Jesse recommends the venue not be a bar to make the event more inclusive. C# used to meet twice but it was too much work for organizers.
 Techlahoma is interested in supporting tulsajs.
+
 Jesse: Luke has purchasing power in tulsa and can handle group needs.
+
 Jesse: Fork okcjs hexo site for an easy site.
 
 Community Software: no updates?
@@ -60,7 +67,12 @@ Jesse has 4 checks that he needs to deposit.
 Jeremy: Defer to Lucas.
 Lucas: Defer to Mike.
 Mike: Right now through the membership campaign $15,500 from individual donors. Jesse has ~1k more in membership checks. 
-exceeded the dollar amount with fewer donors than budgeted. This also means fewer donors, which concerns mike. Jesse and Ryan have been sharing the techlahoma story with user groups. Jesse and Ryan can integrate data from this sharing into the 'ask' for techlahoma. ex. what ryan learned from being the first user group hero.
+
+exceeded the dollar amount with fewer donors than budgeted. This also means fewer donors, which concerns mike. 
+
+Jesse and Ryan have been sharing the techlahoma story with user groups.
+
+Jesse and Ryan can integrate data from this sharing into the 'ask' for techlahoma. ex. what ryan learned from being the first user group hero.
 
 Ryan: Should we do an email blast at the end of the campaign. Mike says absolutely yes. Discussion about objections to social media blast. We have emails from slack users.
 Ryan moves for a vote after mikes presentation. Jesse seconds?
@@ -74,7 +86,9 @@ Mike: Don't ever say no for a donor.
 Jesse: we need a support opportunities page with all the options: membership, capital, thunderplains, 200ok, etc.
 
 Mike: Who will take ownership of the slide deck for sponsorship opportunities? Jesse volunteers. Ryan needs it this week. Lucas has 3 opportunities. 
+
 Inform fundraising committee about potential donor 'asks' to gain relevant information from the committee. Do's and don'ts.
+
 Get good food. There should be a noticeable improvement.
 
 Luke has voted in favor of emailing slack members about the campaign _in slack_.
