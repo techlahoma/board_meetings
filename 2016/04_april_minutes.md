@@ -64,8 +64,11 @@ Jesse made a private townhall channel. We will have to delete it after to make a
 
 ### Fundraising
 Jesse has 4 checks that he needs to deposit. 
+
 Jeremy: Defer to Lucas.
+
 Lucas: Defer to Mike.
+
 Mike: Right now through the membership campaign $15,500 from individual donors. Jesse has ~1k more in membership checks. 
 
 exceeded the dollar amount with fewer donors than budgeted. This also means fewer donors, which concerns mike. 
