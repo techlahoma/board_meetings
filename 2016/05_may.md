@@ -6,6 +6,10 @@ http://talky.io/techlahoma
 * Approve previous minutes
 
 ## Administrative Items
+* Accounting (Luke)
+  * $6k of un-categorized expenses
+  * $2k of past-due invoices
+  * Don't see $3k GKFF grant deposit
 
 
 ## Program News
