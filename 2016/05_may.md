@@ -18,6 +18,7 @@ http://talky.io/techlahoma
 * Star Space Updates? (Tommy?)
 
 ## Other Updates
+* Expected 2016 Expenses (Amanda)
 * Google Fiber
 
 ## President's Report
