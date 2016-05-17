@@ -18,7 +18,7 @@ http://talky.io/techlahoma
 
 ### Individual Projects
 * 200OK Updates (Luke)
-  * Logistics are all set
+  * Logistics are all set except still need to get someone to record talks
   * Just 20-30 tickets left to sell over the next couple weeks
     * Can create $25 discount codes for other tech user groups to give away
 * Thunder Plains Updates (Vance)
