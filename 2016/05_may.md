@@ -25,11 +25,12 @@ http://talky.io/techlahoma
     * Can create $25 discount codes for other tech user groups to give away
 * Thunder Plains Updates (Vance)
 * Job Board (Vance)
-* Town Hall Updates (Amanda)
+* Town Hall Updates (Amanda/Jesse)
 * Star Space Updates (Tommy)
 *   Capital Campaign strategy (Lucas)
 
 ## Other Updates
+* Usergroup Intake Form (Jesse/Amanda)
 * Google Fiber
 
 ## President's Report 
