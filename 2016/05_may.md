@@ -31,6 +31,7 @@ http://talky.io/techlahoma
 
 ## Other Updates
 * Usergroup Intake Form (Jesse/Amanda)
-* Google Fiber
+* Google Fiber (ryan)
+* gmail integration Jessica) 
 
 ## President's Report 
