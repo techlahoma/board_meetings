@@ -27,7 +27,7 @@ http://talky.io/techlahoma
 * Job Board (Vance)
 * Town Hall Updates (Amanda)
 * Star Space Updates (Tommy)
-*   Capitol Campaign strategy (Lucas)
+*   Capital Campaign strategy (Lucas)
 
 ## Other Updates
 * Google Fiber
