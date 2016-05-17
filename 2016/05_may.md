@@ -10,6 +10,8 @@ http://talky.io/techlahoma
   * $6k of un-categorized expenses
   * $2k of past-due invoices
   * Don't see $3k GKFF grant deposit
+* 36°N Partner Summit June 16 (Luke)
+  * I can't attend - who else could attend for us?
 
 
 ## Program News
