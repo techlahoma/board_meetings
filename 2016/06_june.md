@@ -1,4 +1,4 @@
-# May
+# June
 http://talky.io/techlahoma
 
 ## Open
@@ -10,10 +10,14 @@ http://talky.io/techlahoma
 * VOTE: decommissioning us.techloma.org (Devin)
 
 ## Program News
+* Bootstrap User Groups: 
+ * Functional Programming OKC (Ryan)
+ * Irregulars (Ryan)
 
 ### Individual Projects
 * 200OK Recap (Luke)
 * Thunder Plains Updates (Vance)
+* DevOps Day Update (Ryan)
 * Job Board (Vance)
 * Town Hall Recap (Amanda/Jesse)
 * Star Space Updates (Tommy)
@@ -24,6 +28,5 @@ http://talky.io/techlahoma
   official Techlahoma project.
 
 ## Other Updates
-* Google Fiber (Ryan)
 
 ## President's Report 
