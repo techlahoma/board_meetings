@@ -32,5 +32,6 @@ http://talky.io/techlahoma
   official Techlahoma project.
 
 ## Other Updates
+* Mike udpates
 
 ## President's Report 
