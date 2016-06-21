@@ -8,6 +8,9 @@ http://talky.io/techlahoma
 ## Administrative Items
 * Accounting (Luke/Jesse)
 * VOTE: decommissioning us.techloma.org (Devin)
+* VOTE: allow jonathan and jesse the latitude to create an MVP for rfid cards for starspace up $100.
+* Squarespace website (jesse)
+* hubspot (ryan)
 
 ## Program News
 * Bootstrap User Groups: 
