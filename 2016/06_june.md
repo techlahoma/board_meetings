@@ -34,5 +34,7 @@ http://talky.io/techlahoma
 
 ## Other Updates
 * Mike udpates
+* Email changes (Ryan)
+* Recognition of service donors (Ryan)
 
 ## President's Report 
