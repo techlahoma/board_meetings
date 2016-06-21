@@ -11,6 +11,7 @@ http://talky.io/techlahoma
 * VOTE: allow jonathan and jesse the latitude to create an MVP for rfid cards for starspace up $100.
 * Squarespace website (jesse)
 * hubspot (ryan)
+* get litecms from vance and accounting stuff from netsuite.
 
 ## Program News
 * Bootstrap User Groups: 
