@@ -24,6 +24,7 @@ http://talky.io/techlahoma
 * DevOps Day Update (Ryan)
 * Job Board (Vance)
 * Town Hall Recap (Amanda/Jesse)
+* Finances Update (Jesse)
 * Star Space Updates (Tommy)
 * Techlahoma Mobile App (Jeremy)
   A member of the Slack community (benjaminjs) is interested in building
