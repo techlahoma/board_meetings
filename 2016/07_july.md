@@ -26,6 +26,7 @@ http://talky.io/techlahoma
   an iOs/Android app with React native. I think he's planning to do it
   as a learning project, but he's interested in it becoming an
   official Techlahoma project.
+* by laws (Ryan)
 
 ## Other Updates
 * GuideStar (Amanda)
