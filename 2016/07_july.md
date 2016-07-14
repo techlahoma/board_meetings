@@ -30,5 +30,6 @@ http://talky.io/techlahoma
 ## Other Updates
 * GuideStar (Amanda)
 * ["Update our user group faq at our next board meeting."](https://techlahoma.slack.com/archives/usergroup-organizers/p1468007147000103) (Amanda)
+* How do we broadcast our board meetings without inviting the public to attend? [Twitter discussion](https://twitter.com/joekarl/status/753399641853472768)
 
 ## President's Report 
