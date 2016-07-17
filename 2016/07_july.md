@@ -10,6 +10,9 @@ http://talky.io/techlahoma
  * Update on accounting stuff from Netsuite (Vance)
 * Squarespace website (Jesse)
  * Update on litecms from Netsuite (Vance)
+* Paying Prototek Update
+   - Review Release language from Sean
+   - Approve final amount
 
 ## Program News
 * Bootstrap User Groups: 
@@ -19,11 +22,14 @@ http://talky.io/techlahoma
    - Responded (Code for OKC, Refesh, OKC.js)
    - Outstanding ()
 * Onboarding process for Ug's
-  - Review Proposal
+  - Review Updated Onboarding Proposal (Jesse)
+  - Value to groups
+  - Goal of Communicating value to sponsors
     - vote
   - Oklahoma City Digital Creators
 
 ### Individual Projects
+* RFID (Jesse/Jon)
 * Thunder Plains Updates (Vance)
   - Need: Speaker Selection (Jesse/ Vance/ Amanada)
   - Tito
