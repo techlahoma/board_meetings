@@ -29,6 +29,7 @@ http://talky.io/techlahoma
 * By-laws (Ryan)
 
 ## Other Updates
+* Thank-You's (1/7) [Jesse and Amanda]
 * GuideStar (Amanda)
   - Current level Gold: need Platinum
 * ["Update our user group faq at our next board meeting."](https://techlahoma.slack.com/archives/usergroup-organizers/p1468007147000103) (Amanda)
