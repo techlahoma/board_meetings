@@ -15,6 +15,13 @@ http://talky.io/techlahoma
 * Bootstrap User Groups: 
  * Functional Programming OKC (Jessica)
    - Domain situation (contact is @Jeff in slack)
+ * Google Form for UG's
+   - Responded (Code for OKC, Refesh, OKC.js)
+   - Outstanding ()
+* Onboarding process for Ug's
+  - Review Proposal
+    - vote
+  - Oklahoma City Digital Creators
 
 ### Individual Projects
 * Thunder Plains Updates (Vance)
