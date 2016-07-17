@@ -19,14 +19,18 @@ http://talky.io/techlahoma
  * Functional Programming OKC (Jessica)
    - Domain situation (contact is @Jeff in slack)
  * Google Form for UG's
-   - Responded (Code for OKC, Refesh, OKC.js)
+   - Responded (Code for OKC, Refesh, OKC.js, OKC MySql, Tulsa Web Devs)
    - Outstanding ()
-* Onboarding process for Ug's
+* Onboarding for Ug's
   - Review Updated Onboarding Proposal (Jesse)
-  - Value to groups
-  - Goal of Communicating value to sponsors
-    - vote
-  - Oklahoma City Digital Creators
+   - Value 
+      - to groups
+      - to sponsors
+   - Vote
+  - Groups who want to join
+   - Oklahoma City Digital Creators
+   - Sharepoint UG
+   - Tableau
 
 ### Individual Projects
 * RFID (Jesse/Jon)
