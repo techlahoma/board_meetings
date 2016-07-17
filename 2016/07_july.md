@@ -14,22 +14,23 @@ http://talky.io/techlahoma
 ## Program News
 * Bootstrap User Groups: 
  * Functional Programming OKC (Jessica)
+   - Domain situation (contact is @Jeff in slack)
 
 ### Individual Projects
 * Thunder Plains Updates (Vance)
+  - Need: Speaker Selection (Jesse/ Vance/ Amanada)
+  - Tito
+  - Buffr
+  - Video (Jesse)
 * DevOps Day Update (Ryan)
 * Job Board (Vance)
 * Finances Update (Jesse)
 * Star Space Updates (Tommy)
-* Techlahoma Mobile App (Jeremy)
-  A member of the Slack community (benjaminjs) is interested in building
-  an iOs/Android app with React native. I think he's planning to do it
-  as a learning project, but he's interested in it becoming an
-  official Techlahoma project.
-* by laws (Ryan)
+* By-laws (Ryan)
 
 ## Other Updates
 * GuideStar (Amanda)
+  - Current level Gold: need Platinum
 * ["Update our user group faq at our next board meeting."](https://techlahoma.slack.com/archives/usergroup-organizers/p1468007147000103) (Amanda)
 * How do we broadcast our board meetings without inviting the public to attend? [Twitter discussion](https://twitter.com/joekarl/status/753399641853472768)
 
