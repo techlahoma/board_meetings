@@ -12,7 +12,6 @@
 * Mike Slack
 * Jessica Campbell
 * Jonathan Yarbor
-* Jeremy Green (remote)
 
 Minutes were approved unanimously by all present board members.
 
