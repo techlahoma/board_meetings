@@ -40,7 +40,7 @@ http://talky.io/techlahoma
   - Buffr
   - Video (Jesse)
 * DevOps Day Update (Ryan)
-* Job Board [Heroku link](https://techlahoma-jobboard.herokuapp.com/) (Vance)
+* Job Board [(Heroku link)](https://techlahoma-jobboard.herokuapp.com/) (Vance)
 * Finances Update (Jesse)
 * Star Space Updates (Tommy)
 * By-laws (Ryan)
