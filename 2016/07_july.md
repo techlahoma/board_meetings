@@ -5,6 +5,9 @@ http://talky.io/techlahoma
 * Attendance
 * Approve previous minutes
 
+## Monscierge 
+Danny Burrows will come talk to Techlahoma about StarSpace46 possibly using monscierge software and hardware to manage some of the coworking space.
+
 ## Administrative Items
 * Accounting (Luke/Jesse)
  * Update on accounting stuff from Netsuite (Vance)
