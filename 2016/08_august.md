@@ -1,6 +1,9 @@
 # August
 http://talky.io/techlahoma
 
+## Monscierge presents 
+* Danny Burrows will talk about SS46/Techlahoma gear and software that Monscierge would like to provide.
+
 ## Open
 * Attendance
 * Approve previous minutes
