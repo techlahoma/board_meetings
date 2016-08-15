@@ -33,5 +33,9 @@ http://talky.io/techlahoma
 * By-laws (Ryan)
 
 ## Other Updates
+* When is next Town Hall?
+  - Last Town Hall was 5/28/2016
+  - Town Hall plan was to meet quarterly, so we're due unless we change to these to 3x a year instead.
+  - What should the board members have prepared for the next Town Hall?
 
 ## President's Report 
