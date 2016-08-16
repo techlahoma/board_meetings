@@ -35,6 +35,7 @@ http://talky.io/techlahoma
 * Finances Update (Jesse)
 
 ## Other Updates
+* Prototek Update
 * When is next Town Hall?
   - Last Town Hall was 5/28/2016
   - Town Hall plan was to meet quarterly, so we're due unless we change to these to 3x a year instead.
