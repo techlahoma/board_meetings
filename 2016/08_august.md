@@ -26,6 +26,7 @@ http://talky.io/techlahoma
   - Tito
   - Buffr
   - Video (Jesse)
+* Swag campaign update/recap (Jesse/Amanda)
 * DevOps Day Update (Ryan)
 * Job Board [(Heroku link)](https://techlahoma-jobboard.herokuapp.com/) (Vance)
 * Finances Update (Jesse)
