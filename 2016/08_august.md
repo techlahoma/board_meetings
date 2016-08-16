@@ -27,8 +27,8 @@ http://talky.io/techlahoma
 * 200 OK Report (Luke)
 * Thunder Plains Updates (Vance)
   - Need: Speaker Selection (Jesse/ Vance/ Amanada)
-  - Tito
-  - Buffr
+  - Tito (jesse)
+  - Buffr (jesse)
   - Video (Jesse)
 * Swag campaign update/recap (Jesse/Amanda)
 * Job Board [(Heroku link)](https://techlahoma-jobboard.herokuapp.com/) (Vance)
