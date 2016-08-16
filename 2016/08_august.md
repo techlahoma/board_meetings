@@ -20,6 +20,7 @@ http://talky.io/techlahoma
 ## Program News
 
 ### Individual Projects
+* 200 OK Report
 * RFID (Jesse/Jon)
 * Thunder Plains Updates (Vance)
   - Need: Speaker Selection (Jesse/ Vance/ Amanada)
