@@ -17,22 +17,22 @@ http://talky.io/techlahoma
    - Review Release language from Sean
    - Approve final amount
 
-## Program News
+## Programs
+* Motion to create User Group Program and elect Chair (Ryan)
+* Motion to elect Space Program Chair (Ryan)
 
 ### Individual Projects
-* 200 OK Report
+* Space Program Update (Tommy)
 * RFID (Jesse/Jon)
+* 200 OK Report (Luke)
 * Thunder Plains Updates (Vance)
   - Need: Speaker Selection (Jesse/ Vance/ Amanada)
   - Tito
   - Buffr
   - Video (Jesse)
 * Swag campaign update/recap (Jesse/Amanda)
-* DevOps Day Update (Ryan)
 * Job Board [(Heroku link)](https://techlahoma-jobboard.herokuapp.com/) (Vance)
 * Finances Update (Jesse)
-* Star Space Updates (Tommy)
-* By-laws (Ryan)
 
 ## Other Updates
 * When is next Town Hall?
