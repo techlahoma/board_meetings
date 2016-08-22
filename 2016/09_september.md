@@ -19,7 +19,7 @@ http://talky.io/techlahoma
 * Space Program Update (Tommy)
 * 200 OK Report (Luke)
 * Thunder Plains Updates (Vance)
-  - Need: Speaker Selection (Jesse/ Vance/ Amanada)
+  - Need: Speaker Selection (Jesse/ Vance/ Amanda)
   - Tito (jesse)
   - Buffr (jesse)
   - Video (Jesse)
