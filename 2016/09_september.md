@@ -32,5 +32,14 @@ http://talky.io/techlahoma
     - This means we're limited to reimbursing user group leaders for their Meetup accounts which cover up to three user groups that we might not be sponsoring.
     - There is an option that will allow us to be organizer of additional user groups and it costs us $10 per additional meetup group.
       - http://www.meetup.com/pro/
-
+ * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
+ * Tulsa Public Schools Partners in Education (Luke)
+   - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
+ * Expensify exploration (Luke)
+   - $9/mo./user
+     - expensers@techlahoma.org account shared via LastPass?
+   - Reports (with custom required fields like 'Program')
+     - Categories (Food/Meals, Alcohol, Travel, etc.)
+     - Tags (Tulsa, TulsaWebDevs, etc.)
+   - NetSuite integration
 ## President's Report 
