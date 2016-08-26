@@ -42,4 +42,5 @@ http://talky.io/techlahoma
      - Categories (Food/Meals, Alcohol, Travel, etc.)
      - Tags (Tulsa, TulsaWebDevs, etc.)
    - NetSuite integration
+
 ## President's Report 
