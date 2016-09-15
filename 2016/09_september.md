@@ -19,7 +19,6 @@ http://talky.io/techlahoma
 
 ### Individual Projects
 * Space Program Update (Tommy)
-* 200 OK Report (Luke)
 * Thunder Plains Updates (Vance)
   - Tito (jesse)
   - Buffer (jesse)
