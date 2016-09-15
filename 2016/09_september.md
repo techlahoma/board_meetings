@@ -5,10 +5,12 @@ http://talky.io/techlahoma
 * Attendance
 * Approve previous minutes
 
+
 ## Administrative Items
+* VOTE: Approval for Thunderplains app as built by Monscierge (Jon)
+* information regarding the Space Program's meeting space in SS64 in anticipation of a budgetary approval (Jon)
 * Propsal to investigate a better, more reliable video chat service.
 * Accounting (Luke/Jesse)
-* Update on accounting stuff from Netsuite (Vance)
 * Paying Prototek Update
    - Review Release language from Sean
    - Approve final amount
@@ -19,14 +21,12 @@ http://talky.io/techlahoma
 * Space Program Update (Tommy)
 * 200 OK Report (Luke)
 * Thunder Plains Updates (Vance)
-  - Need: Speaker Selection (Jesse/ Vance/ Amanda)
   - Tito (jesse)
-  - Buffr (jesse)
+  - Buffer (jesse)
   - Video (Jesse)
 * Finances Update (Jesse)
 
 ## Other Updates
-* Prototek Update
 * Meetup.com Update (Jessica)
   - Unlimited subscription plans allows our meetup groups to have unlimited co-organizers and members but it doesn't allow our account to be organizer of more than 3 groups
     - This means we're limited to reimbursing user group leaders for their Meetup accounts which cover up to two user groups that we might not be sponsoring.
