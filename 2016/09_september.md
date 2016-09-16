@@ -32,6 +32,10 @@ http://talky.io/techlahoma
     - There is an option that will allow us to be organizer of additional user groups and it costs us $10 per additional meetup group per month.
       - http://www.meetup.com/pro/
       - spreadsheet showing my math: http://goo.gl/d6uvp7
+   - Jesse and Jessica have a phone call scheduled with Meetup on 09/26 at 1:30 pm to learn about their [Meetup Pro plan](http://www.meetup.com/pro/)
+* User Group On-Boarding Package Update (Jessica)
+  - Started https://github.com/techlahoma/user-groups
+  - Current outstanding user group applications: https://goo.gl/eXE7iB
 * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
 * Tulsa Public Schools Partners in Education (Luke)
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
