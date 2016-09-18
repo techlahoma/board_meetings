@@ -11,8 +11,8 @@ http://talky.io/techlahoma
 * information regarding the Space Program's meeting space in SS64 in anticipation of a budgetary approval (Jon)
 * Propsal to investigate a better, more reliable video chat service.
 * Accounting (Luke/Jesse)
-* Proposal (maybe VOTE): Add Techlahoma debit card to Code for Tulsa AWS account
-   - CfT has $____ of AWS credit and spends $___ per month, so no charges expected for __ months
+* VOTE: Add Techlahoma debit card to Code for Tulsa AWS account
+   - CfT has $5,000 of AWS credit and spends <$10 per month right now, so no charges expected thru Feb '18, when CfA credits expire
 * Paying Prototek Update
    - Review Release language from Sean
    - Approve final amount
