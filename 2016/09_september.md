@@ -28,16 +28,26 @@ http://talky.io/techlahoma
 * Finances Update (Jesse)
 
 ## Other Updates
-* Meetup.com Update (Jessica)
-  - Unlimited subscription plans allows our meetup groups to have unlimited co-organizers and members but it doesn't allow our account to be organizer of more than 3 groups
-    - This means we're limited to reimbursing user group leaders for their Meetup accounts which cover up to two user groups that we might not be sponsoring.
-    - There is an option that will allow us to be organizer of additional user groups and it costs us $10 per additional meetup group per month.
-      - http://www.meetup.com/pro/
-      - spreadsheet showing my math: http://goo.gl/d6uvp7
-   - Jesse and Jessica have a phone call scheduled with Meetup on 09/26 at 1:30 pm to learn about their [Meetup Pro plan](http://www.meetup.com/pro/)
 * User Group On-Boarding Package Update (Jessica)
   - Started https://github.com/techlahoma/user-groups
   - Current outstanding user group applications: https://goo.gl/eXE7iB
+  - Emails for user groups
+    - May we offer techlahoma emails to user groups?
+      - Pros:
+        - Help keep UG leaders' personal emails private
+        - Have access to abandoned UG email accounts that may develop overtime--useful to pass on to new leadership where available.
+      - Cons:
+        - Another thing to setup and inventory (I expect the hassle to be minor and worth it in the long term)
+  - DNSimple
+    - Only own techlahoma.com and techlahoma.org
+    - Are we going to provide domains for user groups? 
+  - Meetup.com Update
+    - Unlimited subscription plans allows our meetup groups to have unlimited co-organizers and members but it doesn't allow our account to be organizer of more than 3 groups
+      - This means we're limited to reimbursing user group leaders for their Meetup accounts which cover up to two user groups that we might not be sponsoring.
+      - There is an option that will allow us to be organizer of additional user groups and it costs us $10 per additional meetup group per month.
+        - http://www.meetup.com/pro/
+        - spreadsheet showing my math: http://goo.gl/d6uvp7
+     - Jesse and Jessica have a phone call scheduled with Meetup on 09/26 at 1:30 pm to learn about their [Meetup Pro plan](http://www.meetup.com/pro/)
 * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
 * Tulsa Public Schools Partners in Education (Luke)
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
