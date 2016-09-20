@@ -28,6 +28,14 @@ http://talky.io/techlahoma
   - Buffer (jesse)
   - Video (Jesse)
 * Finances Update (Jesse)
+* Code for Tulsa (Luke)
+  - Met with TU yesterday to start process for [OCAST Internship Grant](https://www.ok.gov/ocast/Programs/Intern_Partnerships_(Intern)/index.html) proposal
+  - Code for Tulsa would get a part-time intern (full time in summer) to work on civic coding projects
+    - Luke would be the intern's "company" mentor
+  - TU would administer grant and do all the paperwork, and send Code for Tulsa/Techlahoma bi-weekly/monthly bill for intern wages
+  - TU is putting together the total budget by this week, which I'll post on Slack
+  - I made it clear that Techlahoma does not currently have enough budget to pay for an intern ...
+    - ... so, I plan to take the TU budget to GKFF, LTFF, TAUW, OII, TechHire, etc. to fund-raise for the rest, to be donated to Techlahoma specifically for this purpose/program
 
 ## Other Updates
 * User Group On-Boarding Package Update (Jessica)
