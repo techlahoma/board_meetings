@@ -55,6 +55,7 @@ http://talky.io/techlahoma
 * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
    - SurveyMonkey un-responsive about Pro account for non-profit :(
    - Anyone have another survey platform we might like for Techlahoma? Just Google Forms?
+      - "Skip Logic" is the feature I'm after
 * Tulsa Public Schools Partners in Education (Luke)
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
    - Planning to tell TRSA Techlahoma (Tulsa) volunteers can do 4th Fridays @ 3pm-4pm
