@@ -25,7 +25,7 @@ http://talky.io/techlahoma
   - Tito (jesse)
   - Buffer (jesse)
   - Video (Jesse)
-* Finances Update (Jesse)
+* Netsuite (Vance)
 * Code for Tulsa (Luke)
   - Met with TU yesterday to start process for [OCAST Internship Grant](https://www.ok.gov/ocast/Programs/Intern_Partnerships_(Intern)/index.html) proposal
   - Code for Tulsa would get a part-time intern (full time in summer) to work on civic coding projects
