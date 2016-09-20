@@ -6,7 +6,7 @@ http://talky.io/techlahoma
 * Approve previous minutes
 
 
-##
+## Guest
 * Danny/ Thunderplains App
 
 ## Administrative Items
