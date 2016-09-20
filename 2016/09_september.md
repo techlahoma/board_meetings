@@ -67,6 +67,7 @@ http://talky.io/techlahoma
 * Tulsa Public Schools Partners in Education (Luke)
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
    - Planning to tell TRSA Techlahoma (Tulsa) volunteers can do 4th Fridays @ 3pm-4pm
+   - I'll start recruiting volunteers
 * Expensify exploration for group leaders to submit expense reports (Luke)
    - $9/mo./user
      - Single expensers@techlahoma.org account shared via LastPass?
