@@ -11,8 +11,10 @@ http://talky.io/techlahoma
 * information regarding the Space Program's meeting space in SS64 in anticipation of a budgetary approval (Jon)
 * Propsal to investigate a better, more reliable video chat service.
 * Accounting (Luke/Jesse)
-* VOTE: Add Techlahoma debit card to Code for Tulsa AWS account
+* CONSIDER: Can we add Techlahoma debit card to Code for Tulsa AWS account?
    - CfT has $5,000 of AWS credit and spends <$10 per month right now, so no charges expected thru Feb '18, when CfA credits expire
+   - But the account is required to have a "back-up" funding source
+   - Related: The discussion below about dnsimple.com & paying for domains for Techlahoma groups
 * Paying Prototek Update
    - Review Release language from Sean
    - Approve final amount
@@ -48,12 +50,17 @@ http://talky.io/techlahoma
         - http://www.meetup.com/pro/
         - spreadsheet showing my math: http://goo.gl/d6uvp7
      - Jesse and Jessica have a phone call scheduled with Meetup on 09/26 at 1:30 pm to learn about their [Meetup Pro plan](http://www.meetup.com/pro/)
+     - Luke accidentally already had a phone call with Meetup (apparently I scheduled this months ago and forgot?)
+        - Everything they said lines up with what Jessica put in the spreadsheet; I added a comment
 * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
+   - SurveyMonkey un-responsive about Pro account for non-profit :(
+   - Anyone have another survey platform we might like for Techlahoma? Just Google Forms?
 * Tulsa Public Schools Partners in Education (Luke)
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
-* Expensify exploration (Luke)
+   - Planning to tell TRSA Techlahoma (Tulsa) volunteers can do 4th Fridays @ 3pm-4pm
+* Expensify exploration for group leaders to submit expense reports (Luke)
    - $9/mo./user
-     - expensers@techlahoma.org account shared via LastPass?
+     - Single expensers@techlahoma.org account shared via LastPass?
    - Reports (with custom required fields like 'Program')
      - Categories (Food/Meals, Alcohol, Travel, etc.)
      - Tags (Tulsa, TulsaWebDevs, etc.)
