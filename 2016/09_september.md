@@ -6,6 +6,9 @@ http://talky.io/techlahoma
 * Approve previous minutes
 
 
+##
+* Danny/ Thunderplains App
+
 ## Administrative Items
 * VOTE: Approval for Thunderplains app as built by Monscierge (Jon)
 * information regarding the Space Program's meeting space in SS64 in anticipation of a budgetary approval (Jon)
