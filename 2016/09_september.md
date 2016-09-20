@@ -16,8 +16,6 @@ http://talky.io/techlahoma
    - But the account is required to have a "back-up" funding source
    - Related: The discussion below about dnsimple.com & paying for domains for Techlahoma groups
 * Paying Prototek Update
-   - Review Release language from Sean
-   - Approve final amount
 
 ## Programs
 
