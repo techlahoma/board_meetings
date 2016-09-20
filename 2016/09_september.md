@@ -31,7 +31,7 @@ http://talky.io/techlahoma
 * Code for Tulsa (Luke)
   - Met with TU yesterday to start process for [OCAST Internship Grant](https://www.ok.gov/ocast/Programs/Intern_Partnerships_(Intern)/index.html) proposal
   - Code for Tulsa would get a part-time intern (full time in summer) to work on civic coding projects
-    - Luke would be the intern's "company" mentor
+    - Techlahoma would be the "company"/employer; Luke would be the intern's mentor
   - TU would administer grant and do all the paperwork, and send Code for Tulsa/Techlahoma bi-weekly/monthly bill for intern wages
   - TU has put together [the budget](https://docs.google.com/spreadsheets/d/151bdfPnScKJpQm36EE8Ad0N66hIWCKAmX03q49qwlmg/edit#gid=1756696116), which is open to just board & officers until I hear back from TU that it's okay to be public
   - I made it clear that Techlahoma does not currently have enough budget to pay for an intern ...
