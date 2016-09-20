@@ -33,7 +33,7 @@ http://talky.io/techlahoma
   - Code for Tulsa would get a part-time intern (full time in summer) to work on civic coding projects
     - Luke would be the intern's "company" mentor
   - TU would administer grant and do all the paperwork, and send Code for Tulsa/Techlahoma bi-weekly/monthly bill for intern wages
-  - TU is putting together the total budget by this week, which I'll post on Slack
+  - TU has put together [the budget](https://docs.google.com/spreadsheets/d/151bdfPnScKJpQm36EE8Ad0N66hIWCKAmX03q49qwlmg/edit#gid=1756696116), which is open to just board & officers until I hear back from TU that it's okay to be public
   - I made it clear that Techlahoma does not currently have enough budget to pay for an intern ...
     - ... so, I plan to take the TU budget to GKFF, LTFF, TAUW, OII, TechHire, etc. to fund-raise for the rest, to be donated to Techlahoma specifically for this purpose/program
 
