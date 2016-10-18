@@ -31,6 +31,8 @@
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
    - Planning to tell TRSA Techlahoma (Tulsa) volunteers can do 4th Fridays @ 3pm-4pm
    - I'll start recruiting volunteers
+* New user groups
+   - https://github.com/techlahoma/user-groups/issues?q=is%3Aissue+is%3Aopen+label%3A%22User+Group+Application%22
 * Expensify exploration for group leaders to submit expense reports (Luke)
    - $9/mo./user
      - Single expensers@techlahoma.org account shared via LastPass?
