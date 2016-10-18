@@ -35,7 +35,7 @@
   - Techlahoma and StarSpace46 agreement. SS will give Techlahoma a $5,000 donation every month. SS now has a 60k tax burden. we'll be documenting the transaction.
   - Tulsa and OKC have been selected for **********************************. will announce together later.
   - tommy and lucas are having breakfast with the mayor, they're going to talk about SS46, techlahoma, the tech community.
-  - paycom sponsorship between starspace46 (and techlahoma) - 
+  - paycom sponsorship between starspace46 (and techlahoma). they haven't paid yet, but here is what they wanted - 
     - what they are expecting from ss/tf: 
       - Thunder Plains – we can include 5 tickets this year for your team and list you as a Silver Sponsor of ThunderPlains
       - We will reserve the Event space for Paycom once per month for a morning or afternoon – we need to keep 11:30-1:30 open for user groups but before or after is great. We can put multiple months on the schedule now or schedule it month by month, whatever works out to be easier.
