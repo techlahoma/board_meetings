@@ -7,6 +7,16 @@
 ## Administrative Items
 * Accounting (Luke/Jesse)
 
+## Recognition
+
+* We should formally recognize Devin with a proper title/role
+  for his work on keeping us organized and on point for meetings
+  these last few months. Maybe:
+  * Acting Secretary?
+  * Historian?
+  * Setter of agendas and keeper of records? (If you're not into the
+    whole brevity thing.)
+
 ## Programs
 
 ### Individual Projects
