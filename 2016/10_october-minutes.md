@@ -25,6 +25,7 @@
   - there will be a townhall after thunder plains. we need to have netsuite set up and reports created before then.
   - we need to make an impact report
   - we can give people the info we have right now from less accounting. 
+  - we might consider paying someone part-time for user group setup at ss46.
 
 ## Programs
 
@@ -43,18 +44,19 @@
   - Techlahoma and StarSpace46 agreement. SS will give Techlahoma a $5,000 donation every month. SS now has a 60k tax burden. we'll be documenting the transaction.
   - Tulsa and OKC have been selected for **********************************. will announce together later.
   - tommy and lucas are having breakfast with the mayor, they're going to talk about SS46, techlahoma, the tech community.
-  - paycom sponsorship between starspace46 (money will go to techlahoma). they haven't paid yet, but here is what they wanted - 
+  - paycom sponsorship between starspace46 (money will go to techlahoma). they haven't paid yet, but here is what they wanted 
       what they are expecting 1 time from ss/tf: 
       1) Thunder Plains – we can include 5 tickets this year for your team and list you as a Silver Sponsor of ThunderPlains
       2) We will reserve the Event space for Paycom once per month for a morning or afternoon – we need to keep 11:30-1:30 open for user groups but before or after is great. We can put multiple months on the schedule now or schedule it month by month, whatever works out to be easier.
       3) User Groups – Pick 5 user groups and you can make opening statements in front of them in October, November and December (our other months are already booked!)
       4) Flex Space sponsorship – “camera facing” sponsorship with Paycom’s name large on the back wall of the “bridge”. Whenever we have streaming between coworking spaces (which will be almost all the time during business hours) the Paycom name will be very visible – people all over the country will know you helped us build the space!
-   * we need to explicitly say how long the benefits will last. 1x for a 1x donation that will be paid out yearly.
+   - we need to explicitly say how long the benefits will last. 1x for a 1x donation that will be paid out yearly.
+   - there's a goal for an hourly admin to be employed at starspace46. techlahoma can use that admin. an IRL assistant to have their time divided up amongst aka a 1 person task-rabbit for hire.
    
-   * Meetup Updates (Jesse/Jessica)
+* Meetup Updates (Jesse/Jessica)
    - Still working on meetup. they've gotten the meetup pro account started. No updates.
    
-   * StarSpace A/V
+* StarSpace A/V
    - Jesse and Jon are still working on the setup. No updates.
   
 * Thunder Plains Updates (Vance)
