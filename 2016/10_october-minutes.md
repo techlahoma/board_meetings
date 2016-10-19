@@ -73,7 +73,8 @@
   - TU intern student would an employee of the University of Oklahoma, so Techlahoma would not need to handle employee paperwork, worker's comp, and other legal paperwork.
   
 * Jeremy
-  - Recognizing Devin as acting secretary for the last year. We can give him something for his resume.
+  - Recognizing Devin as acting secretary for the last year. We can give him something for his resume and a mug/plaque would be good. 
+  - Recognize Jon and Jessica with their swag at Thunder Plains and title for resume. 
 
 ## Other Updates
 * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
