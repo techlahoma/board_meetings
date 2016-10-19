@@ -66,11 +66,14 @@
   
 * Netsuite (Vance)
   - Netsuite account exists but we've been too busy to begin migrating data into it from less accounting.
-  - Netsuite can do some of the expensify features, so we can just use NS
+  - Netsuite can do some of the expensify features, so we can just use N.S.
   
 * Code for Tulsa (Luke)
   - TU application was 5 minutes too late to be submitted. GKFF might be contacted for a grant.
   - TU intern student would an employee of the University of Oklahoma, so Techlahoma would not need to handle employee paperwork, worker's comp, and other legal paperwork.
+  
+* Jeremy
+  - Recognizing Devin as acting secretary for the last year. We can give him something for his resume.
 
 ## Other Updates
 * OK Coders + Techlahoma SurveyMonkey Survey (Luke)
@@ -81,12 +84,7 @@
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
    - Planning to tell TRSA Techlahoma (Tulsa) volunteers can do 4th Fridays @ 3pm-4pm
    - I'll start recruiting volunteers
-* Expensify exploration for group leaders to submit expense reports (Luke)
-   - $9/mo./user
-     - Single expensers@techlahoma.org account shared via LastPass?
-   - Reports (with custom required fields like 'Program')
-     - Categories (Food/Meals, Alcohol, Travel, etc.)
-     - Tags (Tulsa, TulsaWebDevs, etc.)
-   - NetSuite integration
 
 ## President's Report 
+- We're scaling up, creating actual documents instead of only fistbumping agreements, and folks are looking to us for leadership. We need to build more architecture, we've got to get our tooling in place, distribute it to people, and empower them.
+- We need to think about how we're going to nominate and expand the board. We need more Tulsans, more diversity. We need budget proposals for our activities moving forward in Nov/Dec.
