@@ -88,4 +88,4 @@
 
 ## President's Report 
 - We're scaling up, creating actual documents instead of only fistbumping agreements, and folks are looking to us for leadership. We need to build more architecture, we've got to get our tooling in place, distribute it to people, and empower them.
-- We need to think about how we're going to nominate and expand the board. We need more Tulsans, more diversity. We need budget proposals for our activities moving forward in Nov/Dec. We also need bylaws to be completed before nominations happen. We're going to just have to pay a lawyer to create bylaws since folks are too busy and have less legal expertise.
+- We need to think about how we're going to nominate and expand the board. We need more Tulsans, more diversity. We need budget proposals for our activities moving forward in Nov/Dec. We also need bylaws to be completed before nominations happen. We're going to just have to pay a lawyer to create bylaws since folks are too busy and have less legal expertise. We might need to invent a term for high-octane volunteers. 
