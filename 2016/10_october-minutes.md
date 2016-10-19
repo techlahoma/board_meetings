@@ -81,6 +81,11 @@
    - SurveyMonkey un-responsive about Pro account for non-profit :(
    - Anyone have another survey platform we might like for Techlahoma? Just Google Forms?
       - "Skip Logic" is the feature I'm after
+      
+* SurveyMonkey
+ - we would have to pay for this, but it might be a good investment for user group obnoarding forms. 
+ - jessica and jesse are going to talk about this in another meeting.
+      
 * Tulsa Public Schools Partners in Education (Luke)
    - Signed Techlahoma up for STEM support. E.g., showing students coding and speaking to students about coding careers
    - Planning to tell TRSA Techlahoma (Tulsa) volunteers can do 4th Fridays @ 3pm-4pm
