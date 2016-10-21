@@ -25,7 +25,7 @@
   - there will be a townhall after thunder plains. we need to have netsuite set up and reports created before then.
   - we need to make an impact report
   - we can give people the info we have right now from less accounting. 
-  - we might consider paying someone part-time for user group setup at ss46.
+  - we might consider paying someone part-time for user group setup at ss46. there is a need for help, but we don't have enough money to pay for a salary or handle the legal documents that accompany hiring people. we can pay people for professional services but can't hire anyone right now.
 
 ## Programs
 
