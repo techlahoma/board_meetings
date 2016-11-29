@@ -11,15 +11,15 @@
 
 * Job board [ Vance ]
 
-<slides>
+--slides--
 * Bylaws and Elections [ Jesse ]
  - Updates from lawyer
  - Board Nominations
 
-<slides>
+--slides--
 * Techlahoma Event Center Updates/Recap
 
-<slides/demo>
+--slides/demo--
 * User Group On-boarding [Jessica / Jesse ]
   * Through Meetup, Zapier, and Buffer, we can delegate tasks and schedule announcements as a Meetup event is created.
   * We can begin on-boarding user groups that 
@@ -42,7 +42,7 @@
       * Muskogee Web Dev & Design (new)
       * Makers of Oklahoma (new--though FB group is closed and 4 months old, they've had no events)
 
-<slides/demo>
+--slides/demo--
 * Finance Tooling/Reporting [ Amanda, Jesse ]
 
 ## Other Updates
