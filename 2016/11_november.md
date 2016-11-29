@@ -43,5 +43,6 @@
 
 ## Other Updates
 
+* Tech Hires [Tommy / Jesse]
 
 ## President's Report 
