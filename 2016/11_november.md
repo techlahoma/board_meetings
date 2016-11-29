@@ -9,6 +9,8 @@
 
 ### Comittee Updates
 
+* Job board [ Vance ]
+
 <slides>
 * Bylaws and Elections [ Jesse ]
  - Updates from lawyer
