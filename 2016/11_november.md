@@ -19,7 +19,7 @@
  - Board Nominations
 
 --slides--
-* Techlahoma Event Center Updates/Recap
+* Techlahoma Event Center Updates/Recap [ Jonathan / Jesse / Ben / Ava ]
 
 --slides/demo--
 * User Group On-boarding [Jessica / Jesse ]
@@ -45,7 +45,7 @@
       * Makers of Oklahoma (new--though FB group is closed and 4 months old, they've had no events)
 
 --slides/demo--
-* Finance Tooling/Reporting [ Amanda, Jesse ]
+* Finance Tooling/Reporting [ Amanda / Jesse ]
 
 ## Other Updates
 
