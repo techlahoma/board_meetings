@@ -23,6 +23,11 @@
 
 --slides/demo--
 * User Group On-boarding [Jessica / Jesse ]
+
+--slides/demo--
+* Finance Tooling/Reporting [ Amanda / Jesse ]
+
+## Action Items
   * [Current user group applicants](https://github.com/techlahoma/user-groups/issues?q=is%3Aissue+is%3Aopen+label%3A%22User+Group+Application%22)
     * w/ Meetup
       * [Big Data And Data Science Oklahoma City](https://www.meetup.com/Big-Data-in-Oklahoma-City/)
@@ -35,9 +40,6 @@
       * Tulsa Game Developers
       * Muskogee Web Dev & Design (new)
       * Makers of Oklahoma (new--though FB group is closed and 4 months old, they've had no events)
-
---slides/demo--
-* Finance Tooling/Reporting [ Amanda / Jesse ]
 
 ## Other Updates
 
