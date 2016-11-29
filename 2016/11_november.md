@@ -11,6 +11,8 @@
 
 * Job board [ Vance ]
 
+* Thunderplains Retrospective [ Jesse/ Vance / Amanda ]
+
 --slides--
 * Bylaws and Elections [ Jesse ]
  - Updates from lawyer
