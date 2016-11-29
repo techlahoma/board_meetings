@@ -1,21 +1,19 @@
-# October
+# November Agenda
 
 ## Open
 * Attendance
 * Approve previous minutes
 
-## Administrative Items
-* Accounting (Luke/Jesse)
+## Proposals
 * Update CoC to account for job postings in Slack (Jessica)
-* Discuss board nominees
 
-## Programs
+### Comittee Updates
+* Bylaws and Elections [ Jesse ]
+ - Board Nominations
 
-### Individual Projects
-* Thunder Plains Updates (Vance)
-* Netsuite (Vance)
 * Techlahoma Event Center Updates/Recap
-* User Group On-boarding (Jesse/Jessica)
+
+* User Group On-boarding [Jessica / Jesse ]
   * Through Meetup, Zapier, and Buffer, we can delegate tasks and schedule announcements as a Meetup event is created.
   * We can begin on-boarding user groups that 
     * have Meetup
@@ -36,6 +34,8 @@
       * Tulsa Game Developers
       * Muskogee Web Dev & Design (new)
       * Makers of Oklahoma (new--though FB group is closed and 4 months old, they've had no events)
+
+* Finance Tooling/Reporting [ Amanda, Jesse ]
 
 ## Other Updates
 
