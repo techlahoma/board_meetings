@@ -5,7 +5,7 @@
 * Approve previous minutes
 
 ## Proposals
-* Update CoC to account for job postings in Slack (Jessica)
+* VOTE: Revised Slack Governance Policy
 
 ### Comittee Updates
 
