@@ -3,6 +3,7 @@
 ## Open
 * Attendance
   - jesse 
+  - Amanda
   - vance 
   - jessica 
   - matthew 
