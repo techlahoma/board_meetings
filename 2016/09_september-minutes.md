@@ -2,6 +2,7 @@
 
 Attendance
 * Jesse Harlin
+* Amanda Harlin (shared screen w/Jesse)
 * Jeremy Green
 * Jessica Campbell
 * Jonathan Yarbor
