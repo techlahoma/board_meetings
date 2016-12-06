@@ -11,6 +11,7 @@
 * Jeremy
 * Devin
 * Ryan (remote)
+* Amanda
 
 Jesse: Motion to approve minutes. Jeremy seconds. Motion passes without objection.
 
