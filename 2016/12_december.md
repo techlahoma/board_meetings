@@ -8,6 +8,7 @@
 * VOTE: Revised Slack Governance Policy
 
 ### Comittee Updates
+* Finances [ Amanda ]
 
 ## Action Items
 
