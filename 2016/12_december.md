@@ -20,5 +20,7 @@ Bylaws and Elections [ Matthew / Ryan / Luke ]
 ## Other Updates
 
 * Tech Hires [Tommy / Jesse]
+* Rails Bridge Tulsa [ Amanda ]
+* BsidesOK [ Amanda ]
 
 ## President's Report 
