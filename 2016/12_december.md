@@ -13,9 +13,9 @@
 ## Action Items
 
 Bylaws and Elections [ Matthew / Ryan / Luke ]
-Officer Nominations
-Board Nominations
-User Group Nominations
+* Officer Nominations
+* Board Nominations
+* User Group Nominations
 
 ## Other Updates
 
