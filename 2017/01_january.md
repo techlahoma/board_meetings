@@ -5,7 +5,7 @@
 * Approve previous minutes
 
 ## Action Items
-* New Board Member Onboarding
+* New Board Member Onboarding - 1) Bylaws, 2) Important Dates, 3) Access to online accounts & PW MGMT, 4) Important Docs & their Locations,
 * Elect officers for 2017 (Matt Reily)
 
 ## Comittee Updates
