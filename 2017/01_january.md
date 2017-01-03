@@ -1,7 +1,5 @@
 # January 17, 2017, 6:30pm - 7:30pm.
 
-Attend the meeting at: StarSpace46, 36 Degrees North, or remote.
-
 ## Open
 * Attendance
 * Approve previous minutes
