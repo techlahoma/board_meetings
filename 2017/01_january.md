@@ -22,6 +22,7 @@
 
 
 ## Proposals
+- Prior, OK - Tommy
 - 2017 Tech Hires Proposal - Jesse
 
 ## President's Report 
