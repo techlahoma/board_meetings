@@ -8,7 +8,7 @@
 * New Board Member Onboarding - 1) Bylaws, 2) Important Dates, 3) Access to online accounts & PW MGMT, 4) Important Docs & their Locations,
 * Elect officers for 2017 (Matt Reily)
 
-## Comittee Updates
+## Committee Updates
 * Finance Review (Amanda) - 1) December '16 - January '17, 2) Jan - Dec 2016, 3) Upcoming 2017 expenses
 * Fundraising Swag order 
 * User Group Onboarding
