@@ -15,6 +15,7 @@
 * Sponsored Events Updates (Tulsa Rails Bridge, BSides OK)
 
 ## Proposals
+- 2017 Tech Hires Proposal - Jesse
 
 ## Other Updates
 * send all new board members to Oklahoma Center for Non Profits: Standards for Excellence class (Ryan)
