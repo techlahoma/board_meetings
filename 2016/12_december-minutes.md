@@ -10,6 +10,9 @@
 * Ryan
 * Amanda
 * Luke (Remote)
+* Jessica
+* Jon 
+* Ava
 
 
 ## Board Member Voting
