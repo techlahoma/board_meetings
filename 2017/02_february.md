@@ -1,4 +1,4 @@
-# February 14, 2017, 6:30pm - 7:30pm.
+# February 21, 2017, 6:30pm - 7:30pm.
 
 ## Open
 * Attendance
