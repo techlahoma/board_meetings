@@ -23,9 +23,16 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
 * Fundraising committee update
 
 ## Other Updates
+* RailsBridge Tulsa (it was a success) 
+* 200OK updates
+* BSidesOK is upcoming
+* OKC SQL's Intro PowerShell class is upcoming
+* Job Board Check-in
+* Donation Site Check-in
 
 ## Proposals
 * Point of Sale system  
  * $500 earmarked for purchasing a card reader for Techlahoma event space
+* Discussing potential solutions for the user group food ordering & reimbursement pipeline
 
 ## President's Report 
