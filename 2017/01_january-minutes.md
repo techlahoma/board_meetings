@@ -115,3 +115,8 @@ Merits, not achievements.
 Lucas: Make sure to protect IP for idea to avoid a company using the idea for profit.
 
 Meeting is adjourned at 8:03pm.
+## Officer Elections
+* Jesse Harlin - President. (BOK Spending Access)
+* Ryan Hoegg- VP. (Elected not to have BOK access)
+* Amanda Harlin - Treasurer (BOK Spending Access)
+* Matt Reily- Secretary (BOK Spending Access)
