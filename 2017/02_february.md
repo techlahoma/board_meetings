@@ -33,6 +33,5 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
 ## Proposals
 * Point of Sale system  
  * $500 earmarked for purchasing a card reader for Techlahoma event space
-* Discussing potential solutions for the user group food ordering & reimbursement pipeline
 
 ## President's Report 
