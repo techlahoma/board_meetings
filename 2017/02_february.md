@@ -37,6 +37,7 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
 * OKC SQL's Intro PowerShell class is upcoming
 * Job Board Check-in
 * Donation Site Check-in
+* Recap on Women in STEM meeting with Governor Fallin (Amanda)
 
 ## Proposals
 * Point of Sale system  
