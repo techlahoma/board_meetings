@@ -12,15 +12,15 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
 * President
 * Vice President
 * Treasurer
+ * Finance Review (Amanda) 
+ * 2016 financial statement  
+ * January Finance Review  
+ * February Mid-Month Finance Preview/Review  
 * Secretary
 
 ## Board Reports
 
 ## Committee Reports
-* Finance Review (Amanda) 
- * 2016 financial statement  
- * January Finance Review  
- * February Mid-Month Finance Preview/Review  
 * User Groups review (Jessica)
   * [Current outstanding UG applications](https://github.com/techlahoma/user-groups/labels/User%20Group%20Application)
   * We've almost run out of booking credits with SS46 for March 2017 and will start being charged for any additional events we schedule
