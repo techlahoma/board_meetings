@@ -52,8 +52,6 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
  * Amanda
 
 ## Proposals
-* Point of Sale system  
-  * $500 earmarked for purchasing a card reader for Techlahoma event space
 * Letter of Collaboration w/ Tulsa Regional STEM Aliiance
   * TRSA is working with multiple partners to submit an application for the NSF CSFORALL grant. We are working closely with Drew Robinson on an initiative she dubbed Code of Their Own which will measure the efficacy of rehearsal on CS PD for K-12 educators. If granted, the program would ultimately provide CS/CT training for teachers at 8 sites across the state. 
 Would Techlahoma be willing to write a letter of collaboration for our application offering to do the following:
@@ -61,5 +59,8 @@ Would Techlahoma be willing to write a letter of collaboration for our applicati
     2. Work with Code of Their Own leadership to create real world CS/CT exercises to incorporate in PD
     3. Collaborate with Code of Their Own leadership to secure externships for educators in CS/CT related fields.
    Our internal deadline for the application is 2/24. Thank you for considering this request!
-
+* Alcohol Policy for Techlahoma Events
+* Point of Sale system  
+  * $500 earmarked for purchasing a card reader for Techlahoma event space
+  
 ## President's Report 
