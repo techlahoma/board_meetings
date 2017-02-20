@@ -40,6 +40,15 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
 * Job Board Check-in
 * Donation Site Check-in
 * Recap on Women in STEM meeting with Governor Fallin (Amanda)
+* 2016 Officer + Director weekly volunteer hours are needed for taxes
+ * Matt - 4 hours
+ * Luke - 3.3 hours
+ * Lucas - 2 hours
+ * Devin
+ * Vance
+ * Ryan
+ * Jesse
+ * Amanda
 
 ## Proposals
 * Point of Sale system  
