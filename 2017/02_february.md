@@ -44,6 +44,7 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
  * Matt - 4 hours
  * Luke - 3.3 hours
  * Lucas - 2 hours
+ * Jeremy
  * Devin
  * Vance
  * Ryan
