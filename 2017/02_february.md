@@ -45,6 +45,7 @@ VOTE: [Slack Governance Policy](https://github.com/techlahoma/board_meetings/iss
 * Job Board Check-in
 * Donation Site Check-in
 * Recap on Women in STEM meeting with Governor Fallin (Amanda)
+* Event Space Update
 * 2016 Officer + Director weekly volunteer hours are needed for taxes
  * Matt - 4 hours
  * Luke - 3.3 hours
@@ -67,5 +68,8 @@ Would Techlahoma be willing to write a letter of collaboration for our applicati
 * Alcohol Policy for Techlahoma Events
 * Point of Sale system  
   * $500 earmarked for purchasing a card reader for Techlahoma event space
+* Techlahoma Hack Night
+  * First Tuesday of the month, in sync with Tulsa Web Dev's Hack night
+  * Little to no costs to run
   
 ## President's Report 
