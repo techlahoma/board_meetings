@@ -5,7 +5,7 @@
 * Approve previous minutes
 
 ## Action Items
-
+* Recognize Slack vote for Slack Governance Policy. 
 
 ## Officer Reports
 * President
