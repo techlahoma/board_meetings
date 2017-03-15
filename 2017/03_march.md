@@ -31,5 +31,6 @@
 ## Proposals
 * (Luke) Get a Techlahoma Credit Card and ditch debit cards, or use privacy.com ?
   * I thought I mis-placed my debit card, and I freaked out b/c a mis-placed debit card could potentially drain the Techlahoma bank account?
+* (Luke) Now that we have an official Slack policy, let's create a #jobs channel. I have multiple job-seekers asking where they can go to talk to people about potential jobs. A #jobs channel seems like an obvious place for that kind of chat.
   
 ## President's Report 
