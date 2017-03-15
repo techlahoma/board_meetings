@@ -21,7 +21,7 @@
     * Don't offer an explicit "join for X and you get Y" trade, but say that "members will recieve thank you gifts at the end of the year"
     * One time suggested donations of $64/128/256/512/1024/2048/4096/8192
     * Recurring monthly donations of $8/16/32/64/128/256/512/1024
-    * Techlahom swag store for immediate self-serve non-member-gift swag (CustomInk, CafePress, or similar)
+    * Techlahoma swag store for immediate self-serve non-member-gift swag (CustomInk, CafePress, or similar)
 
 ## Other Updates
 * BSidesOK is Thursday & Friday
