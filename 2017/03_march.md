@@ -29,6 +29,7 @@
     * [Outstanding feature requests](https://github.com/techlahoma/user-groups/issues?q=is%3Aissue+is%3Aopen+label%3A%22feature+request%22)
   * [10 applications minus 1 withdrawn](https://gist.github.com/seejessicacode/b9122dff8b2b381470aeac5a3771a272)
   * How many more user groups we can afford to support?
+    * [Estimated user group cost spreadsheet](https://drive.google.com/open?id=0B-2D-Mky2CA-alRXQ1VZOUh5Qkk)
     * If one or more, may we vote on which user group(s) to onboard?
 
 ## Other Updates
