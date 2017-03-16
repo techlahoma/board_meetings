@@ -22,6 +22,17 @@
     * One time suggested donations of $64/128/256/512/1024/2048/4096/8192
     * Recurring monthly donations of $8/16/32/64/128/256/512/1024
     * Techlahoma swag store for immediate self-serve non-member-gift swag (CustomInk, CafePress, or similar)
+* Usergroup committee update
+  * Current projects:
+    * (IN DEVELOPMENT) [User Group wiki](https://github.com/techlahoma/user-groups/wiki)
+    * New Zapier automations:
+      * Email message to UG applicants to acknowledge their application was received and provide them a link to the generated GH issue and encourage them to update their application as needed.
+      * (IN TESTING) Echo Zapier email alerts to #usergroup-committee channel so committee knows when something is off.
+      * (IN DEVELOPMENT) Post to #announcements channel when Techlahoma stream goes live
+    * Formed a GH team in the Techlahoma organization for user group leaders. Purpose is to give them power to assign tasks that they create and close them in [techlahoma/user-groups](https://github.com/techlahoma/user-groups/).
+  * [10 applications minus 1 withdrawn](https://gist.github.com/seejessicacode/b9122dff8b2b381470aeac5a3771a272)
+  * How many more user groups we can afford to support?
+    * If one or more, may we vote on which user group(s) to onboard?
 
 ## Other Updates
 * BSidesOK is Thursday & Friday
