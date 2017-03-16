@@ -5,7 +5,9 @@
 * Approve previous minutes
 
 ## Action Items
-* Recognize Slack vote for Slack Governance Policy. 
+* Recognize Slack vote for Slack Governance Policy.
+* Discuss and/or vote on an on-boarding document for new board members -
+  https://gist.github.com/jagthedrummer/9d6176ce9053b855a7b0d00eb0aaa61b
 
 ## Officer Reports
 * President
