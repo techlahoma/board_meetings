@@ -12,19 +12,20 @@
 ## Officer Reports
 * President
 * Vice President
-* Treasurer
+* Treasurer - no baby sitters the last few weeks, so no finance reports
 * Secretary
 
 ## Board Reports
 
 ## Committee Reports
-* Fundraising committee update
+* Fundraising committee update (Jeremy/Lucas/Kristin)
+  * Identify volunteers who will write and mail thank you notes, pick up the swag, ship the swag to donors, make sure donors receive their swag for the 2016 and 2017 shipments
   * Proposal for 2017 Membership Drive
     * Don't offer an explicit "join for X and you get Y" trade, but say that "members will recieve thank you gifts at the end of the year"
     * One time suggested donations of $64/128/256/512/1024/2048/4096/8192
     * Recurring monthly donations of $8/16/32/64/128/256/512/1024
     * Techlahoma swag store for immediate self-serve non-member-gift swag (CustomInk, CafePress, or similar)
-* Usergroup committee update
+* Usergroup committee update (Jessica)
   * Current projects:
     * (IN DEVELOPMENT) [User Group wiki](https://github.com/techlahoma/user-groups/wiki)
     * Formed a GH team in the Techlahoma organization for user group leaders. Purpose is to give them power to assign tasks that they create and close them in [techlahoma/user-groups](https://github.com/techlahoma/user-groups/).
@@ -33,7 +34,7 @@
   * How many more user groups we can afford to support?
     * [Estimated user group cost spreadsheet](https://drive.google.com/open?id=1UwrGItORfBMBSab9-Ep4zF3wnHw2y81Lx7zDXsoPjOs)
     * If one or more, may we vote on which user group(s) to onboard?
-* Space Committee
+* Space Committee (Jon)
   * Proposal to form temporary sub-comittee to create partnership agreement between community spaces such as 36N and SS46. This framework will be used in future spaces.
     * Needs board members whom are not directly involved with either 36N or SS46
     * Lock in pricing model for each location to donate to Techlahoma
