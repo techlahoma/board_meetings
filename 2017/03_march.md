@@ -45,7 +45,10 @@
 ## Other Updates
 * BSidesOK is Thursday & Friday
 * 200OK updates
-  * cfp.200ok.us
+  * [cfp.200ok.us](https://cfp.200ok.us/events/200ok) is up! Submit your talks!
+    * Also, help us promote it to past speakers' lists. (We're trying to promote our CFP to the CFP lists of Thunder Plains, DevFest KC, Northwest Arkansas TechFest, etc.)
+  * Also looking for sponsors; we have Mozilla + Robert Half confirmed, interest from Coding Dojo, Microsoft, Google, GitHub, Fabricut, TEKsystems. Would like a nice batch of local companies at any amount.
+    * Company ticket packs == local sponsorship?
 
 ## Proposals
 * (Luke) Get a Techlahoma Credit Card and ditch debit cards, or use privacy.com ?
