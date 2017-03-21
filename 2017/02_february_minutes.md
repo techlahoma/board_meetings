@@ -24,6 +24,9 @@ No objection.
 
 Approved policy is available here https://github.com/techlahoma/techlahoma/wiki/Slack-Governance-Policy.
 
+### After further review, we did not have a quorum. The slack vote will take place remotely at a later date.
+
+
 ## President's Report
 
 2017 Plan
@@ -43,8 +46,6 @@ Why does Techlahoma do this?
 Why articulates the problem Techlahoma is solving.
 
 Amanda talked to Mary Fallin.
-
-### After further review, we did not have a quorum. The slack vote will take place remotely at a later date.
 
 Sponsoring FreeCodeCamp? Motion to vote when we have quorum.
 
