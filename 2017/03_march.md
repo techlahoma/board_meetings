@@ -12,7 +12,7 @@
 ## Officer Reports
 * President
 * Vice President
-* Treasurer - no baby sitters the last few weeks, so no finance reports
+* Treasurer
 * Secretary
 
 ## Board Reports
