@@ -9,7 +9,7 @@
 ## Officer Reports
 * President
 * Vice President
-* Treasurer
+* Treasurer - [Finance Report](https://docs.google.com/presentation/d/1LO3OkofXvd7qWpbfH0ANNVMEwExWac2B1gG3aZGAU0Y/edit?usp=sharing)
 * Secretary
 
 ## Board Reports
