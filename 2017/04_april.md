@@ -16,9 +16,9 @@
 
 
 ## Committee Reports
-  - usergroup comittee. 
-       - Motion to divide group into 2 seperate groups: Usergroup-automation annd Usergroup-Outreach. 
-       - Call for volunteers to help with these seperate groups.
+  - Usergroup Comittee 
+       - Motion to divide group into 2 seperate groups: Usergroup-automation annd Usergroup-Outreach. (Jesse Harlin)
+         - Call for volunteers to help with these seperate groups.
 ## Other Updates
    - Brief Update: Outreach to OU, Francis Tuttle.
 
