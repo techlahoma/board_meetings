@@ -21,9 +21,9 @@
          - Call for volunteers to help with these seperate groups.
 ## Other Updates
    - Brief Update: Outreach to OU, Francis Tuttle.
-
+   - Vote: Free Code Camp OKC
 ## Proposals
   - Would like to discuss Marketing/Mass Media Exposure. Techlahoma could use some advertisement to increase exposure to the public and make the name more recognisable.
   
-  - Vote: Free Code Camp OKC
+  
 ## President's Report 
