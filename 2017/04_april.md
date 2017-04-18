@@ -1,4 +1,4 @@
-# April 18, 2017, 6:30pm - 7:30pm.
+* # April 18, 2017, 6:30pm - 7:30pm.
 
 ## Open
 * Attendance
@@ -19,5 +19,5 @@
 ## Other Updates
 
 ## Proposals
-
+Would like to discuss Marketing/Mass Media Exposure. Techlahoma could use some advertisement to increase exposure to the public and make the name more recognisable.
 ## President's Report 
