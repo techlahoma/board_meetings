@@ -14,10 +14,14 @@
 
 ## Board Reports
 
-## Committee Reports
 
+## Committee Reports
+  - usergroup comittee. 
+       - Motion to divide group into 2 seperate groups: Usergroup-automation annd Usergroup-Outreach. 
+       - Call for volunteers to help with these seperate groups.
 ## Other Updates
+   - Brief Update: Outreach to OU, Francis Tuttle.
 
 ## Proposals
-Would like to discuss Marketing/Mass Media Exposure. Techlahoma could use some advertisement to increase exposure to the public and make the name more recognisable.
+  - Would like to discuss Marketing/Mass Media Exposure. Techlahoma could use some advertisement to increase exposure to the public and make the name more recognisable.
 ## President's Report 
