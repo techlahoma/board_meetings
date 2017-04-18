@@ -24,4 +24,6 @@
 
 ## Proposals
   - Would like to discuss Marketing/Mass Media Exposure. Techlahoma could use some advertisement to increase exposure to the public and make the name more recognisable.
+  
+  - Vote: Free Code Camp OKC
 ## President's Report 
