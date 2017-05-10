@@ -18,6 +18,6 @@
 ## Committee Reports
 ## Other Updates
 ## Proposals
-  
+* Move board meeting invites from meetup (a public place) to our Techlahoma GSuite Calendar (a private place).
   
 ## President's Report 
