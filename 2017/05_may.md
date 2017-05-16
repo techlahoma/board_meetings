@@ -44,5 +44,6 @@
   * Draft 1 of a polcy taking into account the discussion thread is complete. Action: item read proposal.
 ## Proposals
 * Move board meeting invites from meetup (a public place) to our Techlahoma GSuite Calendar (a private place).
+* Implement a team-based password manager with roles to avoid Techlahoma passwords being locked to personal accounts.
   
 ## President's Report 
