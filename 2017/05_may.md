@@ -6,6 +6,7 @@
 
 ## Action Items
 * Approve signing LTFF grant for Code for Tulsa intern (see below)
+* When do we want to start the membership drive? https://techlahoma-donations-staging.herokuapp.com/membership
 
 ## Officer Reports
 * President
