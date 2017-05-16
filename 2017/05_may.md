@@ -45,5 +45,6 @@
 ## Proposals
 * Move board meeting invites from meetup (a public place) to our Techlahoma GSuite Calendar (a private place).
 * Implement a team-based password manager with roles to avoid Techlahoma passwords being locked to personal accounts.
+* Setup and use Statuscake.com for website, domain, & SSL monitoring
   
 ## President's Report 
