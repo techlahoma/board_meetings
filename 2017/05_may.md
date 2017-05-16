@@ -39,6 +39,7 @@
   * Use it to Track reciepts, documents. Good mobile integration.
   * Can integrate with Xero, not fully setup yet.
   * Ok to Share evernote folders with Ug's and Volunteers. Unidirectional backup to G.Drive.
+  * Action Item: Make your Evernote account. Give me the email you use. (does not have to be a Techlahoma email)
 ## Proposals
 * Move board meeting invites from meetup (a public place) to our Techlahoma GSuite Calendar (a private place).
   
