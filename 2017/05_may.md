@@ -30,6 +30,9 @@
   * LTFF approved our grant request, need me to sign it.
     * Grant is contingent on receiving matching OCAST grant, which we should know by June 10
     * Intern is an employee of TU; TU sends us a bill every 2-4 weeks
+* Vance: ThunderPlains 2017
+  * CFP Open
+  * 2017 site up: http://2017.thunderplainsconf.com/
 ## Proposals
 * Move board meeting invites from meetup (a public place) to our Techlahoma GSuite Calendar (a private place).
   
