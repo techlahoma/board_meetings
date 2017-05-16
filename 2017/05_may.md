@@ -34,6 +34,11 @@
 * Vance: ThunderPlains 2017
   * CFP Open
   * 2017 site up: http://2017.thunderplainsconf.com/
+* Jesse: Document and Reciept Management
+  * Evernote. Backs up to G.Drive automatically.
+  * Use it to Track reciepts, documents. Good mobile integration.
+  * Can integrate with Xero, not fully setup yet.
+  * Ok to Share evernote folders with Ug's and Volunteers. Unidirectional backup to G.Drive.
 ## Proposals
 * Move board meeting invites from meetup (a public place) to our Techlahoma GSuite Calendar (a private place).
   
