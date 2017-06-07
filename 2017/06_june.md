@@ -19,5 +19,6 @@
 ## Other Updates
 
 ## Proposals
+* Executive Director Search
   
 ## President's Report 
