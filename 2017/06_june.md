@@ -19,7 +19,9 @@
 * Stream Team - (5-6 minutes) Jonathan Yarbor
 
 ## Other Updates
-* Document management update (1 -2 minutes) Jesse Harlin
+* Document management update (1-2 minutes) Jesse Harlin
+* Password Management update (1-2 minutes) Jonathan Yarbor
+* Hack Night (1-2 minutes) Jonathan Yarbor
 
 ## Proposals
 * Executive Director Search
