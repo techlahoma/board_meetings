@@ -17,6 +17,7 @@
 ## Committee Reports
 
 ## Other Updates
+* Document management update (1 -2 minutes) Jesse Harlin
 
 ## Proposals
 * Executive Director Search
