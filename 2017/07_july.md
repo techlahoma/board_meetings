@@ -22,6 +22,6 @@
 * (Dustin) Executive Director Search
 
 ## Proposals
-* (Luke & Dustin) [CodeHub](https://docs.google.com/presentation/d/1K_XZu8EVX6OEdYU-HLR4Onrb3bVoaxc_SDxU1goFXWM/edit?ts=5967bed6#slide=id.p)
+* (Luke & Dustin) [CodeHub](https://docs.google.com/presentation/d/1K_XZu8EVX6OEdYU-HLR4Onrb3bVoaxc_SDxU1goFXWM/edit?usp=sharing)
   
 ## President's Report 
