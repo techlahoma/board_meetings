@@ -16,7 +16,7 @@
 ## Board Reports
 
 ## Committee Reports
-* Stream Team - (5-6 minutes) Jonathan Yarbor
+* Stream Team - (10 minutes) Jonathan Yarbor
 * User Group Committee
   * Vote on current user group applications (total 4) ([docs](https://drive.google.com/drive/folders/0B-2D-Mky2CA-Q3lrbWlodkoxSVE?usp=sharing))
   * Discuss making all UGs re-apply for Techlahoma sponsorship annually.
