@@ -26,5 +26,6 @@
 
 ## Proposals
 * (Luke & Dustin) [CodeHub](https://docs.google.com/presentation/d/1K_XZu8EVX6OEdYU-HLR4Onrb3bVoaxc_SDxU1goFXWM/edit?usp=sharing)
+* 1Password for team password management Jonathan Yarbor
   
 ## President's Report 
