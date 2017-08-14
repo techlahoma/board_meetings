@@ -20,6 +20,7 @@
 * (Dustin) Executive Director Search
 * ThunderPlains Update
 * 1Password for team password management Jonathan Yarbor
+* [Usergroup intro script](https://github.com/techlahoma/Event-Intro)
 
 ## Proposals
   
