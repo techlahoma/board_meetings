@@ -15,6 +15,12 @@
 ## Board Reports
 
 ## Committee Reports
+* Usergroup Committee
+  * [Current UG applications and expense outline](https://drive.google.com/open?id=0B-2D-Mky2CA-NkVNX21tS3U3R2c)
+  * VOTE: motion to sponsor the following UGs
+    * Code for Muskogee
+    * devopsokc
+    * SheCodesOKC
 
 ## Other Updates
 * (Dustin/Luke) Executive Director Search
