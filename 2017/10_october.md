@@ -9,7 +9,7 @@
 ## Officer Reports
 * President
 * Vice President
-* [Treasurer] (https://docs.google.com/presentation/d/1tXUxNuG2kRsf071LO_maeEOKuRagBvgdM8yLB_TfpkM/edit?usp=sharing)
+* [Treasurer](https://docs.google.com/presentation/d/1tXUxNuG2kRsf071LO_maeEOKuRagBvgdM8yLB_TfpkM/edit?usp=sharing)
 * Secretary
 
 ## Board Reports
