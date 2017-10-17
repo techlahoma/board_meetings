@@ -17,6 +17,7 @@
 ## Committee Reports
 
 ## Other Updates
+* [Django Girls Tulsa](http://djangogirls.org/tulsa/)
 
 ## Proposals
 
