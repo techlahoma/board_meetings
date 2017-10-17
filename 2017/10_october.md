@@ -18,6 +18,7 @@
 
 ## Other Updates
 * [Django Girls Tulsa](http://djangogirls.org/tulsa/)
+* 200 OK 2018 Date: May 18 @ Greadington space at Tulsa Library again
 
 ## Proposals
 * Luke wants to start a "committee roster" - is a Google Sheet best?
