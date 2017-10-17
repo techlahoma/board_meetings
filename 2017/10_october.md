@@ -20,5 +20,7 @@
 * [Django Girls Tulsa](http://djangogirls.org/tulsa/)
 
 ## Proposals
+* Luke wants to start a "committee roster" - is a Google Sheet best?
+* Approve [2018 Board Objectives](https://docs.google.com/document/d/1ejQZm4GHUaK-ThlTSaCfXmgWVvaFUxRazA3Sg_94uDY/edit#heading=h.o51sxz7r3v3n)
 
 ## President's Report 
