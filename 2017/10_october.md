@@ -34,6 +34,7 @@
 * Online streaming has gone great. Our total YouTube views are over 30,000 and Twitch over 4,000. Can we recognize the Stream Team at ThunderPlains with some swag or something?
 * User Group Hero update - thanks TierPoint!
 * We need a list of awesome community volunteers to send thank-you's to. (e.g. Django Girls helpers, etc)
+* Ava met with Rep. Forrest Bennet. He'll be helping us with the Techlahoma license plate in 2018.
 
 ## Proposals
 * Luke wants to start a "committee roster" - is a Google Sheet best?
