@@ -31,6 +31,7 @@
 ## Other Updates
 * [Django Girls Tulsa](http://djangogirls.org/tulsa/)
 * 200 OK 2018 Date: May 18 @ Greadington space at Tulsa Library again
+* Online streaming has gone great. Our total YouTube views are over 30,000 and Twitch over 4,000. Can we recognize the Stream Team at ThunderPlains with some swag or something?
 
 ## Proposals
 * Luke wants to start a "committee roster" - is a Google Sheet best?
