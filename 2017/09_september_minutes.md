@@ -73,3 +73,9 @@ Need to send the user group script to user group leaders so they can read it at 
 Find a caterer for user groups to automate food ordering.
 
 We need to get better about asking the community for help.
+
+### Innovate Oklahoma Event
+
+Lucas: Asked the board to participate in the announcement of a new project that StarSpace46, several Techlahoma members, and the Oklahoman government is announcing.
+
+Jesse: This event represents the core values of furthering Oklahoma's grassroot technology community.
