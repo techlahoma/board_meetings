@@ -36,6 +36,7 @@
 * Ava met with Rep. Forrest Bennet. He'll be helping us with the Techlahoma license plate in 2018.
 * User Group committee updates
 * We need a list of awesome community volunteers to send thank-you's to. (e.g. Django Girls helpers, etc)
+* Stream Team Updates - we need more volunteers to clip twitch videos and upload them to youtube. (Jesse wrote a doc on how to do this.)
 
 ## Proposals
 * Luke wants to start a "committee roster" - is a Google Sheet best?
