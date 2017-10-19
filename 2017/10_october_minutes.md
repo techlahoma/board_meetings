@@ -2,7 +2,6 @@
 
 ## Attendance
 * Jesse
-* Jessica (remote)
 * Devin
 * Matt
 * Vance
