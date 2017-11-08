@@ -16,6 +16,7 @@
 ## Committee Reports
 * Fundraising Update
 * ThunderPlains Recap
+* Voting Committee
 
 ### Membership Committee
 
