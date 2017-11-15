@@ -17,11 +17,13 @@
 * Fundraising Update
 * ThunderPlains Recap
 * Voting Committee
+* Stream Team
 
 ### Membership Committee
 
 ## Other Updates
 
 ## Proposals
+ - Cloudflare Sponsorship (Jon)
 
 ## President's Report 
