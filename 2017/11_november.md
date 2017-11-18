@@ -18,6 +18,7 @@
 * ThunderPlains Recap
 * Stream Team
 * Voting Committee
+  * [2018 Techlahoma Leadership Nominees](https://docs.google.com/spreadsheets/d/16npdEpYtj61tsBG2gvzhAhuNkSHvE--OhiGouOotSB0/edit#gid=0)
 
 ### Membership Committee
 
