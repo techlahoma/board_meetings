@@ -15,6 +15,7 @@
 
 ## Committee Reports
 ### Fundraising Committee
+### Corporate Sponsorship Committee
 ### ThunderPlains Recap
 ### Stream Team
 ### Voting Committee
