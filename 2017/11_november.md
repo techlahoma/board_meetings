@@ -14,15 +14,17 @@
 ## Board Reports
 
 ## Committee Reports
-* Fundraising Update
-* ThunderPlains Recap
-* Stream Team
-* Voting Committee
+### Fundraising Committee
+### ThunderPlains Recap
+### Stream Team
+### Voting Committee
   * [2018 Techlahoma Leadership Nominees](https://docs.google.com/spreadsheets/d/16npdEpYtj61tsBG2gvzhAhuNkSHvE--OhiGouOotSB0/edit#gid=0)
   * Schedule
     * Nov 28: Final list of candidates
     * Dec 19: Voting for 2018 board members
-
+  * Still need to finalize committee roster info so we can:
+    * Tell new board members which committees need help
+    * Actively recruit more committee members
 ### Membership Committee
 
 ## Other Updates
