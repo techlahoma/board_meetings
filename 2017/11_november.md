@@ -2,7 +2,7 @@
 
 ## Open
 * Attendance
-* Approve previous minutes
+* Approve [previous minutes](https://github.com/techlahoma/board_meetings/blob/master/2017/10_october_minutes.md)
 
 ## Action Items
 
