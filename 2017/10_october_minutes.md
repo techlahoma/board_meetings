@@ -49,7 +49,7 @@ Ava met with Representative Forrest Bennett to show starspace and talk about the
 
 There has been talk about reviewing user groups once a year. Jessica has been working on a new application.
 
-Amanda: before the end of the year, I would like to send out more thank yous to donors and volunteers.
+Amanda: before the end of the year, I would like Techlahoma to send out more thank yous to donors and volunteers.
 
 Thank the stream team at thunder plains.
 
