@@ -41,7 +41,11 @@
 - Reminder that all board members must donate $1 or more to remain on the board. If you do not donate in 2017 you forfeit your seat as a director or officer.
 
 ## Proposals
- - Cloudflare Sponsorship (Jon)
+ - Finalize Cloudflare Sponsorship (Jon)
+   - Cloudflare engineer meetup presentation tour
+ - Potential Google Sponsorship (Jon)
+   - Jamboard meetup opportunity
+   - Google engineer meetup presentation tour
  - Absorb [Learn to Code](http://learntocodeok.org/) into a new "Workshops" program (Luke, Tatiana, Ryan, Tommy)
    - Already proposed and approved by LTC board
    - Refactors Learn to Code into an ad-hoc workshop program to take the non-profit management stress off Tatiana
