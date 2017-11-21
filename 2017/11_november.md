@@ -8,16 +8,24 @@
 
 ## Officer Reports
 * President
+  * Bylaws 
+  * Election 
+  * ThunderPlains
+  * Money + Giving Season + Fundraising 
 * Vice President
 * Treasurer
 
 ## Board Reports
-
+### Bylaws
 ## Committee Reports
-### Fundraising Committee
-### Corporate Sponsorship Committee
-### ThunderPlains Recap
-### Stream Team
+### ThunderPlains Recap - Jesse
+### Fundraising 2017
+  * Money
+  * Fundraising
+  * Runway
+  * Corporate Sponsorship Committee
+  * Fundraising Committee
+### Stream Team Update (branded channel, backlog)
 ### Voting Committee
   * [2018 Techlahoma Leadership Nominees](https://docs.google.com/spreadsheets/d/16npdEpYtj61tsBG2gvzhAhuNkSHvE--OhiGouOotSB0/edit#gid=0)
   * Schedule
