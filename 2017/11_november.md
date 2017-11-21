@@ -34,6 +34,7 @@
   * Still need to finalize committee roster info so we can:
     * Tell new board members which committees need help
     * Actively recruit more committee members
+### Board Self Assessment
 ### Membership Committee
 
 ## Other Updates
