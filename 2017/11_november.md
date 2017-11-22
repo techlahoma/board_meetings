@@ -13,7 +13,7 @@
   * ThunderPlains
   * Money + Giving Season + Fundraising 
 * Vice President
-* Treasurer
+* [Treasurer](https://docs.google.com/presentation/d/1yZzL2kdKKTIIums1LT4l3UkmvISwm6v_lHLbm8_VjGk/edit?usp=sharing)
 
 ## Board Reports
 ### Bylaws
