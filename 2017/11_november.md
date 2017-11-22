@@ -35,6 +35,7 @@
     * Tell new board members which committees need help
     * Actively recruit more committee members
 ### Board Self Assessment
+  * All directors and officers will [fill this out.](https://goo.gl/forms/LEWdII3wyrvpcdaQ2) You can edit your form after submitting.
 ### Membership Committee
 
 ## Other Updates
