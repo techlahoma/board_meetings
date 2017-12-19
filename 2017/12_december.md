@@ -5,6 +5,7 @@
 * Approve previous minutes
 
 ## Action Items
+* User Group Reimbursement proposal vote (Jesse)
 
 ## Officer Reports
 * President
