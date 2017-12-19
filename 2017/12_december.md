@@ -30,5 +30,6 @@
 ## Other Updates
 
 - 2018 Involvement (Jon)
+- Executive Director funding/search/recruitment is on hold
 
 ## President's Report 
