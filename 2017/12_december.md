@@ -31,5 +31,7 @@
 
 - 2018 Involvement (Jon)
 - Executive Director funding/search/recruitment is on hold
+- 200 OK 2018 is May 18
+  - Mozilla & Microsoft already confirmed sponsorship
 
 ## President's Report 
