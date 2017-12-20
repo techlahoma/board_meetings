@@ -4,9 +4,6 @@
 * Attendance
 * Approve previous minutes
 
-## Action Items
-* User Group Reimbursement proposal vote (Jesse)
-
 ## Officer Reports
 * President
 * Vice President
@@ -19,8 +16,9 @@
 ### Membership Committee
 
 ## Action Items
- - Officer Nominations
- - Board Nominations
+* User Group Reimbursement proposal vote (Jesse)
+* Officer Nominations
+* Board Nominations
 
 ## Proposals
 - Create grant application for [Google's Impact Challenge for OKlahoma City](https://impactchallenge.withgoogle.com/oklahomacity2017) ([doc](https://docs.google.com/document/d/10LcRbuXCxchVlZl-udik_11j_Im7kg29jRICn3eZ14g/edit))
