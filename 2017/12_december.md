@@ -29,5 +29,6 @@
 - Executive Director funding/search/recruitment is on hold
 - 200 OK 2018 is May 18
   - Mozilla & Microsoft already confirmed sponsorship
+- Onboarding documents [here](https://docs.google.com/presentation/d/1MqQW0zm_HdxnYHmLV_27wTXmuTKchL3C9IPiUmLsgiI/edit?usp=sharing)
 
 ## President's Report 
