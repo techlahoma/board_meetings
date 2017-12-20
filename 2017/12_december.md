@@ -15,9 +15,7 @@
 ## Board Reports
 
 ## Committee Reports
-
- - Sponsorship Committee
-
+### Sponsorship Committee
 ### Membership Committee
 
 ## Action Items
