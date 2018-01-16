@@ -26,5 +26,5 @@
 - Implement trial of https://techhire.careers in April/May (DC)
 
 ## Other Updates
-
+- Schedule time with Natacha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap.
 ## President's Report 
