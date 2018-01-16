@@ -25,6 +25,7 @@
 
 ## Proposals
 - Implement trial of https://techhire.careers in April/May (DC)
+- [Board retreat for strategic planning](https://docs.google.com/document/d/1SmGH7bqBPcwpEz3zCQ-Lwg7bOhPA8i0iWtp1O-to0vE/edit?usp=sharing) with Oklahoma Center for Nonprofits
 
 ## Other Updates
 - Schedule time with Natacha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap.
