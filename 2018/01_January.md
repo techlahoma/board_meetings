@@ -18,6 +18,7 @@
 - Vote to add and remove Bank Signers (documentation needed for bank) (DC)
 
 ## Proposals
+- Implement trial of https://techhire.careers in April/May (DC)
 
 ## Other Updates
 
