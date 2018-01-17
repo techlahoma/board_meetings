@@ -1,4 +1,4 @@
-# October Minutes
+# December Minutes
 
 ## Attendance
 * Jesse
