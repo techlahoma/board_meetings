@@ -7,7 +7,7 @@
 ## Officer Reports
 * President
 * Vice President
-* Treasurer
+* [Treasurer](https://docs.google.com/presentation/d/1CKou2l7KkcHzAqgTLBUs-Yt1HD4ig_i_b6SmtBBUppY/edit?usp=sharing)
 
 ## Board Reports
 - Board onboarding (first)
