@@ -28,6 +28,6 @@
 - [Board retreat for strategic planning](https://docs.google.com/document/d/1SmGH7bqBPcwpEz3zCQ-Lwg7bOhPA8i0iWtp1O-to0vE/edit?usp=sharing) with Oklahoma Center for Nonprofits
 
 ## Other Updates
-- Schedule time with Natacha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap.
+- Schedule time with Natasha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap. (She's in slack, btw)
 - Techlahoma License Plate & fundraising opportunity 
 ## President's Report 
