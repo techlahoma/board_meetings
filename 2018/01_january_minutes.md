@@ -106,7 +106,7 @@ The vote passes with Carmen against.
 ## Other Updates
 
 ### American Fidelity
-- Schedule time with Natacha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap.
+- Schedule time with Natasha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap.
 
 ### License Plate
 Going into legislation this Friday. Techlahoma will receive $20 per plate.
@@ -123,4 +123,4 @@ Motion passes without objection.
 
 Committee spreadsheet.
 
-Meeting is adjurned at 9:16pm.
+Meeting is adjourned at 9:16pm.
