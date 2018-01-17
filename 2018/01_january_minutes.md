@@ -32,6 +32,9 @@ Kendall: Two trademarks might not be federal.
 
 We should look into that.
 
+Amanda: (They are registered in OK, via the Secretary of State website. The links in the onboarding guide will direct you to the OK SoS documents.)
+
+
 ## Elections
 
 President is the only position we have to vote for. Both nominees for president are also nominated for vice president. Treasurer and Secretary are both running unopposed.
