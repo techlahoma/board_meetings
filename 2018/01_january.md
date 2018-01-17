@@ -29,4 +29,5 @@
 
 ## Other Updates
 - Schedule time with Natacha Martin, American Fidelity wants to talk with leadership about corportate sponsorship, asap.
+- Techlahoma License Plate & fundraising opportunity 
 ## President's Report 
