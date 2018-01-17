@@ -4,7 +4,7 @@
 * Jessica
 * Ava
 * Devin
-* Kim
+* Kimberly
 * Matthew
 * Vance (remote)
 * Luke (remote)
