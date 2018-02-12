@@ -20,6 +20,7 @@
 
 
 ## Proposals
+- [Board retreat for strategic planning](https://docs.google.com/document/d/1SmGH7bqBPcwpEz3zCQ-Lwg7bOhPA8i0iWtp1O-to0vE/edit?usp=sharing) 
 
 ## Other Updates
 
