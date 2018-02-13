@@ -28,5 +28,12 @@
 
 ## Other Updates
 
+* 200 OK
+  * 80 proposals submitted from 26 different cities (including Portugal, Guatemala, Canada, and Australia!)
+    * Final speakers decided by Feb 20
+    * Confirm speakers by Mar 2
+  * Tickets go on sale Mar 5
+  * sponsorships are selling well (Our biggest sponsors may be Oracle & Microsoft ... web development in 2018?)
+    * If you know an Oklahoma company who may want to sponsor, send them our way!
 
 ## President's Report 
