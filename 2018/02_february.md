@@ -21,6 +21,12 @@
 
 
 ## Proposals
+- Filling the Treasurer officer position (with no qualified board members willing to serve, we must decide how to fill this needed office).
+  - Confirm again whether or not a qualified boardmember is willing to serve.
+  - Some Possible options to consider:
+    - Create a finance committee, then appoint this committee to serve as the Treasurer officer. (Finance committee probably a good idea regardless of this approach)
+    - Change the Policies surrounding Treasurer officer qualifications to allow new board member to serve as Treasurer.
+    - Hire/secure bookkeeper to fulfil key financial portions of duties.
 - [Board retreat for strategic planning](https://docs.google.com/document/d/1SmGH7bqBPcwpEz3zCQ-Lwg7bOhPA8i0iWtp1O-to0vE/edit?usp=sharing) 
 - Discuss action plan for committee goals
 - Creating Women Who Code Tulsa as a workshop since it has interested funders.
