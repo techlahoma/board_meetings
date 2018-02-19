@@ -16,6 +16,7 @@
 - Sponsorship Comittee
 - Google Grant OKC
 - Workshop committee update
+- OKC Broadcasting committee update
 
 ## Action Items
 
@@ -31,6 +32,7 @@
 - Discuss action plan for committee goals
 - Creating Women Who Code Tulsa as a workshop since it has interested funders.
 - Should we participate (sponsorship, booth, official Techlahoma judge/mentor) in OU's Hacklahoma March 3-4, 2018.  [Site](https://hacklahoma.org/). Also, should we investigate further/future partnerships with this org?
+- Improve power setup for A/V equipment at StarSpace46. Too many devices are plugged into a single outlet, risking fire or electrical damage. We need a better circuit (quotes for $300-350) and a surge protector (ranging from $120-170).
 
 ## Other Updates
 
