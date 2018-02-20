@@ -17,6 +17,7 @@
 - Google Grant OKC
 - Workshop committee update
 - OKC Broadcasting committee update
+- [UG committee activity report](https://docs.google.com/document/d/1cLqGgixXaKip_jE4M9kTNpVxqCr54P4Z_bc-MA_gdUw/edit?usp=sharing) (document to review at everyone's convenience)
 
 ## Action Items
 - Vote: Amend bylaws to allow any board member to serve as Treasurer (requires 75% vote)
