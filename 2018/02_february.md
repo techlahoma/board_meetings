@@ -26,6 +26,7 @@
   - OR
   - Vote for another current board member to fill the Treasurer role (Kendall Werts, Carmen Long, others?)
 - Vote: Nominees to fill the empty board seat (depending on outcome of Treasurer vote)
+- Vote: Schedule board strategic retreat after we get at least $10k in NEW corporate sponsorships
 
 
 ## Proposals
