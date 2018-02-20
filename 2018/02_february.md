@@ -19,6 +19,12 @@
 - OKC Broadcasting committee update
 
 ## Action Items
+- Vote: Amend bylaws to allow any board member to serve as Treasurer (requires 75% vote)
+- To fill the empty Treasurer role:
+  - Vote: Hope Briggs (bookkeeper who offices at StarSpace46 and keeps books for SS46 and many other companies) to both fill the empty board seat AND the Treasurer role
+  - OR
+  - Vote for another current board member to fill the Treasurer role (Kendall Werts, Carmen Long, others?)
+- Vote: Nominees to fill the empty board seat (depending on outcome of Treasurer vote)
 
 
 ## Proposals
