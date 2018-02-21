@@ -1,4 +1,4 @@
-# January Minutes
+# February Minutes
 
 ## Attendance
 * Jessica Campbell
