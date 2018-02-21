@@ -44,7 +44,7 @@ Provided a document to read at everyone's convenience https://docs.google.com/do
 
 ## Action Items
 
-### Vote to amend the bylaws.
+### Vote to amend the bylaw policies.
 
 Vote to amend the Techlahoma policies to allow anyone serving on the Techlahoma board to serve in the office of Treasurer or Secretary, regardless of term length.
 
