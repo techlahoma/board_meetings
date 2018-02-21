@@ -20,22 +20,20 @@
 - [UG committee activity report](https://docs.google.com/document/d/1cLqGgixXaKip_jE4M9kTNpVxqCr54P4Z_bc-MA_gdUw/edit?usp=sharing) (document to review at everyone's convenience)
 
 ## Action Items
-- Vote: Amend bylaws to allow any board member to serve as Treasurer (requires 75% vote)
 - To fill the empty Treasurer role:
-  - Vote: Hope Briggs (bookkeeper who offices at StarSpace46 and keeps books for SS46 and many other companies) to both fill the empty board seat AND the Treasurer role
-  - OR
-  - Vote for another current board member to fill the Treasurer role (Kendall Werts, Carmen Long, others?)
+  - with no qualified board members willing to serve, we must decide how to fill this needed office.
+  - Confirm again whether or not a qualified boardmember is willing to serve.
+  - If no, Our Options
+    - Vote: Hope Briggs (bookkeeper who offices at StarSpace46 and keeps books for SS46 and many other companies) to both fill the empty board seat AND the Treasurer role.  WOULD REQUIRE BYLAW CHANGE)
+    - Vote for another current board member to fill the Treasurer role (Kendall Werts, Carmen Long, others?  If not qualified, would require bylaw update)
+    - Vote: Create a finance committee, then appoint this committee to serve as the Treasurer officer. (Finance committee probably a good idea regardless of this approach)
+    - Vote: Hire/secure bookkeeper to fulfil key financial portions of duties.
+- Vote: Amend bylaws to allow any board member to serve as Treasurer (requires 75% vote)
 - Vote: Nominees to fill the empty board seat (depending on outcome of Treasurer vote)
 - Vote: Schedule board strategic retreat after we get at least $10k in NEW corporate sponsorships
 
 
 ## Proposals
-- Filling the Treasurer officer position (with no qualified board members willing to serve, we must decide how to fill this needed office).
-  - Confirm again whether or not a qualified boardmember is willing to serve.
-  - Some Possible options to consider:
-    - Create a finance committee, then appoint this committee to serve as the Treasurer officer. (Finance committee probably a good idea regardless of this approach)
-    - Change the Policies surrounding Treasurer officer qualifications to allow new board member to serve as Treasurer.
-    - Hire/secure bookkeeper to fulfil key financial portions of duties.
 - [Board retreat for strategic planning](https://docs.google.com/document/d/1SmGH7bqBPcwpEz3zCQ-Lwg7bOhPA8i0iWtp1O-to0vE/edit?usp=sharing) 
 - Discuss action plan for committee goals
 - Creating Women Who Code Tulsa as a workshop since it has interested funders.
