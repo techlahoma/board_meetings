@@ -1,4 +1,4 @@
-# February
+# February 20, 2018 7:00 pm
 
 ## Open
 * Attendance
