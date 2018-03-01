@@ -15,8 +15,6 @@
 ## Committee Reports
 
 ## Action Items
-- Vote: Change in CoC. [New Policy](https://docs.google.com/document/d/1FGxLEkK4IN4ibet9RS8g4jzRMojgRFYogDYzlCvSyPA/edit)
-
 
 ## Proposals
 
