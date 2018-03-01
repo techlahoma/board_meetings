@@ -9,7 +9,6 @@
 * Luke Crouch
 * Kendall Werts
 * Carlos Moreno
-* Tatiana Rozzell
 * Carmen Bourlon
 * Lucas Watson
 * Tasha Kay Cary
