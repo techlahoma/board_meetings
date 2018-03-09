@@ -17,6 +17,7 @@
 ## Action Items
 
 ## Proposals
+* [Join the EFA](https://supporters.eff.org/join-efa)
 
 ## Other Updates
 * 200 OK
