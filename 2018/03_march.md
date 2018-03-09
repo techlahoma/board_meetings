@@ -6,7 +6,7 @@
 
 ## Officer Reports
 * President
-* Vice President
+* Vice President [Impact Report January - March 2018](https://docs.google.com/presentation/d/1_nhWVkMeR6LM9WPeDyOUAISOa_th_Nr8XJ2Tfk6WFzc/edit?usp=sharing)
 * Treasurer
 
 ## Board Reports
