@@ -10,7 +10,7 @@
 * Treasurer
 
 ## Board Reports
-
+* Update on Board Retreat (expectations, how we should prepare, basic logistics)
 
 ## Committee Reports
 
