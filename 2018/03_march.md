@@ -15,6 +15,7 @@
 ## Committee Reports
 
 * Workshop committee report
+* Usergroup committee report: [Help Wanted Board](https://techlahoma.github.io/help-wanted/) -- Carmen
 
 ## Action Items
 * Treasurer Vote (need nominees listed here)
