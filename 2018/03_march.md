@@ -14,6 +14,8 @@
 
 ## Committee Reports
 
+* Workshop committee report
+
 ## Action Items
 * Treasurer Vote (need nominees listed here)
 * Board Member vacancy vote (need nominees listed here)
