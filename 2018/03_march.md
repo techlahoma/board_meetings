@@ -18,7 +18,7 @@
 
 ## Action Items
 * Treasurer Vote (need nominees listed here)
-* Board Member vacancy vote (need nominees listed here)
+* Board Member vacancy vote (update existing private spreadsheet)
 
 ## Proposals
 * [Join the EFA](https://supporters.eff.org/join-efa)
