@@ -26,5 +26,6 @@
 
 ## Other Updates
 * 200 OK
+* Slack is closing IRC gateways; do we want to open another channel for non-Slack folks to gateway ?
 
 ## President's Report 
