@@ -21,6 +21,7 @@
 
 ## Action Items
 * Treasurer Vote (need nominees listed here)
+  * Jessica Campbell
 * Board Member vacancy vote (update existing private spreadsheet)
 
 ## Proposals
