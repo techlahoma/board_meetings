@@ -22,6 +22,7 @@
 ## Action Items
 * Treasurer Vote (need nominees listed here)
   * Jessica Campbell
+  * Kendall Werts
 * Board Member vacancy vote (update existing private spreadsheet)
 
 ## Proposals
