@@ -10,7 +10,7 @@
 * Treasurer
 
 ## Board Reports
-* Update on Board Retreat (expectations, how we should prepare, basic logistics)
+* Update on Board Retreat (expectations, how we should prepare, basic logistics) -- Kendall
 
 ## Committee Reports
 
@@ -20,16 +20,16 @@
 * Sponsorship committee report -- Chair
 
 ## Action Items
-* Treasurer Vote (need nominees listed here)
+* Treasurer Vote (need nominees listed here) -- Vance
   * Jessica Campbell
   * Kendall Werts
-* Board Member vacancy vote (update existing private spreadsheet)
+* Board Member vacancy vote (update existing private spreadsheet) -- Vance
 
 ## Proposals
-* [Join the EFA](https://supporters.eff.org/join-efa)
+* [Join the EFA](https://supporters.eff.org/join-efa) -- Luke
 
 ## Other Updates
-* 200 OK
-* Slack is closing IRC gateways; do we want to open another channel for non-Slack folks to gateway ?
+* 200 OK -- Luke
+* Slack is closing IRC gateways; do we want to open another channel for non-Slack folks to gateway? -- Luke
 
 ## President's Report 
