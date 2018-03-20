@@ -19,7 +19,6 @@
 * Fundraising committee report -- Chair
 * Sponsorship committee report -- Chair
 * Conduct Committee -- Chair
-* Broadasting Committee -- Ava
 
 ## Action Items
 * Treasurer Vote (need nominees listed here) -- Vance
