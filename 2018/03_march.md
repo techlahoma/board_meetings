@@ -24,6 +24,7 @@
 * Treasurer Vote (need nominees listed here) -- Vance
   * Jessica Campbell
   * Kendall Werts
+  * Ava Lynn
 * Board Member vacancy vote (update existing private spreadsheet) -- Vance
 
 ## Proposals
