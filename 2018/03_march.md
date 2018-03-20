@@ -16,13 +16,13 @@
 
 * Workshop committee report
 * Usergroup committee report: [Help Wanted Board](https://techlahoma.github.io/help-wanted/) -- Carmen
+  * [Activity report](https://docs.google.com/document/d/1e_7e1hzVxz7UEUix-8WCqAhVjw0NaydUgE89l7UtOBs/edit?usp=sharing)
 * Fundraising committee report -- Chair
 * Sponsorship committee report -- Chair
 * Conduct Committee -- Chair
 
 ## Action Items
 * Treasurer Vote (need nominees listed here) -- Vance
-  * Jessica Campbell
   * Kendall Werts
   * Ava Lynn
 * Board Member vacancy vote (update existing private spreadsheet) -- Vance
