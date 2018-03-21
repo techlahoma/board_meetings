@@ -32,8 +32,8 @@
 
 ## Other Updates
 * 200 OK -- Luke
-* Code for Tulsa Hack Day April 28th. We will be working on the satewide Summer Meals Map. RSVP [here](https://www.eventbrite.com/e/summer-meals-sites-map-launch-tickets-44238408270) if you're interested in attending. Great collabration with Codesy.io, Hunger Free OK, the state dept. of Ed., and hopefully some community partners. -- Carlos
 * Board Retreat is Saturday April 14th. If you are attending, please RSVP [here](https://www.meetup.com/Techlahoma-Board/events/248480484/) -- Carlos
+* Code for Tulsa Hack Day April 28th. We will be working on the satewide Summer Meals Map. RSVP [here](https://www.eventbrite.com/e/summer-meals-sites-map-launch-tickets-44238408270) if you're interested in attending. Great collabration with Codesy.io, Hunger Free OK, the state dept. of Ed., and hopefully some community partners. -- Carlos
 * Slack is closing IRC gateways; do we want to open another channel for non-Slack folks to gateway? -- Luke
 
 ## President's Report 
