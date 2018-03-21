@@ -33,6 +33,7 @@
 ## Other Updates
 * 200 OK -- Luke
 * ...do we have any updates on the google grant?
+* Board Retreat is Saturday April 14th. If you are attending, please RSVP [here](https://www.meetup.com/Techlahoma-Board/events/248480484/) -- Carlos
 * Slack is closing IRC gateways; do we want to open another channel for non-Slack folks to gateway? -- Luke
 
 ## President's Report 
