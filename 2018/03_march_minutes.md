@@ -15,7 +15,7 @@
 * Kendall Werts
 * Tatiana Rozzell
 
-January minutes are approved without objection.
+February minutes are approved without objection.
 
 ## Officer Reports
 
