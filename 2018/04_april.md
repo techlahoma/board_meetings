@@ -18,6 +18,7 @@
 * Fundraising committee -- Chair
 * Sponsorship committee -- Chair
 * Conduct Committee -- Chair
+* OKC Broadcasting Committee -- Chair
 
 ## Action Items
 
