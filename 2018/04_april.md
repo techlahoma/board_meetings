@@ -14,7 +14,7 @@
 ## Committee Reports
 
 * Workshop committee -- Chair
-* Usergroup committee -- Chair
+* Usergroup committee -- Carmen
 * Fundraising committee -- Chair
 * Sponsorship committee -- Chair
 * Conduct Committee -- Chair
