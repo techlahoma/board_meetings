@@ -26,5 +26,6 @@
 
 ## Other Updates
 * 200 OK -- Luke
+* [OKInnovate](https://www.okinnovate.com/) -- Carmen
 
 ## President's Report 
