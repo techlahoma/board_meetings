@@ -21,7 +21,7 @@
 * Fundraising committee -- Chair
 * Sponsorship committee -- Chair
 * OKC Broadcasting Committee -- Kimberly
-    - [UG Report](./committee_reports/04_broadcasting.md)
+    - [Broadcasting Report](./committee_reports/04_broadcasting.md)
 
 ## Action Items
 
