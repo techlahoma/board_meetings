@@ -19,6 +19,10 @@
 * Usergroup committee -- Carmen
     - [UG Report](./committee_reports/04_usergroup.md)
 * Fundraising committee -- Chair
+    - Membership -- Vance
+    - Corporate -- Lucas
+    - Grants -- Tasha K / Carlos
+* Merchanidse -- Ava
 * Sponsorship committee -- Chair
 * OKC Broadcasting Committee -- Kimberly
     - [Broadcasting Report](./committee_reports/04_broadcasting.md)
