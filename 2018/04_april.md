@@ -8,12 +8,14 @@
 * President
 * Vice President
 * Treasurer
+    - Review of Financial statements
+    - Discussion of expense reductions
 
 ## Board Reports
 
 ## Committee Reports
 
-* Workshop committee -- Chair
+* Workshop committee -- Kendall
 * Usergroup committee -- Carmen
     - [UG Report](./committee_reports/04_usergroup.md)
 * Fundraising committee -- Chair
