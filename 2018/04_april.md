@@ -19,6 +19,7 @@
 * Conferences
     - 200OK -- Luke
     - ThunderPlains -- Vance
+* Civic Tech -- Carlos
 * Workshop committee -- Kendall
 * Usergroup committee -- Carmen
     - [UG Report](./committee_reports/04_usergroup.md)
