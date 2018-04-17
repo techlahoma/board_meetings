@@ -1,7 +1,7 @@
 # User Group News:
 
   - OKC PHP:  
-    Moving to quarterly meetings after dwindling participation. Main organizer is not moving after all, but has had trouble finding speakers and volunteers.
+    Moving to quarterly meetings after dwindling participation. Main organizer is not moving after all, but has had trouble finding speakers, volunteers, and attendees. The group does not have co-organizers who attend meetups or help the organizer. The last meetup was just the head organizer (who has been giving every talk) and the A/V volunteer. 
     
   - OKC Ruby:  
     Considering shutting down the group. Kimberly and Carmen are in communication with Jeremy to see what they decide. It's been suggested that they could join Hack Night.
