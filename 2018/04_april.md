@@ -15,6 +15,7 @@
 
 * Workshop committee -- Chair
 * Usergroup committee -- Carmen
+    - [UG Report](./committee_reports/04_usergroup.md)
 * Fundraising committee -- Chair
 * Sponsorship committee -- Chair
 * OKC Broadcasting Committee -- Chair
