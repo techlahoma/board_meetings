@@ -15,6 +15,10 @@
 
 ## Committee Reports
 
+* Conduct -- Ava
+* Conferences
+    - 200OK -- Luke
+    - ThunderPlains -- Vance
 * Workshop committee -- Kendall
 * Usergroup committee -- Carmen
     - [UG Report](./committee_reports/04_usergroup.md)
