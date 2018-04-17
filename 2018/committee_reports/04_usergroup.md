@@ -13,6 +13,10 @@
 
   - Trouble finding speakers  
     A consistent refrain we are hearing from UG Leads is how they are having trouble finding speakers. Kimberly and Carmen are discussing a "Speakers Wanted" board to help with this.
+  - User group outreach committee needs more members  
+    We need to do more personal outreach to user group leaders, and that will require more members on the outreach committee. Carmen has volunteered to help, but we would like at least one more volunteer from the Tulsa area.
+  - Documentation  
+    It would be helpful to provide onboarding information for user group leaders like we do for board members. Ava is working on a newsletter to send to user group leaders.
 
 # Projects in the pipeline:
 
