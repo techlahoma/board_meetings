@@ -26,4 +26,4 @@
     Help track event state changes    
     Show an up-to-date calendar of events with filters by city
 
-  - Parse UG application data into a JSON format to port into the application view project
+  - Parse UG application data into a JSON format to port into the [application view project](https://techlahoma.github.io/ug-application-view/index.html)
