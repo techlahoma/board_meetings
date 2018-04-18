@@ -35,7 +35,7 @@
 ## Action Items
 
 ## Proposals
-* Nodecraft Game Scholors Initiative
+* Nodecraft Game Scholars Initiative
 
 ## Other Updates
 * 200 OK -- Luke
