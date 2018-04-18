@@ -27,7 +27,7 @@
     - Membership -- Vance
     - Corporate -- Lucas
     - Grants -- Tasha K / Carlos
-* Merchanidse -- Ava
+* Merchandise -- Ava
 * Sponsorship committee -- Chair
 * OKC Broadcasting Committee -- Kimberly
     - [Broadcasting Report](./committee_reports/04_broadcasting.md)
