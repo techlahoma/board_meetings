@@ -5,7 +5,6 @@
 * Approve previous minutes
 
 ## Officer Reports
-* President
 * Vice President
 * Treasurer
     - Review of Financial statements
