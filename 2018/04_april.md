@@ -28,7 +28,6 @@
     - Corporate -- Lucas
     - Grants -- Tasha K / Carlos
 * Merchandise -- Ava
-* Sponsorship committee -- Chair
 * OKC Broadcasting Committee -- Kimberly
     - [Broadcasting Report](./committee_reports/04_broadcasting.md)
 
