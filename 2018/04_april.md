@@ -12,6 +12,7 @@
     - Discussion of expense reductions
 
 ## Board Reports
+* Update/review of board retreat (thanks Carlos!)
 
 ## Committee Reports
 
