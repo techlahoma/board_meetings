@@ -15,13 +15,19 @@
 
 ## Committee Reports
 
+* Conduct -- Ava
+* Conferences
+    - 200OK -- Luke
+    - ThunderPlains -- Vance
+* Civic Tech -- Carlos
 * Workshop committee -- Kendall
 * Usergroup committee -- Carmen
-    - [UG Report]()
 * Fundraising committee -- Chair
-* Sponsorship committee -- Chair
+    - Membership -- Vance
+    - Corporate -- Lucas
+    - Grants -- Tasha K / Carlos
+* Merchandise -- Ava
 * OKC Broadcasting Committee -- Kimberly
-    - [Broadcasting Report]()
 
 ## Action Items
 
