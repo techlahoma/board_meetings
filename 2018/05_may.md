@@ -5,7 +5,6 @@
 * Approve previous minutes
 
 ## Officer Reports
-* President
 * Vice President
 * Treasurer
     - Review of Financial statements
@@ -34,6 +33,5 @@
 ## Proposals
 
 ## Other Updates
-* 200 OK -- Luke
 
 ## President's Report 
