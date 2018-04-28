@@ -8,6 +8,7 @@
 * Vice President
 * Treasurer
     - Review of Financial statements
+    - Demo expense submission process for board through app
     - Discussion of expense reductions
 
 ## Board Reports
