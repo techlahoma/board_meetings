@@ -22,7 +22,7 @@
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall
 * Usergroup committee -- Carmen
-* Fundraising committee -- Chair
+* Fundraising committee
     - Membership -- Vance
     - Corporate -- Lucas
     - Grants -- Tasha K / Carlos
