@@ -21,7 +21,8 @@
     - ThunderPlains -- Vance
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall
-* Usergroup committee -- Carmen
+* User Group Tools Committee -- Carmen
+* User Group Outreach Committee -- Kimberly
 * Fundraising committee
     - Membership -- Vance
     - Corporate -- Lucas
