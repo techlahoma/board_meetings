@@ -12,7 +12,7 @@
 * Kimberly Collins
 
 
-February minutes are approved without objection.
+March minutes are approved without objection.
 
 Tatiana resigned from the board.
 
@@ -81,7 +81,7 @@ Ava: Going to work with Vance for fundraising assets. Talked with Carlos who kno
 
 ### OKC Broadcasting Committee
 
-Update is in the minutes.
+Update is in the agenda.
 
 
 ## Proposal
