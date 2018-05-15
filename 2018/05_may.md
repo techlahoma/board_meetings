@@ -8,6 +8,8 @@
 * Vice President
 * Treasurer
     - Review of Financial statements
+        - [Income Statement breakdown](https://reporting.xero.com/!xNHkh/v1/Published/3739245)
+        - [Runway]()
     - Demo expense submission process for board through app
     - Discussion of expense reductions
 
