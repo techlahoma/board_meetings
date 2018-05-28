@@ -1,4 +1,4 @@
-# June 18, 2018 7:00 pm
+# June 19, 2018 7:00 pm
 
 ## Open
 * Attendance
