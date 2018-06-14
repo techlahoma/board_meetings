@@ -28,6 +28,8 @@
 
 ## Action Items
 
+* Vote on new board member nominee
+
 ## Proposals
 
 ## Other Updates
