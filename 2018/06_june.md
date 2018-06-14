@@ -28,7 +28,7 @@
 
 ## Action Items
 
-* Vote on new board member nominee
+* Vote on new board member nominee [Future Board Nominees Spreadsheet](https://docs.google.com/spreadsheets/d/16npdEpYtj61tsBG2gvzhAhuNkSHvE--OhiGouOotSB0/edit#gid=1840053571)
 
 ## Proposals
 
