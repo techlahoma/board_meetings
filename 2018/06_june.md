@@ -18,13 +18,13 @@
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall
 * User Group Tools Committee -- Carmen
-* User Group Outreach Committee -- Kimberly
+* [User Group Outreach Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/06_usergroup_outreach.md) -- Kimberly
 * Fundraising committee
     - Membership -- Vance
     - Corporate -- Lucas
     - Grants -- Tasha K / Carlos
 * Merchandise -- Ava
-* OKC Broadcasting Committee -- Kimberly
+* [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/06_okc_broadcasting.md) -- Kimberly
 
 ## Action Items
 
