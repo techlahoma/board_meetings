@@ -28,6 +28,7 @@
 
 ## Action Items
 
+* Vote to move to allowing groups to count _either_ RSVPs or attendee count for reimbursement
 * Vote on new board member nominee
     - [Future Board Nominees Spreadsheet](https://docs.google.com/spreadsheets/d/16npdEpYtj61tsBG2gvzhAhuNkSHvE--OhiGouOotSB0/edit#gid=1840053571)
     - [Future Board Nominee Questionnaire](https://goo.gl/forms/wvZVpodJIelOSWhD3)
