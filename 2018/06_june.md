@@ -5,7 +5,7 @@
 * Approve previous minutes
 
 ## Officer Reports
-* Vice President
+* [Vice President](https://docs.google.com/presentation/d/12tZqwPw461Psv_DBISpXAr2UVq6ENGKKwbWrfz_Xk0M/)
 * Treasurer
 
 ## Board Reports
