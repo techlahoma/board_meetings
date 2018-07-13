@@ -36,6 +36,8 @@
 
 ## Proposals
 
+* Create a committee for member diversity/inclusion/outreach (Kimberly) 
+
 ## Other Updates
 
 ## President's Report 
