@@ -40,4 +40,6 @@
 
 ## Other Updates
 
+* Discuss actions Tulsa Game Devs leadership would like to take.
+
 ## President's Report 
