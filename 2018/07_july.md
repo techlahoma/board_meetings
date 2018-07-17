@@ -24,7 +24,7 @@
     - Corporate -- Lucas
     - Grants -- Carlos
 * Merchandise -- Ava
-* [OKC Broadcasting Committee]() -- Kimberly
+* [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/07_okc_broadcasting.md) -- Kimberly
 
 ## Action Items
 
