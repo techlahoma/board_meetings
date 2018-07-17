@@ -17,7 +17,7 @@
     - ThunderPlains -- Vance
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall
-* [User Group Tools Committee]() -- Carmen
+* [User Group Tools Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/07_ug_tooling.md) -- Carmen
 * [User Group Outreach Committee]() -- Kimberly
 * Fundraising committee
     - Membership -- Vance
