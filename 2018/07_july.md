@@ -41,5 +41,6 @@
 ## Other Updates
 
 * Discuss actions Tulsa Game Devs leadership would like to take.
+* Bill Day approached about work with Broken Arrow Public Schools
 
 ## President's Report 
