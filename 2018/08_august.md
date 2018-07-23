@@ -4,6 +4,9 @@
 * Attendance
 * Approve previous minutes
 
+##Fundraising Presentation
+* Presentation on Services/Campaign by Mike Slack
+
 ## Officer Reports
 * [Vice President]()
 * Treasurer
