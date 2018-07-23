@@ -4,7 +4,7 @@
 * Attendance
 * Approve previous minutes
 
-##Fundraising Presentation
+## Fundraising Presentation
 * Presentation on Services/Campaign by Mike Slack
 
 ## Officer Reports
