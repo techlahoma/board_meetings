@@ -14,6 +14,7 @@
 * Jeff Lowe
 * Jessica Campbell
 * Carlos Moreno
+* Luke Crouch
 
 Previous minutes are approved without objection.
 
