@@ -21,7 +21,6 @@
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall
 * [User Group Tools Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/08_ug_tooling.md) -- Carmen
-* [User Group Outreach Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/08_usergroup_outreach.md) -- Kimberly
 * Fundraising committee
     - Membership -- Vance
     - Corporate -- Lucas
