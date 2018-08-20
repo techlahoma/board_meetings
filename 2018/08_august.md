@@ -36,4 +36,6 @@
 
 ## Other Updates
 
+* Weekly member newsletter - need volunteers to write content
+
 ## President's Report 
