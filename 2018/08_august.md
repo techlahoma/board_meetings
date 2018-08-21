@@ -16,6 +16,7 @@
 * Officers' draft of Committee chair responsibilities:
     
     *Eligibility*
+    
     A committee chair must be an active Techlahoma member
     
     *Responsibilities*
