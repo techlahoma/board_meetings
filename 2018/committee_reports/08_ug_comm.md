@@ -1,7 +1,5 @@
 # Current Projects:  
 
-- Help Wanted Board Bugs  
-- Help Wanted Board is getting a lot of use! (woo-hoo!)  
 - Speakers Wanted board  
   - Board to show groups searching for speakers && list of speakers with bios, topics, etc.  
 - Slackbot automation  
