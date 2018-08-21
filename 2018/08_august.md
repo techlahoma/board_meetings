@@ -39,6 +39,6 @@
 
 * Weekly member newsletter - need volunteers to write content
 * Just want to make clear the definition of ['quorum'](https://www.dummies.com/careers/business-skills/roberts-rules-for-defining-a-quorum/)
-* Would like to look at the board retreat survey results
+* Board retreat survey results
 
 ## President's Report 
