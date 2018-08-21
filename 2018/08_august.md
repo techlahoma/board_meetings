@@ -21,13 +21,13 @@
 * Conduct -- Ava
 * Conferences
     - ThunderPlains -- Vance
-* Civic Tech -- Carlos
+* Civic Tech -- Carlos -- Brittany, Carlos, and hopefully a couple of Code for Muskogee peeps to attend CfA's national brigade congress in Oct. Hooray for OK representation!
 * Workshop committee -- Kendall
 * [User Group Tools Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/08_ug_tooling.md) -- Carmen
 * Fundraising committee
     - Membership -- Vance
     - Corporate -- Lucas
-    - Grants -- Carlos
+    - Grants -- Carlos -- (Turning this over to Kendall Werts & Kimberly Collins, who did the bulk of the work on a recent grant application w/ Workforce Oklahoma) ...some housecleaning is in order about bringing potential grants to the Grants Committee and/or the board. To be determined.
 * Merchandise -- Ava
 * [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/08_okc_broadcasting.md) -- Kimberly
 
