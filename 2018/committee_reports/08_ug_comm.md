@@ -18,6 +18,8 @@
 - JUG UGLs did not attend this month's meeting  
 - Frequent issues with getting UGLs to schedule meetups _at least_ one week in advance  
   - UG Comm is discussing how to address this.  
+- FCCOKC co-org Carson McKinstry is stepping into the main organizer role
+  - FCCOKC UGL Daniel Ashcraft is stepping down
 
 # UG Committee News:  
 
