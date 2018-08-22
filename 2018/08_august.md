@@ -45,7 +45,10 @@
 * Conduct -- Ava
 * Conferences
     - ThunderPlains -- Vance
-* Civic Tech -- Carlos -- (1) Brittany, Carlos, and hopefully a couple of Code for Muskogee peeps to attend CfA's [National Brigade Congress](https://www.codeforamerica.org/brigade-congress) in Oct. Hooray for OK representation!  (2) Our largest subject-based event, the [Criminal Justice Summit](https://www.eventbrite.com/e/code-for-tulsa-criminal-justice-summit-tickets-48620830212) is almost "sold out" at 60 attendees. Thank you to Brittany for helping w/ the event and Luke for hosting a breakout session to add features to Courtbot. (3) We are in the beginning stages of partnering with the [Oklahoma Policy Institute](https://okpolicy.org/) to formally/academically study the impact of Courtbot. A report will be generated from this research to send to potential philanthropic donors.
+* Civic Tech -- Carlos -- 
+ - Brittany, Carlos, and hopefully a couple of Code for Muskogee peeps to attend CfA's [National Brigade Congress](https://www.codeforamerica.org/brigade-congress) in Oct. Hooray for OK representation!  
+  - Our largest subject-based event, the [Criminal Justice Summit](https://www.eventbrite.com/e/code-for-tulsa-criminal-justice-summit-tickets-48620830212) is almost "sold out" at 60 attendees. Thank you to Brittany for helping w/ the event and Luke for hosting a breakout session to add features to Courtbot. 
+   - We are in the beginning stages of partnering with the [Oklahoma Policy Institute](https://okpolicy.org/) to formally/academically study the impact of Courtbot. A report will be generated from this research to send to potential philanthropic donors.
 * Workshop committee -- Kendall
 * [User Group Tools Committee](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/08_ug_tooling.md) -- Carmen
 * Fundraising committee
