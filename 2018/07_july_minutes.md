@@ -42,7 +42,7 @@ $3k soft committment.
 
 ### Civic Tech
 
-Code for Tulsa got mentioned in The Atlantic. Carlos is leading a national day of civic hacking event in Tulsa.
+Code for Tulsa's work on Courtbot got mentioned in [The Atlantic](https://www.theatlantic.com/technology/archive/2018/06/civic-tech-in-a-time-of-technopessimism/563696/). [National Day of Civic Hacking](https://www.codeforamerica.org/national-day-of-civic-hacking) is August 11 this year. Tulsa will not be participating.
 
 ### Workshop Committee
 
