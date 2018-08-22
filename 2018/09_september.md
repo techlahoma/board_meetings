@@ -1,4 +1,4 @@
-# August 21, 2018 7:00 pm
+# September 18, 2018 7:00 pm
 
 ## Open
 * Attendance
