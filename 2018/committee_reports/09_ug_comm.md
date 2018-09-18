@@ -2,8 +2,9 @@
 
 - Fixing bugs in Help Wanted board  
   - Help Wanted board has gotten multiple PRs at this point, yay! :raised_hands:  
-- Speakers Wanted board  
-  - Board to show groups searching for speakers && list of speakers with bios, topics, etc.  
+- Speakers Wanted board is ready to launch!  
+  - Board to show groups searching for speakers && list of speakers with bios, topics, etc. 
+  - [https://speakers-wanted.techlahoma.org/](https://speakers-wanted.techlahoma.org/)
 - Revving up for 2019 UG applications
   - Plan for groups to provide budgets along with their application is forthcoming  
 - Preparing for the UG budget  
