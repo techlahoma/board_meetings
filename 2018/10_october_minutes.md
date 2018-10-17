@@ -24,7 +24,7 @@ Previous minutes are approved without objection.
 ~$16k in the bank. Reports were presented. All but $5k is allocated.
 
 
-2019 budgets due by December meeting.
+2019 budgets due by November meeting.
 
 ## Committee Reports
 
@@ -50,7 +50,7 @@ Moved November DjangoGirls Tulsa to January.
 ### User Group Committee
 [Report](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/10_ug_comm.md)
 
-2019 sponosorship application deadline moved to December 15th.
+2019 sponosorship application deadline moved to December 1st.
 
 Changes to user group budgets.
 
