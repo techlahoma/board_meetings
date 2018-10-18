@@ -48,8 +48,6 @@ Thumbs Up for North Tulsa Event.
 Moved November DjangoGirls Tulsa to January.
 
 ### User Group Committee
-[Report](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/10_ug_comm.md)
-
 2019 sponosorship application deadline moved to December 1st.
 
 Changes to user group budgets.
