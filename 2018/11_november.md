@@ -29,6 +29,8 @@
 
 ## Proposals
 
+* Document to send to potential board nominees (Kimberly and Carlos)
+
 ## Other Updates
 
 ## President's Report 
