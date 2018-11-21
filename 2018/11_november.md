@@ -35,4 +35,6 @@
 
 ## Other Updates
 
+* "Tech Unplugged" + Techlahoma = [Tulsa Techmas 2018](https://www.meetup.com/TechUnpluggedTulsa/events/252722052/)
+
 ## President's Report 
