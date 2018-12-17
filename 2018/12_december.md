@@ -35,6 +35,8 @@
 * Create marketing committee to handle things like the member newsletter, or discontinue the newsletter (Kimberly)
 * Discuss old retreat survey results
 * Allowing non-board members to access Techlahoma's services to help get stuff done (Kimberly)
+    - Deep Fork Technology has an employee who could be paid to help setup Zaps
+    - Alternatively they are (maybe?) open to donating her time in exchange for a shoutout
 
 ## Other Updates
 
