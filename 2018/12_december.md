@@ -34,6 +34,7 @@
 * Board retreat in February (Kimberly and Carlos)
 * Create marketing committee to handle things like the member newsletter, or discontinue the newsletter (Kimberly)
 * Discuss old retreat survey results
+* Allowing non-board members to access Techlahoma's services to help get stuff done (Kimberly)
 
 ## Other Updates
 
