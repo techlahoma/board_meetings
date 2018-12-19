@@ -32,6 +32,7 @@
 Vote on new board members.
 
 Spreadsheet: https://docs.google.com/spreadsheets/d/16npdEpYtj61tsBG2gvzhAhuNkSHvE--OhiGouOotSB0/edit?usp=sharing
+
 Voting: https://www.surveymonkey.com/r/X9RKJVK
 
 ## Proposals
