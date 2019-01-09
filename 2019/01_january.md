@@ -1,4 +1,4 @@
-# December 18, 2018 7:00 pm
+# January 15, 2019 7:00 pm
 
 ## Open
 * Attendance
