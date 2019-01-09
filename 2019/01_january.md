@@ -32,8 +32,6 @@
 * Officer vote
 * [2019 Budget]()
 
-## Discussion Items
-
 ## Other Updates
 
 ## President's Report 
