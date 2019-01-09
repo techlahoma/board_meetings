@@ -29,6 +29,7 @@
 
 ## Action Items (Votes?)
 
+* Officer vote
 * [2019 Budget]()
 
 ## Proposals
