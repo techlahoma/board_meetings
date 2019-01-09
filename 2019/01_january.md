@@ -27,12 +27,12 @@
 * Merchandise -- Ava
 * OKC Broadcasting Committee -- Kimberly
 
-## Action Items (Votes?)
+## Votes
 
 * Officer vote
 * [2019 Budget]()
 
-## Proposals
+## Discussion Items
 
 ## Other Updates
 
