@@ -34,6 +34,8 @@
 
 ## Other Updates
 
-* [Booth at Hacklahoma](https://doodle.com/poll/mpp8e4fuuhh6mrc8_ on OU campus February 9-10 (Kimberly)
+* [Booth at Hacklahoma](https://doodle.com/poll/mpp8e4fuuhh6mrc8) on OU campus February 9-10 (Kimberly)
+* Create GitHub repo for storing documents like bylaws (Kimberly)
+* Update committee roster for 2019 and put on GitHub (Kimberly)
 
 ## President's Report 
