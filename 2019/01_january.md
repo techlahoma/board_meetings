@@ -34,4 +34,6 @@
 
 ## Other Updates
 
+* [Booth at Hacklahoma](https://doodle.com/poll/mpp8e4fuuhh6mrc8_ on OU campus February 9-10 (Kimberly)
+
 ## President's Report 
