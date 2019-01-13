@@ -20,8 +20,8 @@
 * Conferences
     - ThunderPlains -- Vance
 * Civic Tech -- Carlos
-* Workshop committee -- Kendall
-* User Group Committee -- Carmen
+* Workshop committee -- Kendall  
+* ~User Group Committee -- Carmen~
 * Fundraising committee
     - Membership -- Vance
     - Corporate -- Lucas
@@ -33,6 +33,7 @@
 
 * Officer vote
 * [2019 Budget]()
+* [User Group vote](link)
 
 ## Other Updates
 
