@@ -11,7 +11,7 @@
   - OKC PHP: Didn't reapply  
   - OKC Tableau User Group: Didn't reapply  
   - Tulsa Data Science: Didn't reapply  
-  - Tulsa Ruby User Group: Missed the deadline
+  - ~Tulsa Ruby User Group: Missed the deadline~
 
 - ## Groups we recommend with contingency:  
 
