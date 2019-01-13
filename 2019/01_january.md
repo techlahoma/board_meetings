@@ -9,8 +9,8 @@
 * Treasurer
     - [2018 Income Statement](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/TF%20Income%20Statement%202018.pdf)
     - [2018 Balance Sheet](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/TF%20Balance%20Sheet%202018.pdf)
-    - [Income Statement](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
-    - [Budgets](https://docs.google.com/spreadsheets/d/1BdSo4lCJLIDFu0a3EfQ3AWu2wgmotYP-qIzIDC4PXsk/edit?usp=sharing)
+    - [Income by budget](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
+    - [Runway](https://docs.google.com/spreadsheets/d/1BdSo4lCJLIDFu0a3EfQ3AWu2wgmotYP-qIzIDC4PXsk/edit?usp=sharing)
     
 ## Board Reports
 
