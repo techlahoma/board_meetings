@@ -32,8 +32,9 @@
 ## Votes
 
 * Officer vote
+* [Vote to approve UG Comm recommendations](link)
+* [Vote to approve/disapprove Tulsa Ruby](link)
 * [2019 Budget]()
-* [User Group vote](link)
 
 ## Other Updates
 
