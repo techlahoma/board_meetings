@@ -40,5 +40,6 @@
 
 * [Booth at Hacklahoma](https://doodle.com/poll/mpp8e4fuuhh6mrc8) on OU campus February 9-10 (Kimberly)
 * Update committee roster for 2019 and put on GitHub (Kimberly)
+* 2019 Board Retreat: March 9, 9:00am to 4:00pm. Hampton Inn & Suites, Stroud, OK. (Carlos)
 
 ## President's Report 
