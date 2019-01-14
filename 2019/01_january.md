@@ -34,7 +34,7 @@
 * Officer vote
 * [Vote to approve UG Comm recommendations](https://github.com/techlahoma/board_meetings/blob/master/2018/committee_reports/12_ug_comm.md)
 * Vote to approve/disapprove Tulsa Ruby
-* [2019 Budget]()
+* [2019 Budget approval](https://docs.google.com/spreadsheets/d/17swzWI4_Zcjjf5bJmC-dHTc9n0UXRsZC4yS3sK82IGc/edit?usp=sharing)
 
 ## Other Updates
 
