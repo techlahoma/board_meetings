@@ -6,6 +6,10 @@
     
     We recommend partnering with this organization in other ways. It seems like a really worthy cause and in line with our mission, however they aren't a usergroup. We would like to see Techlahoma partner with them in other ways, but the Usergroup Committee doesn't have the bandwidth to spearhead an effort like that right now.  
 
+  - Starspace46 Community Stand-up (Affiliated)  
+  
+    We recommend not approving this group to be a part of Techlahoma because their user group leaders don't attend meetups our required 75% of the time.  
+
 - ## Groups who did not re-apply or missing the deadline:  
 
   - OKC PHP: Didn't reapply  
@@ -36,7 +40,6 @@
   - OKC Indie Hackers (Sponsored)
   - Oklahoma PowerApps and Flow User Group (Affiliated)
   - SheCodesTulsa (Sponsored)
-  - Starspace46 Community Stand-up (Affiliated)
   - Tulsa Developers Association (Affiliated)
 
 - ## UG Comm recommends all current groups be approved for 2019  
