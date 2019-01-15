@@ -6,6 +6,7 @@
 
 ## Officer Reports
 * Vice President
+    - (Luke:) Town Hall presentation has/had 2018 annual report. Will plan to give a Q1 impact report in March meeting.
 * Treasurer
     - [2018 Income Statement](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/TF%20Income%20Statement%202018.pdf)
     - [2018 Balance Sheet](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/TF%20Balance%20Sheet%202018.pdf)
