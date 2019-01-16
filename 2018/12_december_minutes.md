@@ -11,6 +11,7 @@
 * Devin Clark
 * Jeff Lowe
 * Kimberly Collins
+* Lucas Watson
 * Luke Crouch
 * Tommy Yi
 * Vance Lucas
