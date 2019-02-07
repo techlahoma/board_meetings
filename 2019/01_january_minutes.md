@@ -95,7 +95,7 @@ Vote to approve/disapprove Tulsa Ruby. This group missed the deadline to re-appl
 
 ### Budget
 
-Vote to approve the budget presented by the treasurer. Vote is approved.
+Vote to approve the [budget presented by the treasurer](https://docs.google.com/spreadsheets/d/17swzWI4_Zcjjf5bJmC-dHTc9n0UXRsZC4yS3sK82IGc/edit?usp=sharing). Vote is approved.
 
 ## Other Updates
 
