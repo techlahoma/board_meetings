@@ -28,11 +28,12 @@
 * Fundraising committee -- Lucas / Vance
 * OKC Broadcasting Committee -- Kimberly
 
-## Votes
-* Board Meeting time, ssme time or bump back to 6:30pm?
-* Approve revised committee list
+## Unfinished Business
+* ?
 
-## Other Updates
+## New Business
+* Board Meeting time, should we adjust time or keep the same?
+* Approve the revised [committee list](https://docs.google.com/spreadsheets/d/1I8D_5JooAmO2KLv4x9UjwIWndH7FU9X-sqQQm_0ahZQ/edit?usp=sharing) (we may adjust after Board Retreat)
 
 
 ## President's Report 
