@@ -2,7 +2,7 @@
 
 ## Open
 * Attendance
-* Approve previous minutes
+* Approve [January 2019 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2019/01_january_minutes.md)
 
 ## Officer Reports
 * Vice President
@@ -16,11 +16,13 @@
     - RSVP (via calendar invite)
 * Taskforce to update bylaws -- Kendall
 * Techlahoma License Plate status -- Ava
+* Debbie Davis sponsorship connection...anything new? -- Ava
 
 ## Committee Reports
 * Conduct -- Ava
+    - Report on status of recent issue
 * Conferences - Thunderplains -- Vance
-    - status of 2018 videos to YouTube?
+    - Status of 2018 videos to YouTube
 * Conferences - 200OK -- Luke
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall  
