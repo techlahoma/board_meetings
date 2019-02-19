@@ -28,7 +28,7 @@
 * Workshop committee -- Kendall  
 * User Group Committee -- Carmen
 * Fundraising committee -- Lucas / Vance
-* OKC Broadcasting Committee -- Kimberly
+* [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/02_broadcasting.md) -- Kimberly
 
 ## Unfinished Business
 * ?
