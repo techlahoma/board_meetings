@@ -38,7 +38,7 @@
 * Board Meeting time, should we adjust time or keep the same?
 * Approve the revised [committee list](https://docs.google.com/spreadsheets/d/1I8D_5JooAmO2KLv4x9UjwIWndH7FU9X-sqQQm_0ahZQ/edit?usp=sharing) (we may adjust after Board Retreat)
 * Remove Matt Blackwell as member of Techlahoma, immediately removing him from every service channel within our power.
-    - Bylaws [3.7](https://github.com/techlahoma/legal/blob/master/bylaws/bylaws.md) give the board power to remove members with our without cause.
+    - Bylaws [3.7](https://github.com/techlahoma/legal/blob/master/bylaws/bylaws.md) give the board power to remove members with or without cause.
     - Notify Matt Blackwell via slack and email that he is being removed and to not attempt to post in any Techlahoma sponsored channel.
     - Announce to community that Matt Blackwell has been removed from membership in Techlahoma due to multiple complaints submitted by members of the community.
     - Warn Greyson (mentioned in management channel as working with Blackwell) that he is not to post any job opportunities from Matt Blackwell.
