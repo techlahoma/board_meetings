@@ -25,7 +25,8 @@
     - Status of 2018 videos to YouTube
 * Conferences - 200OK -- Luke
 * Civic Tech -- Carlos
-* Workshop committee -- Kendall  
+* Workshop committee -- Kendall
+  * [Rails OKC Workshop](http://rails-okc.techlahoma.org) -- Kimberly
 * User Group Committee -- Carmen
 * Fundraising committee -- Lucas / Vance
 * [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/02_broadcasting.md) -- Kimberly
