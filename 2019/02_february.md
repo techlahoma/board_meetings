@@ -32,6 +32,8 @@
   * (non-verbal update: just share this link out) [Django Girls Tulsa](https://djangogirls.org/tulsa/) -- Luke
   * [Rails OKC Workshop](http://rails-okc.techlahoma.org) -- Kimberly
 * User Group Committee -- Carmen
+* Grants Committee
+  * We sent a quick grant application to LTFF for Django Girls Tulsa, She Codes Tulsa, Free Code Camp Tulsa, Code for Tulsa, Tulsa Web Devs (childcare)
 * Fundraising committee -- Lucas / Vance
 * [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/02_broadcasting.md) -- Kimberly
 
