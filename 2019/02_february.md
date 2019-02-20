@@ -16,6 +16,7 @@
 * Report from Hacklahoma - February 9-10  -- Kimberly
 * 2019 Board Retreat: March 9, 9:00am to 4:00pm. Hampton Inn & Suites, Stroud, OK. -- Carlos
     - RSVP (via calendar invite)
+    - [Draft Agenda] (https://docs.google.com/document/d/1lROEhtrFtHhAHDUmrpA2BhVpu0Qr7QR85wzDidNJV8c/edit?usp=sharing)
 * Taskforce to update bylaws -- Kendall
 * Techlahoma License Plate status -- Ava
 * Debbie Davis sponsorship connection...anything new? -- Ava
