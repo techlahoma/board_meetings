@@ -29,6 +29,7 @@
 * Conferences - 200OK -- Luke
 * Civic Tech -- Carlos
 * Workshop committee -- Kendall
+  * (non-verbal update: just share this link out) [Django Girls Tulsa](https://djangogirls.org/tulsa/) -- Luke
   * [Rails OKC Workshop](http://rails-okc.techlahoma.org) -- Kimberly
 * User Group Committee -- Carmen
 * Fundraising committee -- Lucas / Vance
