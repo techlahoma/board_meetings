@@ -23,7 +23,7 @@
 * User Group Committee -- Carmen
 * Grants Committee
 * Fundraising committee -- Lucas / Vance
-* [OKC Broadcasting Committee](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/03_broadcasting.md) -- Kimberly
+* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/03_content_creation.md) -- Kimberly
 
 ## Unfinished Business
 * ?
