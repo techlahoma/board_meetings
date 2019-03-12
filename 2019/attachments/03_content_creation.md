@@ -4,7 +4,9 @@ The broadcasting committee has been renamed to Content Creation. We support Tech
 
 Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/teams.md):
 
-* Conference A/V - Blixa will be running the streaming for 200OK.
+* Conference A/V - 
+  * ThunderPlains 2018 videos have been uploaded to YouTube, but most of them don't have very many views yet. Please share!
+  * Blixa will be running the streaming for 200OK 2019.
 * OKC A/V Automation - 
 * OKC A/V Hardware - 
 * OKC A/V Volunteer Management - Starting 4/1/2019, we will not stream meetups for groups that don't have trained volunteers available to run the streaming. The volunteers can be group leaders, but they don't have to be.
