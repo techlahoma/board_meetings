@@ -17,6 +17,6 @@ Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/t
   * At this time, Project Make It owns and operates the equipment, with individual agreements with the usergroups.  The service and equipment is provided for free, in exhange for being allowed to post the brand logo among other sponsors.  Project Make It is open to expanding this agreement to Techlahoma directly, as well as other options.
   * Simulcasting: The existing equipment can handle display of, and transmission of, simulcast events, both via web services like Youtube and Twitch, and via direct RTMP streams.
 * Twitch Channel Management - 
-* Twitch Highlighting - 
+* Twitch Highlighting - Currently getting more volunteers up and going and things are going well. **Could use more volunteers**
 * Workshop A/V - We will create this team when the workshops program is ready for it.
 * YouTube Channel Management - 
