@@ -13,8 +13,8 @@ Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/t
   **Stretch goal**: 1 streamed talk per month (could be FCC Norman or other groups at the Innovation Hub). Streamed round table sessions using omnidirectional setting on mic e.g. Blue Yeti
   * Simulcasting: Setup and location has been streamlined, not too many attendees but may need a bigger space if more start to show up (currently can fit 4-6 people)
 * Tulsa Stream Team - 
-  * Streaming: Been running streams to individual usergroup Youtube accounts for about 1 year now.  The equipment doesn't currently have a perminante home, due to many usergroups using different locations (Web Devs and Game Devs use 36N, but TOSH can't opperate hardware equipment there, so they locate at B&K Makerspace, Lambda Lunch is having to move to the library at this time)
-    At this time, Project Make It owns and operates the equipment, with individual agreements with the usergroups.  The service and equipment is provided for free, in exhange for being allowed to post the brand logo among other sponsers.  Project Make It is open to expanding this agreement to Techlahoma directly, as well as other options.
+  * Streaming: Been running streams to individual usergroup Youtube accounts for about 1 year now.  The equipment doesn't currently have a permanent home, due to many usergroups using different locations (Web Devs and Game Devs use 36N, but TOSH can't operate hardware equipment there, so they locate at B&K Makerspace, Lambda Lunch is having to move to the library).
+  * At this time, Project Make It owns and operates the equipment, with individual agreements with the usergroups.  The service and equipment is provided for free, in exhange for being allowed to post the brand logo among other sponsors.  Project Make It is open to expanding this agreement to Techlahoma directly, as well as other options.
   * Simulcasting: The existing equipment can handle display of, and transmission of, simulcast events, both via web services like Youtube and Twitch, and via direct RTMP streams.
 * Twitch Channel Management - 
 * Twitch Highlighting - 
