@@ -22,10 +22,10 @@
 * Grants Committee
 * Fundraising committee -- Lucas / Vance
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/03_content_creation.md) -- Kimberly
-
-## Program Reports
 * Membership -- Ava
   * OKC Networking Fair -- Kimberly
+
+## Program Reports
 * Workshops -- Kendall
   * [Rails OKC Workshop](https://github.com/techlahoma/rails-okc-workshop) -- Kimberly
 
