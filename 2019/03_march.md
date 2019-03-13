@@ -15,7 +15,6 @@
 ## Board Reports
 
 ## Committee Reports
-* Conduct -- Ava
 * Conferences - Thunderplains -- Vance
 * Conferences - 200OK -- Luke
 * Civic Tech -- Carlos
@@ -25,6 +24,8 @@
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/03_content_creation.md) -- Kimberly
 
 ## Program Reports
+* Membership -- Ava
+  * OKC Networking Fair -- Kimberly
 * Workshops -- Kendall
   * [Rails OKC Workshop](https://github.com/techlahoma/rails-okc-workshop) -- Kimberly
 
