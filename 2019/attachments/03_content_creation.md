@@ -7,7 +7,8 @@ Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/t
 * Conference A/V - 
   * ThunderPlains 2018 videos have been uploaded to YouTube, but most of them don't have very many views yet. Please share!
   * Blixa will be running the streaming for 200OK 2019.
-* OKC A/V Automation - 
+* Content Marketing - We will coordinate with the marketing committee for marketing our existing content and producing content for the purposes of marketing.
+* OKC A/V Automation - We're looking into ways to automate and streamline processes for streaming at StarSpace46. Blixa has been working with the infrastructure committee on the [Twitch/Slack chatbot](https://github.com/techlahoma/infrastructure-committee/issues/1).
 * OKC A/V Hardware - 
 * OKC A/V Volunteer Management - Starting 4/1/2019, we will not stream meetups for groups that don't have trained volunteers available to run the streaming. The volunteers can be group leaders, but they don't have to be.
 * Norman Stream Team - 
