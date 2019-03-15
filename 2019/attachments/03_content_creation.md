@@ -22,4 +22,4 @@ Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/t
 * **Twitch Channel Management** - We're discussing ways to expand streaming and simulcasting to more locations, including Twitch hosting.
 * **Twitch Highlighting** - Currently getting more volunteers up and going, and things are going well. **Could use more volunteers**
 * **Workshop A/V** - We will create this team when the workshops program is ready for it.
-* **YouTube Channel Management**
+* **YouTube Channel Management** - We are looking for new ways to increase our subsribers from 800 to 1000. We have been keeping up with putting the newest twitch highlights in the correct playlists, and we have been creating new playlists.
