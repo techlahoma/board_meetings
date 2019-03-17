@@ -16,6 +16,7 @@
 * Dead Center / Tech Center event opportunity followup -- Tommy
 * Bylaw alignment with Program Committee structure -- Jeff
   * Short version, Bylaws fully support this structure and approach.
+* Only possible revised meeting time is 6pm. Feedback? -- Jeff
 
 ## Program Reports
 * Workshops -- Kendall
