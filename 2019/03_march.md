@@ -39,5 +39,6 @@
 ## New Business
 * Approve list of Programs from board retreat
 * Approve list of Committees from board retreat
+* Vote on designating Project 3810 in Oklahoma City as an official partner (Alcohol Policy 8.1)/space in which alcohol may be served (Alcohol Policy 4.3)
 
 ## President's Report 
