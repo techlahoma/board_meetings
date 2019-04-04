@@ -11,4 +11,4 @@ Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/t
 * Tulsa Stream Team
 * Twitch Channel Management
 * **Twitch Highlighting** - Due to the number of new volunteers, we have set a new goal of highlighting within two weeks of the broadcast.
-* YouTube Channel Management
+* YouTube Channel Management We have increased from 800 to 837 by asking for our Techlahoma slack members to subscribe.
