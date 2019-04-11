@@ -25,6 +25,7 @@
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/04_content_creation.md) - Kimberly
 * Membership - Ava
   * OKC Networking Fair - Kimberly
+  * BSidesOK/License Plate - Kimberly
 * Marketing - Carlos
 * Infrastructure -  Devin
 
