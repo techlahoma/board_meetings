@@ -4,7 +4,7 @@
 Report from each [team](https://github.com/techlahoma/broadcasting/blob/master/teams.md):
 
 * Conference A/V - Blixa is good to go for 200OK 2019. Most ThunderPlains 2018 videos still have very few views.
-* Content Marketing
+* Content Marketing - Kristin has recorded a [member testimonial](https://www.youtube.com/watch?v=7do7S-YuLDo), and we're planning more.
 * Norman Stream Team - Haven't started streaming yet, but have the overlays ready. 3 new people have attended brown bag watch parties.
 * OKC A/V Automation - Blixa got the chatbot working from Twitch to Slack and is working on the connection from Slack to Twitch.
 * OKC A/V Hardware - Still working on doing due diligence for mixer upgrade (this may take a while). Planning on purchasing projector replacement lamps soon.
