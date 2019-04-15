@@ -10,6 +10,12 @@
 
 ## Board Reports
 * Dead Center / Tech Center event opportunity followup - Tommy
+* Thank you callouts - All Boardmembers
+* Alcohol Policy revision update - Jeff
+* Thank you card sessions report - Jeff
+  * [The Plan](https://docs.google.com/document/d/1-Vx8Q__uGzHx4jvDSHpQ5BwxbJiAGdgKF1_hv6JOYO0/edit?usp=sharing) 
+  * Be sure to "sign up for at least 1 session
+  * Everyone (particularly Program & Committee chairs) add to list of people to thank.
 
 ## Program Reports
 * Workshops - Kendall
@@ -30,8 +36,12 @@
 * Infrastructure -  Devin
 
 ## Unfinished Business
-* ?
+* Approve the [Program & Committee Core Responsibilities and 2019 Goals](https://docs.google.com/document/d/1t0DvSRjUgFmTVYmfO7f9LaAyMJMfndnA-FrbGCwjWy8/edit?usp=sharing) - Jeff
+  * Responsibilities - Define the core responsibilities for programs & committees. Board will make small revisions to these annually & as needed.
+  * 2019 Goals - What the programs & committees should be working to accomplish for the 2019 calendar year.  Board will update this list annually. These will factor into annual reporting to membership.
+  * Each approved COMMITTEE & PROGRAM Responsibilities and goals will be posted into their appropriate GitHub file for public viewability and committee member reference.
 
 ## New Business
 
 ## President's Report 
+
