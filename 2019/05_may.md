@@ -2,7 +2,7 @@
 
 ## Open
 * Attendance
-* Approve [March 2019 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2019/04_april_minutes.md)
+* Approve [April 2019 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2019/04_april_minutes.md)
 
 ## Officer Reports
 * Vice President
