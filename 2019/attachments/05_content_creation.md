@@ -8,7 +8,7 @@ Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blo
 * Conference and Workshop A/V
 * Content Marketing
 * Norman Stream Team
-* OKC A/V Automation
+* OKC A/V Automation - Initial steps taken to [generate the "script"](https://github.com/okjed/streamingschedulescript/blob/master/streamingtextstrings.Rmd) for OBS and Twitch fields and chat messages to [assist](https://okjed.shinyapps.io/streamingtextstrings/) streaming volunteers
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * OKC Stream Team
