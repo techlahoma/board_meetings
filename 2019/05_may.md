@@ -30,7 +30,7 @@
 
 ## Committee Reports
 * Fundraising - Lucas / Vance
-* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/04_content_creation.md) - Kimberly
+* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/05_content_creation.md) - Kimberly
 * Membership - Ava
   * OKC Networking Fair - Kimberly
   * BSidesOK/License Plate - Kimberly
