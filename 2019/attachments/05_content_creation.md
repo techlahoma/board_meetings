@@ -4,7 +4,7 @@
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/teams.md):
 
 * Collaboration with Fundraising Committee
-  * Scheduled a call with the fundraising committee chair
+  * Fundraising committee will look into sponsorships for future A/V equipment purchases and using Twitch for fundraising
 * Collaboration with Membership Committee
   * No interest from the membership committee yet
 * Conference and Workshop A/V
