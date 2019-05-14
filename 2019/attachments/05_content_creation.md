@@ -5,6 +5,7 @@
 
 * Collaboration with Fundraising Committee
   * Fundraising committee will look into sponsorships for future A/V equipment purchases and using Twitch for fundraising
+  * Checking with humblebundle.com for joining Techlahoma into their Partner Program with a registered entity rather than a single person -Kenneth-SC4L
 * Collaboration with Membership Committee
   * No interest from the membership committee yet
 * Conference and Workshop A/V
@@ -26,8 +27,12 @@
     countdowns or messages to the presenter on that TV.
 * OKC A/V Volunteer Management
 * OKC Stream Team
+  * Kimberly signed up for Nightbot account to assist in announcements and moderation of Twitch Channel. Can add other users as Manager once they have linked their Twitch ID to Nightbot account and generate Nightbot userID.
 * Project 3810 Streaming
 * Tulsa Stream Team
 * Twitch Channel Management
+  * Kenneth-SC4L entered a list of Commands for Nightbot to be used within Twitch Channel to streamline moderator announcements !ask !github !help !list !meetup !prime !rq !slack !support !Techlahoma !ty !who !yt
+  * Kenneth-SC4L made subscriber (18px 36px 72px) icons for Twitch Channel, need testing with dark background and Pull Request accepted after passing check.
 * Twitch Highlighting
 * YouTube Channel Management
+  * Kimberly updated the YT videos in bulk to change from Gaming Category to Science & Technology Category
