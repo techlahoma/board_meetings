@@ -14,6 +14,8 @@
 * Norman Stream Team
 * OKC A/V Automation
   * James Deaton took initial steps to [generate the "script"](https://github.com/okjed/streamingschedulescript/blob/master/streamingtextstrings.Rmd) for OBS and Twitch fields and chat messages to [assist](https://okjed.shinyapps.io/streamingtextstrings/) streaming volunteers
+  * Brandon Smith released the beginnings of a Twitch Video Manager app that currently helps identify videos needing to be highlighted (future goal to automate most of the twitch video management process including exporting to YouTube) - [Repo](https://github.com/techlahoma/twitch_video_manager) and [Heroku Demo](https://twitch-video-manager.herokuapp.com/).  
+**Currently looking into [Nightbot](https://www.nightbot.tv/) to see if that would be a better alternative.*
 * OKC A/V Hardware
   * Purchased and replaced lamp in right projector. Was able to get it for only
     $77 from reputable vendor ([Jaspertronics.com](https://www.jaspertronics.com/)), and lamp seems to be working well so far.
