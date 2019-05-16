@@ -31,6 +31,7 @@
 * OKC Stream Team
   * Kimberly signed up for Nightbot account to assist in announcements and moderation of Twitch Channel. Can add other users as Manager once they have linked their Twitch ID to Nightbot account and generate Nightbot userID.
 * Project 3810 Streaming
+  * Lawrence @CoLab Makerspace is setting up streaming at Proj.3810. Out of that effort there will be a portable stream kit that can be purchased for remote streaming at a price point sub. $1000.
 * Tulsa Stream Team
 * Twitch Channel Management
   * Kenneth-SC4L entered a list of Commands for Nightbot to be used within Twitch Channel to streamline moderator announcements !ask !github !help !list !meetup !prime !rq !slack !support !Techlahoma !ty !who !yt
