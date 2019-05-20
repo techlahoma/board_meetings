@@ -14,19 +14,19 @@
 * Dead Center / Tech Center event opportunity followup - Tommy
 * Thank you callouts - All Boardmembers
   * Luke - for securing the grant
-  * 200OK volunteers - Brenden Hill, Carlos Angon, Diana Varnes, Kendall Werts, Jeremy Satterfield, John Dungan, Luke Crouch, Maxx Crawford, Patrick Forringer, Travis Miller
+  * 200OK volunteers - Brendan Hill, Carlos Angon, Diana Varnes, Kendall Werts, Jeremy Satterfield, John Dungan, Luke Crouch, Maxx Crawford, Patrick Forringer, Travis Miller
   * Kimberly - Work on organizing the Networking Event!
-  * Chris & Alex - Volunteer work with the Networking event
+  * Chris Tse & Alex Ayon - Volunteer work with the Networking event
   * Carmen & Kimberly - Help making 1st thank you writing session a success.
 * Thank you card sessions report - Jeff
   * 1st one successfully completed!
   * [The Plan](https://docs.google.com/document/d/1-Vx8Q__uGzHx4jvDSHpQ5BwxbJiAGdgKF1_hv6JOYO0/edit?usp=sharing) 
-  * Everyone (particularly Program & Committee chairs) need to add to list of people to thank.
+  * Everyone (particularly Program & Committee chairs) need to add to [list](https://docs.google.com/spreadsheets/d/1Uar6k1I2Vt0cqJnpyVeHsrorVfcFaQwe9bdWeSQv2cs/) of people to thank.
   * Board members must signup (response to calendar invite) for at least 1 session
   * Board who completed 1 session: Jeff, Kimberly, Carmen
   * Board who have Signed Up: July - Kristin, Devin, Carmen, Jeff  | Oct - Jeff | Jan - Kristin, Jeff
   * Board needing to sign up: Luke, Carlos, Lucas, Vance, Tommy, Ava, Kendall, Aaron, Diana 
-* Tour of Rack59 & 7725 event facilities
+* Tour of Rack59 & 7725 [event facilities](https://rack59.com/data-center-services/auditorium-event-space/)
   * Carmen, Kimberly, and Jeff toured Rack59 & 7725 event facilities
   * They want to partner with Techlahoma to help community and raise awareness of their facility. Willing to host UGs, events, workshops for free.
   * Great location for Workshop hosting & our next Networking event
@@ -75,13 +75,14 @@
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/05_content_creation.md) - Kimberly
 * Membership - Ava
   * BSidesOK/License Plate - Kimberly
+  * [Volunteer Hours](https://forms.gle/k6woXCBXLuX8pJzD9) - Kimberly
 * Marketing - Carlos
 * Infrastructure -  Devin
   * HubSpot CRM?
 
 ## Unfinished Business
 * Approve the [Program & Committee Core Responsibilities and 2019 Goals](https://docs.google.com/document/d/1t0DvSRjUgFmTVYmfO7f9LaAyMJMfndnA-FrbGCwjWy8/edit?usp=sharing) - Jeff
-  * Post approval Action item for Devin - Update Committees repo README with the revised Programs overview section and the revised Committees section (the overview, chairs, chair responsibilities, etc sections)
+  * Post approval Action item for Devin - Update Committees repo [README](https://github.com/techlahoma/committees) with the revised Programs overview section and the revised Committees section (the overview, chairs, chair responsibilities, etc sections)
   * Post approval Action item for Program & Committee chairs - Post your Committee or Program section to the Committees GitHub repo markdown file.  This will be the official public viewable reference.
   * FYI, all Board tasking of Programs and Committees will occur in repo https://github.com/techlahoma/techlahoma/issues (tagged with their name)
 
