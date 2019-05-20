@@ -24,7 +24,7 @@
   * Everyone (particularly Program & Committee chairs) need to add to list of people to thank.
   * Board members must signup (response to calendar invite) for at least 1 session
   * Board who completed 1 session: Jeff, Kimberly, Carmen
-  * Board who have Signed Up: July - Kristen, Devin, Carmen, Jeff  | Oct - Jeff | Jan - Kristen, Jeff
+  * Board who have Signed Up: July - Kristin, Devin, Carmen, Jeff  | Oct - Jeff | Jan - Kristin, Jeff
   * Board needing to sign up: Luke, Carlos, Lucas, Vance, Tommy, Ava, Kendall, Aaron, Diana 
 * Tour of Rack59 & 7725 event facilities
   * Carmen, Kimberly, and Jeff toured Rack59 & 7725 event facilities
@@ -39,20 +39,20 @@
   * Boardmembers must serve on at least one committee or program (either as chair or as active participating member)
   * As a general rule and for effective succession planning, we need to have at least 2 chairs for programs and committees.  Jeff will be working with chairs on securing 2nd chairs.  Please let me know if you have someone in mind, or if you have a strong interest.
   * Boardmembers serving on committees, programs, & as officers:
-    * UGs Chairs: Carmen & Kristen
+    * UGs Chairs: Carmen & Kristin
     * UGs Members: ?
     * Conf & Events Chairs: Vance & Luke
     * Conf & Events Members: Carmen, Devin
     * Workshops Chairs: Kendall & ???
-    * Workshops Members:
+    * Workshops Members: Diana, Kimberly
     * Membership Chairs: Ava & ???
-    * Membership Members: Kimberly, Devin, Kendal, Luke, Jeff, Carlos, Kristen, Diana
+    * Membership Members: Kimberly, Devin, Kendall, Luke, Jeff, Carlos, Kristin, Diana
     * Fundraising Chairs: Lucas & ???
     * Fundraising Members: Luke
     * Marketing Chairs: Carlos & ???
-    * Marketing Members: Jeff, Kristen
+    * Marketing Members: Jeff, Kristin
     * Content Creation Chairs: Kimberly & ???
-    * Content Creation Members: Kristen, Aaron
+    * Content Creation Members: Kristin, Aaron
     * Infrastructure Chairs: Devin & ???
     * Infrastructure Members: Carmen
     * Officers:  Devin, Jeff, Kendall, Luke
