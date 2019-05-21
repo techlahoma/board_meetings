@@ -28,7 +28,10 @@
     so now we can control it separately via OBS. This allows us to place
     countdowns or messages to the presenter on that TV.
 * OKC A/V Volunteer Management
-  * Aaron is working on documenting the A/V volunteer management process for onboarding future team members.
+  * Aaron is working on documenting the A/V volunteer management process for onboarding future team members, and training streaming members.
+  * Actively establishing default streamers for OKC user groups, and defining a
+    policy for training and managing streamers.
+  * Need another volunteer, ideally.
 * Project 3810 Streaming
   * Lawrence @CoLab Makerspace is setting up streaming at Proj.3810. Out of that effort there will be a portable stream kit that can be purchased for remote streaming at a price point sub. $1000. 
   * Targeting two use-cases: Meeting spaces that already have a projector and internet, where the meeting organizer uses a personally provided stream capable laptop (appropriate for meetings of 5-25 people); and for permanent installations, with multiple AV inputs at a reasonable price point (appropriate for 5-200 people)
