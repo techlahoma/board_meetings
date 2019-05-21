@@ -45,7 +45,7 @@
     * Conf & Events Members: Carmen, Devin
     * Workshops Chairs: Kendall & ???
     * Workshops Members: Diana, Kimberly
-    * Membership Chairs: Ava & ???
+    * Membership Chairs: Ava & Diana
     * Membership Members: Kimberly, Devin, Kendall, Luke, Jeff, Carlos, Kristin, Diana
     * Fundraising Chairs: Lucas & ???
     * Fundraising Members: Luke
