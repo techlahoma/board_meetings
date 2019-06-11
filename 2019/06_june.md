@@ -16,7 +16,6 @@
 
 ## Program Reports
 * Workshops - Kendall
-  * Rails OKC Workshop - Kimberly
 * Conferences & Events 
   * Thunderplains - Vance
   * 200OK - Luke
