@@ -23,13 +23,13 @@
 
 ## Committee Reports
 * Fundraising - Lucas 
-* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/06_content_creation.md) - Kimberly
+* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/06_content_creation.md) - Aaron
 * Membership - Ava
 * Marketing - Carlos
 * Infrastructure -  Devin
 
 ## Unfinished Business
-
+* Budget for chairs at StarSpace46
 
 ## New Business
 
