@@ -29,9 +29,9 @@
 * Infrastructure -  Devin
 
 ## Unfinished Business
-* Budget for chairs at StarSpace46
 
 ## New Business
+* Budget for chairs at StarSpace46
 
 ## President's Report 
 
