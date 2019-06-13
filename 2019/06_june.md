@@ -13,6 +13,7 @@
 ## Board Reports
 * Dead Center / Tech Center event opportunity followup - Tommy
 * Thank you callouts - All Boardmembers
+  * Brandon Smith, James Deaton, Kenneth from Florida, Lawrence Kincheloe, Mike Mattice, Spencer Heckathorn, Stephanie Purvis - A/V automation, streaming at TBS Factoring and Project 3810, Twitch, and YouTube
 * Chair Assessment & Replacement initiative - Jeff
   * Need someone to [inventory and assess](https://github.com/techlahoma/techlahoma/issues/208) what we have 
   * Jeff will find someone to lead the [chair initiative](https://docs.google.com/document/d/1VKnymWIg9TdBpBgGDc0oP4Slb1EIjvDwFVRMR4W-jwE/edit#heading=h.1bgo4xvk9bgo)
