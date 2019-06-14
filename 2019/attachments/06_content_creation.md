@@ -14,5 +14,10 @@
 * TBS Streaming
 * Tulsa Stream Team
 * Twitch Channel Management
+  * Developing Branding for Twitch landing page.
 * Twitch Highlighting
+  * Highlight thumbnail standardization/branding
 * YouTube Channel Management
+  * Adding volunteers as YouTube Channel Managers
+  * Working on Branding for YouTube Channel
+  * Video thumbnail standardization/branding
