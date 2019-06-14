@@ -12,6 +12,9 @@
 * Project 3810 Streaming
 * Simulcasting - Kimberly is looking for education institutions or public libraries where we can simulcast. Need more volunteers for this.
 * TBS Streaming
+  * Streaming setup and execution went well
+  * Small audio issue at the start: no sound from mic (unplugging and plugging sound card back in fixed it)
+  * TBS has all of the equipment necessary for potential future events
 * Tulsa Stream Team
 * Twitch Channel Management
   * Developing Branding for Twitch landing page.
