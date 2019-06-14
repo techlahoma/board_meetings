@@ -7,11 +7,10 @@
 * Collaboration with Membership Committee
 * Conference and Workshop A/V
 * Content Marketing
-* Norman Stream Team
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * Project 3810 Streaming
-* Simulcasting - looking for education institutions or public libraries where we can simulcast
+* Simulcasting - Kimberly is looking for education institutions or public libraries where we can simulcast. Need more volunteers for this.
 * TBS Streaming
 * Tulsa Stream Team
 * Twitch Channel Management
