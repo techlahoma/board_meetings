@@ -6,12 +6,15 @@
 * Collaboration with Fundraising Committee
   * Looking into ways to make Twitch subscriptions easier.
 * Collaboration with Membership Committee
+  * Met with Diana to coordinate efforts between the two committees.
 * Conference and Workshop A/V
   * 200OK Video Upload - Blixa is waiting on Maxx for graphics.
 * Content Marketing
+  * Meeting with Carlos to coordinate efforts to market content
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * Project 3810 Streaming
+  * Lawrence has purchased equipment and is getting setup ready to use at future meetups.
 * Simulcasting
   * Kimberly is looking for education institutions or public libraries where we can simulcast.
   * Need more volunteers for this.
