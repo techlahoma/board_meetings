@@ -1,5 +1,7 @@
 # 2019-06-18 Content Creation Committee Report
 
+Kimberly will be taking about a month off soon and is working on delegating committee tasks to teams and workgroups. James Deaton (new committee co-chair) and Aaron Krauss have agreed to step in to help with leading the committee as needed.
+
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/teams.md):
 
 * A/V Automation
