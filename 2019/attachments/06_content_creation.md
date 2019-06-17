@@ -12,6 +12,10 @@
 * Content Marketing
   * Meeting with Carlos to coordinate efforts to market content
 * OKC A/V Hardware
+  * Kimberly Collins transported the new mixer and handheld + lavelier wireless microphones from Tulsa to SS46
+  * Mike Mattice, Victor Gramm, and Kimberly Collins tested new mixer
+  * Mike Mattice and Alex Adriaanse purchased cables for connecting new mixer to streaming PC
+  * Planning on having work day on Friday June 21 to get the new mixer ready for streaming and prepare for training streaming volunteers on new mixer
 * OKC A/V Volunteer Management
 * Project 3810 Streaming
   * Lawrence has purchased equipment and is getting setup ready to use at future meetups.
