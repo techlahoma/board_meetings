@@ -5,6 +5,8 @@ Kimberly will be taking about a month off soon and is working on delegating comm
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/teams.md):
 
 * A/V Automation
+  * Kimberly, Mike, Blixa, James, Kenneth, Alex, and Brandon met to finalize MVP for automation database.  
+  * Planning to deploy database with API to Heroku to begin identifying front end needs.
 * Collaboration with Fundraising Committee
   * Looking into ways to make Twitch subscriptions easier.
 * Collaboration with Membership Committee
