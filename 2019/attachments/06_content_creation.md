@@ -19,6 +19,10 @@ Kimberly will be taking about a month off soon and is working on delegating comm
   * Mike Mattice and Alex Adriaanse purchased cables for connecting new mixer to streaming PC.
   * Planning on having work day on Friday June 21 to get the new mixer ready for streaming and prepare for training streaming volunteers on new mixer
 * OKC A/V Volunteer Management
+  * Added Dodzi Dzakuma as a volunteer.
+  * Brandon Smith nearly completed with training.
+  * Volunteer streamed at TBS Factoring in OKC for first time.
+  * Continuing to hone policies regarding streaming requirements.
 * Project 3810 Streaming
   * Lawrence Kincheloe has purchased equipment and is getting setup ready to use at future meetups.
 * Simulcasting
