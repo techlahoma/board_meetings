@@ -38,7 +38,7 @@ Brandon Smith, James Deaton, Kenneth from Florida, Lawrence Kincheloe, Mike Matt
 
 ### Chair Assessment & Replacement initiative
 
-Not a voting matter. A board initiative. Jeff assessed chairs and took pictures. Kimberly is asking Lawrence to repair them. 
+Not a voting matter. A board initiative. Jeff assessed chairs and took pictures.
 
 Planning to add a budget line item for next year for replacement chairs, if necessary.
 
