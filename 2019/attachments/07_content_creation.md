@@ -7,11 +7,11 @@
 * Content Marketing
 * Fundraising Committee Collaboration
 * Membership Committee Collaboration
-* Norman Stream Team
+* Norman Stream Team - no updates
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * Project 3810 Streaming
-* TBS Streaming
+* TBS Streaming - ready to stream events with at least one week's notice
 * Tulsa Stream Team
 * Twitch Channel Management
 * Twitch Highlighting
