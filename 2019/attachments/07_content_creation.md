@@ -7,15 +7,15 @@
 
 * A/V Automation
 * Conference and Workshop A/V - Ben Van Treese created a checklist for contractors.
-* Content Marketing
-* Fundraising Committee Collaboration
-* Membership Committee Collaboration - planning to record membership and Code of Conduct videos, but need volunteers
+* Content Marketing - We need help from the marketing committee to promote the Twitch and YouTube channels.
+* Fundraising Committee Collaboration - no updates
+* Membership Committee Collaboration - We are planning to record membership and Code of Conduct videos, but we need volunteers.
 * Norman Stream Team - no updates
-* OKC A/V Hardware
-* OKC A/V Volunteer Management - in the process of training and certifying stream volunteers
+* OKC A/V Hardware - Alex Adriaanse set up the new mixer and recorded a training video on it.
+* OKC A/V Volunteer Management - We are in the process of training and certifying stream volunteers.
 * Project 3810 Streaming
 * TBS Streaming - They are ready to stream events with at least one week's notice.
-* Tulsa Stream Team
+* Tulsa Stream Team - Blixa has uploaded the 200OK videos to YouTube and is waiting for approval, titles, and descriptions.
 * Twitch Channel Management
 * Twitch Highlighting - need more volunteers
 * YouTube Channel Management
