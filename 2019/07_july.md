@@ -17,6 +17,9 @@
   * Need someone to [inventory and assess](https://github.com/techlahoma/techlahoma/issues/208) what we have 
   * Jeff will find someone to lead the [chair initiative](https://docs.google.com/document/d/1VKnymWIg9TdBpBgGDc0oP4Slb1EIjvDwFVRMR4W-jwE/edit#heading=h.1bgo4xvk9bgo)
   * Next step will be a proposal for our consideration including budget to approve
+* Board meetings 
+  * Meeting without quorum
+  * Attendance requirements
 
 ## Program Reports
 * Conferences & Events 
