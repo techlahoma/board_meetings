@@ -21,4 +21,4 @@
 * Twitch Channel Management
 * Twitch Highlighting - need more volunteers
 * YouTube Channel Management - We're thinking about starting a newscast.
-* Watch Parties (Simulcasting)
+* Watch Parties (Simulcasting) - Watched Mary Licanin's Talk at Purcell Library (7/14) - 3 in attendance.
