@@ -18,7 +18,7 @@
   * Jeff will find someone to lead the [chair initiative](https://docs.google.com/document/d/1VKnymWIg9TdBpBgGDc0oP4Slb1EIjvDwFVRMR4W-jwE/edit#heading=h.1bgo4xvk9bgo)
   * Next step will be a proposal for our consideration including budget to approve
 * Board meetings 
-  * Meeting without [quorum](https://github.com/techlahoma/legal/blob/master/bylaws/Exhibit_B_Direct_Qual.md#qualifications)
+  * Meeting without [quorum](https://github.com/techlahoma/legal/blob/master/bylaws/bylaws.md#meetings-of-the-board-of-directors)
   * Clarification of [attendance requirements](https://github.com/techlahoma/legal/blob/master/bylaws/Exhibit_B_Direct_Qual.md#qualifications)
 * License plate update
 
