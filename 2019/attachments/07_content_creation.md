@@ -7,7 +7,7 @@
 
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/teams.md):
 
-* A/V Automation
+* A/V Automation - Brandon Smith is working on setting up a database and API.
 * Conference and Workshop A/V - Ben Van Treese created a [checklist](https://docs.google.com/document/d/1co_SbACmSKAn1bcVp_sVPmnBm7vtmGkXUtoLWshaP8o/) for contractors.
 * Content Marketing - We need help from the marketing committee to promote the Twitch and YouTube channels.
 * Fundraising Committee Collaboration - no updates
@@ -18,7 +18,7 @@
 * Project 3810 Streaming - They are ready to start streaming events.
 * TBS Streaming - They are ready to stream events with at least one week's notice.
 * Tulsa Stream Team - Blixa has uploaded the 200OK videos to YouTube and is waiting for approval, titles, and descriptions.
-* Twitch Channel Management
-* Twitch Highlighting - need more volunteers
+* Twitch Channel Management - Kenneth, Dodzi, and Kimberly worked on adding branding to our Twitch page.
+* Twitch Highlighting - We need more volunteers to meet our goal of one per group.
 * YouTube Channel Management - We're thinking about starting a newscast.
 * Watch Parties (Simulcasting) - Watched Mary Licanin's Talk at Purcell Library (7/14) - 3 in attendance.
