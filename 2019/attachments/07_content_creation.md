@@ -12,7 +12,7 @@
 * Content Marketing - We need help from the marketing committee to promote the Twitch and YouTube channels.
 * Fundraising Committee Collaboration - no updates
 * Membership Committee Collaboration - We are planning to record membership and Code of Conduct videos, but we need volunteers.
-* Norman Stream Team - Kristin Garcia is recording member testimonials.
+* Norman Stream Team - Kristin Garcia is recording member testimonials. Also talking to Ada Jobs Foundation about connecting with their tech center to setup a watch party location in the area.
 * OKC A/V Hardware - Alex Adriaanse set up the new mixer and recorded a training video on it.
 * OKC A/V Volunteer Management - We are in the process of training and certifying stream volunteers.
 * Project 3810 Streaming - They are ready to start streaming events.
