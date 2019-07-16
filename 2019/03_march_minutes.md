@@ -12,6 +12,7 @@
 * Jeff Lowe
 * Lucas Watson
 * Carlos Moreno
+* Diana Varnes
 
 Previous minutes are approved without objection.
 
