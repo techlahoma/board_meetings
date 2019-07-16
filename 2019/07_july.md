@@ -18,7 +18,7 @@
   * Jeff will find someone to lead the [chair initiative](https://docs.google.com/document/d/1VKnymWIg9TdBpBgGDc0oP4Slb1EIjvDwFVRMR4W-jwE/edit#heading=h.1bgo4xvk9bgo)
   * Next step will be a proposal for our consideration including budget to approve
 * Board meetings 
-  * Meeting without [quorum](https://github.com/techlahoma/legal/blob/master/bylaws/bylaws.md#meetings-of-the-board-of-directors). Finding by Carlos Moreno: [approval of minutes is not an action taken by voting](https://docs.google.com/document/d/1oOaorIR1-AnBxtuG8VKLRpuhShWN0Wwceke9dgiugUk/edit?usp=sharing). Source: [boardeffect.com](boardeffect.com), a nonprofit established by web developers to serve board in the tech community.
+  * Meeting without [quorum](https://github.com/techlahoma/legal/blob/master/bylaws/bylaws.md#meetings-of-the-board-of-directors). Finding by Carlos Moreno: [approval of minutes is not an action taken by voting](https://docs.google.com/document/d/1oOaorIR1-AnBxtuG8VKLRpuhShWN0Wwceke9dgiugUk/edit?usp=sharing). Source: [boardeffect.com](http://boardeffect.com), a nonprofit established by web developers to serve board in the tech community.
   * Clarification of [attendance requirements](https://github.com/techlahoma/legal/blob/master/bylaws/Exhibit_B_Direct_Qual.md#qualifications)
 * License plate update
 
