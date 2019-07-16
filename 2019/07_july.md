@@ -14,9 +14,6 @@
 ## Board Reports
 * Thank you callouts - All Boardmembers
 * Chair Assessment & Replacement initiative - Jeff
-  * Need someone to [inventory and assess](https://github.com/techlahoma/techlahoma/issues/208) what we have 
-  * Jeff will find someone to lead the [chair initiative](https://docs.google.com/document/d/1VKnymWIg9TdBpBgGDc0oP4Slb1EIjvDwFVRMR4W-jwE/edit#heading=h.1bgo4xvk9bgo)
-  * Next step will be a proposal for our consideration including budget to approve
 * Board meetings 
   * Meeting without [quorum](https://github.com/techlahoma/legal/blob/master/bylaws/bylaws.md#meetings-of-the-board-of-directors). Finding by Carlos Moreno: [approval of minutes is not an action taken by voting](https://docs.google.com/document/d/1oOaorIR1-AnBxtuG8VKLRpuhShWN0Wwceke9dgiugUk/edit?usp=sharing). Source: [boardeffect.com](http://boardeffect.com), a nonprofit established by web developers to serve board in the tech community.
   * Clarification of [attendance requirements](https://github.com/techlahoma/legal/blob/master/bylaws/Exhibit_B_Direct_Qual.md#qualifications)
@@ -29,6 +26,7 @@
   * Next networking event, and who is leading?
 * User Groups - Carmen
 * Workshops - Kendall
+  * OKC Workshop leader secured?
 
 ## Committee Reports
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/07_content_creation.md) - Kimberly
@@ -43,6 +41,7 @@
   * Any post-Thunderplains engagement plans for new/existing members?
 
 ## Unfinished Business
+* Lindsey Jordan proposal
 
 ## New Business
 
