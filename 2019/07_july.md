@@ -31,6 +31,7 @@
 ## Committee Reports
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/07_content_creation.md) - Kimberly
 * Fundraising - Lucas 
+  * We got a $16k grant from Lobeck Taylor Family Foundation!
   * Update on Humblebundle opportunity?
   * Status on Hubspot implementation.
   * Status on Thunderplains sponsorship support.
