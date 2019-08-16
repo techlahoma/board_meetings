@@ -16,12 +16,12 @@
 
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/teams.md):
 
-* A/V Automation
-* Conference and Workshop A/V
+* A/V Automation - no updates, need more volunteers
+* Conference and Workshop A/V - no updates
 * Content Marketing
 * Fundraising Committee Collaboration - no updates
 * Membership Committee Collaboration - no updates
-* Newscast
+* Newscast - A few people expressed interest in starting a newscast, but no progress has been made.
 * Norman Stream Team
 * OKC A/V Hardware
 * OKC A/V Volunteer Management - need more volunteers
@@ -29,7 +29,7 @@
 * Project 3810 Streaming
 * TBS Streaming
 * Tulsa Stream Team - waiting to see if we should stream on Twitch soon.
-* Twitch Channel Management
+* Twitch Channel Management - no updates
 * Twitch Highlighting - need more volunteers
-* YouTube Channel Management
+* YouTube Channel Management - reached 1000 subscribers, need more volunteers
 * Watch Parties (Simulcasting) - need more volunteers
