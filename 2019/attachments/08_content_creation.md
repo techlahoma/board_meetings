@@ -23,7 +23,7 @@
 * Membership Committee Collaboration - no updates
 * Newscast - A few people expressed interest in starting a newscast, but no progress has been made.
 * Norman Stream Team - no updates
-* OKC A/V Hardware
+* OKC A/V Hardware - Alex Adriaanse purchased new audio interface and made various audio & video improvements. Kimberly Collins also made video color improvements.
 * OKC A/V Volunteer Management - need more volunteers
 * OKC Stream Team - need more volunteers
 * Project 3810 Streaming - no updates
