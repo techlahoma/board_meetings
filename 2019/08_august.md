@@ -32,5 +32,9 @@
 ## Unfinished Business
 
 ## New Business
+* Proposal: Board will officially meet every other month
+  * Starting immediately, we will change to an every other month board meeting.  
+  * Remaining 2019 meetings would be October & December. 
+  * If needed, on months that do not meet in which the board requires reports from Committees, Programs, or Officers, reports will be shared via text in approved channels. 
 
 ## President's Report 
