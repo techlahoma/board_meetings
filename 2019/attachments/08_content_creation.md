@@ -12,7 +12,7 @@
 * Create a checklist of our processes to provide to contractors for conferences and workshops.
   * [Done!](https://docs.google.com/document/d/1co_SbACmSKAn1bcVp_sVPmnBm7vtmGkXUtoLWshaP8o/edit)
 * Ensure publishing of all event videos to YouTube within 2 weeks of Twitch broadcast.
-  * We're struggling to get this done, since we don't have enough volunteers.
+  * We're struggling to get this done, since we don't have enough volunteers. The committee would like to discuss the possibility of paying people to do some of the work of meeting our goals.
 
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/teams.md):
 
@@ -27,9 +27,9 @@
 * OKC A/V Volunteer Management - need more volunteers
 * OKC Stream Team - need more volunteers
 * Project 3810 Streaming - no updates
-* TBS Streaming - no updates
-* Tulsa Stream Team - waiting to see if we should stream on Twitch soon.
+* TBS Streaming - may be streaming OKC# on 9/9.
+* Tulsa Stream Team - waiting to see if we should stream on Twitch soon. Tulsa Web Devs is ready to start streaming, but they meet at the same time as OKC SQL, so we will need to work that out.
 * Twitch Channel Management - no updates
-* Twitch Highlighting - need more volunteers
+* Twitch Highlighting - not keeping up, need more volunteers
 * YouTube Channel Management - reached 1000 subscribers, need more volunteers
 * Watch Parties (Simulcasting) - need more volunteers
