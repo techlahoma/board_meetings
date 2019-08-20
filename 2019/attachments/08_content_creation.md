@@ -2,7 +2,7 @@
 
 ## Update on Goals
 * Simulcast existing events to two education institutions or public libraries at least once per month during the school year.
-  * There has been very little interest in organizing or attending these events.
+  * There has been very little interest in organizing or attending these events. The committee would like to discuss removing this goal or brainstorming something different to do instead.
 * Increase YouTube subscribers to 1000.
   * Done!
 * For each user group with streamed meetups, train at least one volunteer on streaming and at least one volunteer on highlighting Twitch broadcasts and exporting them to YouTube.
