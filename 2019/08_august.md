@@ -14,6 +14,7 @@
 
 ## Board Reports
 * Thank you callouts - All Boardmembers
+* Board Meeting Attendance 2019 [report](https://docs.google.com/spreadsheets/d/13TgZt2_d_V47IJpTp3oGdxvOZxzcaEOa6sAd0X-N3Lg/edit?usp=sharing)
 
 ## Program Reports
 * Conferences & Events 
