@@ -36,14 +36,10 @@
   * Any work to engage new Techlahoma members from 200OK attendance?
 
 ## Unfinished Business
-
-## New Business
-* Proposal: Board will officially meet every other month
-  * Starting immediately, we will change to an every other month board meeting.  
-  * Remaining 2019 meetings would be October & December. 
-  * If needed, on months that do not meet in which the board requires reports from Committees, Programs, or Officers, reports will be shared via text in approved channels. 
 * By end of September, Program and Committee Chairs please report to board on progress towards your specific 2019 goals.
   * Please keep report at a bullet point summary level.
   * Should include enough qualitative & quantitative (where appropriate) data for Luke to use in his comprehensive impact reports to the greater Techlahoma community. 
 
-## President's Report 
+## New Business
+
+## President's Report
