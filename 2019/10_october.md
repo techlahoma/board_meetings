@@ -25,7 +25,7 @@
 * Workshops - Kendall
 
 ## Committee Reports
-* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/08_content_creation.md) - Kimberly
+* [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/10_content_creation.md) - Kimberly
 * Fundraising - Lucas 
 * Infrastructure - Devin
   * What is the succession plan for January 2020 (Devin's departure)?
