@@ -8,7 +8,7 @@
 * Collaboration with Membership Committee
   * No interest from Membership
 * Conference and Workshop A/V
-  
+  * We're planning to record member testimonials at ThunderPlains.
 * Content Marketing
 
 * Newscast
@@ -20,7 +20,7 @@
 * OKC A/V Volunteer Management
   
 * Project 3810 Streaming
-  
+  * OKC OSH streamed to Twitch in October.
 * Tulsa Streaming
   * Blixa streamed TWD to Techlahoma's Twitch channel in September, and it seemed to go well.
 * Twitch Channel Management
