@@ -3,6 +3,8 @@
 
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/_Teams.md):
 
+* A/V Automation
+  * No updates
 * Collaboration with Fundraising Committee
   * No updates
 * Collaboration with Membership Committee
@@ -10,15 +12,15 @@
 * Conference and Workshop A/V
   * We're planning to record member testimonials at ThunderPlains.
 * Content Marketing
-
+  * Cierra has been posting to Techlahoma's Medium blog.
 * Newscast
   * We have started streaming newscasts with announcements about events.
-* OKC A/V Automation
-  
+* Norman Streaming
+  * No updates
 * OKC A/V Hardware
-  
+  * No updates
 * OKC A/V Volunteer Management
-  
+  * No updates
 * Project 3810 Streaming
   * OKC OSH streamed to Twitch in October.
 * Tulsa Streaming
@@ -26,6 +28,6 @@
 * Twitch Channel Management
   * We're continuing to try to get more Twitch subscriptions.
 * Twitch Highlighting
-  * We're doing our best to stay caught up, but we always need more volunters.
+  * We're doing our best to stay caught up, but we always need more volunteers.
 * YouTube Channel Management
-
+  * No updates
