@@ -21,7 +21,7 @@
   * Thunderplains - Vance
   * 200OK - Luke
 * User Groups - Kristin
-  * [UG Report] (https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/01_UG%20Report.md)
+  * [UG Report](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/01_UG%20Report.md)
   * What is the succession plan for January 2020 (Carmen's departure)?
 * Workshops - Kendall
 
