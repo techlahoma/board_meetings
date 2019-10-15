@@ -11,5 +11,6 @@
   * Occuring after Thunderplains #ug-application-proj
 ## Meetup Chargers
   * https://www.meetup.com/lp/paymentchanges
+
 ##Succession Planning
   * Carmen has trained Kristin twice on the basics, still more to cover
