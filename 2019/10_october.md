@@ -9,7 +9,6 @@
 * Treasurer
     - [Budgets](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
     - [Runway](https://docs.google.com/spreadsheets/d/1BdSo4lCJLIDFu0a3EfQ3AWu2wgmotYP-qIzIDC4PXsk/edit?usp=sharing)
-    - [Review of original budget and status of 17k gap (budget reductions)](https://docs.google.com/spreadsheets/d/17swzWI4_Zcjjf5bJmC-dHTc9n0UXRsZC4yS3sK82IGc/edit?usp=sharing)
 * Lindsey Jordan initiative status update
 
 ## Board Reports
@@ -20,6 +19,7 @@
 * Conferences & Events 
   * Thunderplains - Vance
   * 200OK - Luke
+  * New UX conference presentation - Maxx
 * User Groups - Carmen
   * What is the succession plan for January 2020 (Carmen's departure)?
 * Workshops - Kendall
