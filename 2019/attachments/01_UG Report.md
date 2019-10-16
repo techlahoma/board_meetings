@@ -18,3 +18,9 @@
 ## Succession Planning
   * Carmen has trained Kristin twice on the basics, still more to cover
   * Timeline uncertain; will report back when Carmen returns
+##Soda Sponsor
+Per Ava: 
+Aaron Hazel - Feed the Children Director of Corporate Partnerships
+p:405-949-5137 c:405-417-0047
+email: aaron.hazel@feedthechildren.org
+Aaron is responsible for giving away additional coca-cola stock to non-profits as they can not give it to schools due to sugar content.
