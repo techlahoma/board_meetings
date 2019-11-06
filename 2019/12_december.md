@@ -38,5 +38,6 @@
 ## Unfinished Business
 
 ## New Business
+* License plates
 
 ## President's Report
