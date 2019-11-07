@@ -43,5 +43,6 @@
 
 ## New Business
 * License plates
+* 2020 board elections
 
 ## President's Report
