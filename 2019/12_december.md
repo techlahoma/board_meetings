@@ -17,7 +17,10 @@
 ## Program Reports
 * Conferences & Events 
   * 200 OK - Luke
-  * Thunderplains - Vance
+  * ThunderPlains - Vance
+    * ThunderPlains Recap (254 ticket sales including sponsors, speakers, and volunteers)
+    * Revenue
+    * Feedback from board members who attended?
   * UX Conference - Maxx?
 * User Groups - Kristin
 * Workshops - Kendall
@@ -25,15 +28,16 @@
 ## Committee Reports
 * [Content Creation](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/12_content_creation.md) - Kimberly
 * Fundraising - Lucas 
-  * Any post-Thunderplains fundraising or donation push?
+  * Any post-ThunderPlains fundraising or donation push?
 * Infrastructure - Devin
   * What is the succession plan for January 2020 (Devin's departure)?
+  * Need to find someone who is interested in managing heroku, 1password, and gsuite.
 * Marketing - Carlos
-  * Any post-Thunderplains videos / testimonial push planned?
+  * Any post-ThunderPlains videos / testimonial push planned?
 * Membership - Ava
   * Report on membership
   * Report on CoC
-  * Any plan to engage new Techlahoma members from Thunderplains attendance?
+  * Any plan to engage new Techlahoma members from ThunderPlains attendance?
 
 ## Unfinished Business
 
