@@ -44,5 +44,6 @@
 ## New Business
 * License plates
 * 2020 board elections
+* Shift 2020 board meetings to odd-numbered months
 
 ## President's Report
