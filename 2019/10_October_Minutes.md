@@ -49,7 +49,7 @@ August minutes were approved without objection.
 
 #### UX Conference Proposal
 - [Current Website](https://uxok.org/)
-- [Proposal]()
+- [Proposal](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/UXOK%20Conference%20v2.pdf)
 - Founded tulsa UX, helped with 200OK
 - Switching between OKC and Tulsa location.  100% sponsorship funded
 - Attendees = 200ish
