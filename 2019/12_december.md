@@ -22,6 +22,7 @@
     * Revenue
     * Feedback from board members who attended?
   * UX Conference - Maxx?
+  * OKC Networking Fair
 * User Groups - Kristin
 * Workshops - Kendall
 
