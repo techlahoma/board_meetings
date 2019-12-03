@@ -10,6 +10,8 @@
 * Content Marketing
 * Newscast
 * Norman Streaming
+  * The I-Hub has started telecasting their own events to Tulsa and OKC. 
+  * They hope to train their staff to be stream volunteers for Techlahoma support too.
 * OKC A/V Hardware
 * OKC A/V Volunteer Management
 * OKC Streaming
