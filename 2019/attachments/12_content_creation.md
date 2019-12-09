@@ -13,6 +13,8 @@
   * The I-Hub has started telecasting their own events to Tulsa and OKC. 
   * They hope to train their staff to be stream volunteers for Techlahoma support too.
 * OKC A/V Hardware
+  * Made minor timing adjustments to make audio and video more in sync in streamed videos.
+  * Working on purchasing a new microphone that will allow us to have louder audio and less noise in streamed videos.
 * OKC A/V Volunteer Management
 * OKC Streaming
   * Project 3810
