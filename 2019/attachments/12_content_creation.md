@@ -20,6 +20,7 @@
   * Project 3810
   * StarSpace46
   * TBS Factoring
+    * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
 * Tulsa Streaming
 * Twitch Channel Management
 * Twitch Highlighting
