@@ -15,6 +15,8 @@
   * Made minor timing adjustments to make audio and video more in sync in streamed videos.
   * Working on purchasing a new microphone that will allow us to have louder audio and less noise in streamed videos.
 * OKC A/V Volunteer Management
+  * We have identified streamers and highlighters for all groups that stream meetups.
+  * We are requiring two streamers and two highlighters for each group that requests streaming for 2020.
 * OKC Streaming
   * Project 3810
   * StarSpace46
