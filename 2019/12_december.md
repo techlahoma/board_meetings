@@ -59,15 +59,6 @@
     * [2020 New Board Nominee Responses](https://docs.google.com/spreadsheets/d/19bSOj5m1PqPufXYWTRR0Xh_MvEURCOpsarGvp3inI7w/edit?usp=sharing)
   - Conduct vote on 2020 Board Members
   - Fill Aaron's vaccant position for remaining 1 year term
-* Officer elections
-  - Overview
-    * Article 8.2 of Bylaws state officers hold office until successor is duly elected. 
-    * Devin is departing, thus new Secretary is needed.
-    * Luke is stepping down from VP office, thus new VP is needed. 
-  - [Officer Nominations](https://docs.google.com/spreadsheets/d/1Fn2-vhg5Vuctgua2RCFtp-WCXbcDrvq2Nq-SlMnudcA/edit?usp=sharing)
-  - Elect Secretary
-  - Elect Vice President
-  - If needed, Elect other nominated officers. 
 * License plates ? 
 
 ## President's Report
