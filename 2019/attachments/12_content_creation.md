@@ -4,9 +4,8 @@
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/_Teams.md):
 
 * A/V Automation
-* Collaboration with Fundraising Committee
-* Collaboration with Membership Committee
 * Conference and Workshop A/V
+  * Brent Beachler, Blixa Morgan, Chris Tse, and Kimberly Collins published the ThunderPlains videos on YouTube.
 * Content Marketing
 * Newscast
 * Norman Streaming
