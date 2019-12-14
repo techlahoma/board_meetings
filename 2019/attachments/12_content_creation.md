@@ -4,9 +4,9 @@
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/_Teams.md):
 
 * A/V Automation
-  * Got started on tools to more easily generate youtube thumbnails from the Cloudinary account
+  * Got started on tools to more easily generate YouTube thumbnails from the Cloudinary account
   * Experimenting with video database again
-    * First feature to focus on is having meetup table be updated nightly 
+    * First feature to focus on is updating meetup table nightly for streaming schedule
 * Conference and Workshop A/V
   * Brent Beachler, Blixa Morgan, Chris Tse, and Kimberly Collins published the ThunderPlains videos on YouTube.
 * Content Marketing
@@ -22,6 +22,7 @@
   * We are requiring two streamers and two highlighters for each group that requests streaming for 2020.
 * OKC Streaming
   * Project 3810
+    * Tried streaming but audio quality was very low. May try again at December meetup for OKC OSH .
   * StarSpace46
   * TBS Factoring
     * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
@@ -29,3 +30,4 @@
 * Twitch Channel Management
 * Twitch Highlighting
 * YouTube Channel Management
+  * Updated thumbnails for many videos.
