@@ -4,6 +4,9 @@
 ## Report from each [team/workgroup](https://github.com/techlahoma/broadcasting/blob/master/Teams/_Teams.md):
 
 * A/V Automation
+  * Got started on tools to more easily generate youtube thumbnails from the Cloudinary account
+  * Experimenting with video database again
+    * First feature to focus on is having meetup table be updated nightly 
 * Conference and Workshop A/V
   * Brent Beachler, Blixa Morgan, Chris Tse, and Kimberly Collins published the ThunderPlains videos on YouTube.
 * Content Marketing
