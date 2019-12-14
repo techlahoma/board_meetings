@@ -10,6 +10,7 @@
 * Conference and Workshop A/V
   * Brent Beachler, Blixa Morgan, Chris Tse, and Kimberly Collins published the ThunderPlains videos on YouTube.
 * Content Marketing
+  * No updates. We would appreciate some help with marketing our content.
 * Newscast
 * Norman Streaming
   * The I-Hub has started telecasting their own events to Tulsa and OKC. 
@@ -31,3 +32,5 @@
 * Twitch Highlighting
 * YouTube Channel Management
   * Updated thumbnails for many videos.
+  * Views and viewing time have been increasing as we have been putting more efforts into improving the channel.
+  * We're up to over 1230 subscribers and 650 videos.
