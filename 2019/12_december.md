@@ -28,7 +28,7 @@
   * UX Conference
   * OKC Networking Fair Update
     - Date, time, site, Sponsor Prospectus
-* User Groups - Kristin
+* [User Groups](https://github.com/techlahoma/board_meetings/blob/master/2019/attachments/12_UG_Report) - Kristin
 * Workshops - Kendall
 
 ## Committee Reports
