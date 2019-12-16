@@ -12,6 +12,9 @@
 * Content Marketing
   * No updates. We would appreciate some help with marketing our content.
 * Newscast
+  * Alex Ayon, Chris Tse, Kimberly Collins, and Ryan Quinn have been taking turns creating weekly newscasts which highlight the meetups for the upcoming week.
+  * There hasn't been much feedback to this point. Based on some feedback we've been looking for a cohost for the Tulsa newscasts, but no one has been able to commit to 40 minutes on every other Saturday.
+  * The newscasts are on hiatus for December due to the holidays and the resulting low group activity. 
 * Norman Streaming
   * The I-Hub has started telecasting their own events to Tulsa and OKC. 
   * They hope to train their staff to be stream volunteers for Techlahoma support too.
