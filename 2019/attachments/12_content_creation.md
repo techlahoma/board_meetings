@@ -26,8 +26,9 @@
   * We are requiring two streamers and two highlighters for each group that requests streaming for 2020.
 * OKC Streaming
   * Project 3810
-    * Tried streaming but audio quality was very low. May try again at December meetup for OKC OSH .
+    * Audio quality was very low on the first streaming attempt. Recorded December meetup for OKC OSH and will upload a condensed version of the video to YouTube.
   * StarSpace46
+    * We will be training new streaming volunteers identified in the 2020 user group applications.
   * TBS Factoring
     * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
 * Tulsa Streaming
