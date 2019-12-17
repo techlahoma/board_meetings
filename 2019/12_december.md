@@ -48,6 +48,8 @@
   * Report on CoC
 
 ## Unfinished Business
+* Thank-You Notes
+* Committee and Program Goal Updates
 
 ## New Business
 * 2020 Board member elections
