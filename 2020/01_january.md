@@ -1,4 +1,4 @@
-# January ??, 2020 7:00 pm
+# January 21, 2020 7:00 pm
 
 ## Open
 * Attendance (please be on call with video enabled)
@@ -28,7 +28,6 @@
 * Fundraising - ??
 * Infrastructure - ??
 * Marketing - Carlos
-  * Plan to help publicize OKC Networking event?
   * Progress on website or marketing calendar/plan?
 * Membership - ???
   * Report on membership
