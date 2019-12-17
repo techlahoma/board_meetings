@@ -10,7 +10,7 @@
 * Conference and Workshop A/V
   * Brent Beachler, Blixa Morgan, Chris Tse, and Kimberly Collins published the ThunderPlains videos on YouTube.
 * Content Marketing
-  * No updates. We would appreciate some help with marketing our content.
+  * No updates. We would appreciate some help with marketing our content, especially on social media.
 * Newscast
   * Alex Ayon, Chris Tse, Kimberly Collins, and Ryan Quinn have been taking turns creating weekly newscasts which highlight the meetups for the upcoming week.
   * There hasn't been much feedback to this point. Based on some feedback we've been looking for a cohost for the Tulsa newscasts, but no one has been able to commit to 40 minutes on every other Saturday.
@@ -33,7 +33,7 @@
     * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
 * Tulsa Streaming
 * Twitch Channel Management
-  * No updates.
+  * No updates. We would like to expand streaming in Tulsa and other areas, including other stream types such as live coding and pair programming.
 * Twitch Highlighting
   * We have two highlighters identified for each group and will be onboarding and training the new ones soon.
 * YouTube Channel Management
