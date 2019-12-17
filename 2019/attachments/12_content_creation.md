@@ -23,7 +23,7 @@
   * Working on purchasing a new microphone that will allow us to have louder audio and less noise in streamed videos.
 * OKC A/V Volunteer Management
   * We have identified streamers and highlighters for all groups that stream meetups.
-  * We are requiring two streamers and two highlighters for each group that requests streaming for 2020.
+  * We required two streamers and two highlighters for each group that requests streaming for 2020.
 * OKC Streaming
   * Project 3810
     * Audio quality was very low on the first streaming attempt. Recorded December meetup for OKC OSH and will upload a condensed version of the video to YouTube.
@@ -33,7 +33,9 @@
     * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
 * Tulsa Streaming
 * Twitch Channel Management
+  * No updates.
 * Twitch Highlighting
+  * We have two highlighters identified for each group and will be onboarding and training the new ones soon.
 * YouTube Channel Management
   * Updated thumbnails for many videos.
   * Views and viewing time have been increasing as we have been putting more efforts into improving the channel.
