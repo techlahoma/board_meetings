@@ -21,6 +21,7 @@
 ## Program Reports
 * Conferences & Events - Vance & Luke
   * 200 OK
+    - CFP will open soon
   * ThunderPlains
     - ThunderPlains Recap (254 ticket sales including sponsors, speakers, and volunteers)
     - Revenue
