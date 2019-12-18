@@ -32,6 +32,7 @@
   * TBS Factoring
     * In light of a busier than average season and onboarding new team members, we were unable to schedule any new streaming events for TBS.  We are still very happy to do so in the future! 
 * Tulsa Streaming
+ * No updates.
 * Twitch Channel Management
   * No updates. We would like to expand streaming in Tulsa and other areas, including other stream types such as live coding and pair programming.
 * Twitch Highlighting
