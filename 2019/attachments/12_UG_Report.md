@@ -3,7 +3,7 @@
  * 30 User Groups submitted
 # User Groups Goal Updates
 Chairs: Carmen & Kristin
-## 2019 Goals
+# 2019 Goals
 * Identify cause of UG attendance decrease & implement plan to correct.
   * Problems: Access to stream, not enough in the day, schedules
   * Combining UGs to bring common topics together
