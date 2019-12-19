@@ -20,11 +20,12 @@
   * ThunderPlains
   * UX Conference
   * OKC Networking Fair Update
+    * Add RACK59 as a partner/venue where alcohol can be served
 * User Groups - Kristin
 * Workshops - 
 
 ## Committee Reports
-* Content Creation
+* Content Creation - ??
 * Fundraising - ??
 * Infrastructure - ??
 * Marketing - Carlos
