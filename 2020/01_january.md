@@ -1,28 +1,32 @@
 # January 21, 2020 7:00 pm
 
 ## Open
+* In absence of Secretary, Diana has agreed to take official minutes
 * Attendance (please be on call with video enabled)
-* Approve [December 2019 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2019/10_october_minutes.md)
+* Approve [December 2019 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2019/12_december_minutes.md)
 
 ## Officer Reports
 * Vice President
 * Treasurer
     - [Budgets](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
     - [Runway](https://docs.google.com/spreadsheets/d/1BdSo4lCJLIDFu0a3EfQ3AWu2wgmotYP-qIzIDC4PXsk/edit?usp=sharing)
-* Lindsey Jordan initiative status update
+* Executive Director initiative status update
+* Officers approved short-term Event Planner support for Networking Event
+    - Within approved event budget
+    - Model could scale to be used for other Techlahoma events (Workshops, Conferences, Networking)
+* President approved Rack59 as approved venue for Techlahoma event serving alcohol
 
 ## Board Reports
 * Thank you callouts - All Boardmembers
 
 ## Program Reports
-* Conferences & Events - Vance & Luke
+* Conferences & Events - Vance / Luke
   * 200 OK
   * ThunderPlains
   * UX Conference
-  * OKC Networking Fair Update
-    * Add RACK59 as a partner/venue where alcohol can be served
+  * OKC Networking Fair
 * User Groups - Kristin
-* Workshops - 
+* Workshops - Kendall / Diana
 
 ## Committee Reports
 * Content Creation - ??
@@ -35,16 +39,28 @@
   * Report on CoC
 
 ## Unfinished Business
+* None
 
 ## New Business
-* Officer elections
+* Approval of 2020 supported UGs
+* Approval of date & time of Board Strategic Retreat
+* Remove the "approved location" provision line 4.iii of [Techlahoma Alcohol Policy](https://github.com/techlahoma/legal/blob/master/policies/alcohol.md)
+    - Line 4.iii states:"At this time, the locations of 36°N in Tulsa, StarSpace46 in Oklahoma City, and Project 3810 in Oklahoma City have been designated by Techlahoma as spaces in which alcohol may be served."
+    - Rationale:  As long as the event and location is adhering to the requirements in the alcohol policy, liability is effectively limited.
+* Remove the line "You must have completed your full term limit in this role." from the [Bylaw Policy officer qualifications - Member section](https://github.com/techlahoma/legal/blob/master/bylaws/Exhbit_C_Officer_Qual.md#qualifications)
+    - This "completed" term is confusing, and has caused confusion in the past.  Does "term limit" mean the 3 consecutive term limit as director, or does it mean full completion of a single 2 year term?
+    - Eliminating officially would clear the way for first-term directors to serve as officers.
+    - Eliminating would still require officers to be a current elected director and meet all other member and volunteering requirements. 
+* Elect new officers
   - Overview
     * Article 8.2 of Bylaws state officers hold office until successor is duly elected. 
     * Devin is departing, thus new Secretary is needed.
     * Luke is stepping down from VP office, thus new VP is needed. 
+    * There are nominations for President as well as VP, thus we will run elections for all 4 officer positions. 
   - [Officer Nominations](https://docs.google.com/spreadsheets/d/1Fn2-vhg5Vuctgua2RCFtp-WCXbcDrvq2Nq-SlMnudcA/edit?usp=sharing)
-  - Elect Secretary
+  - Elect President
   - Elect Vice President
-  - If needed, Elect other nominated officers. 
+  - Elect Treasurer
+  - Elect Secretary
 
 ## President's Report
