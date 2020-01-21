@@ -8,7 +8,7 @@
 ## Officer Reports
 * Vice President
 * Treasurer
-    - [Budgets](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
+    - [2019 Budgets](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
     - [Runway](https://docs.google.com/spreadsheets/d/1BdSo4lCJLIDFu0a3EfQ3AWu2wgmotYP-qIzIDC4PXsk/edit?usp=sharing)
 * Executive Director initiative status update
 * Officers approved short-term Event Planner support for Networking Event
@@ -44,6 +44,7 @@
 ## New Business
 * Approval of 2020 supported UGs
 * Approval of date & time of Board Strategic Retreat
+* Approval of 2020 Budget: https://docs.google.com/spreadsheets/d/1NgAvuGxFSfb76F_y2eXPzNShjrD6bIv7DzNp_e3c1rQ/edit?usp=sharing
 * Remove the "approved location" provision line 4.iii of [Techlahoma Alcohol Policy](https://github.com/techlahoma/legal/blob/master/policies/alcohol.md)
     - Line 4.iii states:"At this time, the locations of 36°N in Tulsa, StarSpace46 in Oklahoma City, and Project 3810 in Oklahoma City have been designated by Techlahoma as spaces in which alcohol may be served."
     - Rationale:  As long as the event and location is adhering to the requirements in the alcohol policy, liability is effectively limited.
