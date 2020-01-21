@@ -48,10 +48,11 @@
 * Remove the "approved location" provision line 4.iii of [Techlahoma Alcohol Policy](https://github.com/techlahoma/legal/blob/master/policies/alcohol.md)
     - Line 4.iii states:"At this time, the locations of 36°N in Tulsa, StarSpace46 in Oklahoma City, and Project 3810 in Oklahoma City have been designated by Techlahoma as spaces in which alcohol may be served."
     - Rationale:  As long as the event and location is adhering to the requirements in the alcohol policy, liability is effectively limited.
-* Remove the line "You must have completed your full term limit in this role." from the [Bylaw Policy officer qualifications - Member section](https://github.com/techlahoma/legal/blob/master/bylaws/Exhbit_C_Officer_Qual.md#qualifications)
-    - This "completed" term is confusing, and has caused confusion in the past.  Does "term limit" mean the 3 consecutive term limit as director, or does it mean full completion of a single 2 year term?
+* Approve updates to Officer Qualification Policy to allow 1st year boardmembers [Official proposed Bylaw Policy diff](https://github.com/techlahoma/legal/pull/3/commits/ee394b35961c19fa37ae51e74e1d6a8c76209d29)
+    - The "completed" term is confusing, and has caused confusion in the past.  Does "term limit" mean the 3 consecutive term limit as director, or does it mean full completion of a single 2 year term?
     - Eliminating officially would clear the way for first-term directors to serve as officers.
-    - Eliminating would still require officers to be a current elected director and meet all other member and volunteering requirements. 
+    - Updated wording aligns with the already approved board decision from Feb 2018 (just never was updated in policy wording)
+    - Eliminating would still require officers to be a current or former director and meet all other member and volunteering requirements. 
 * Elect new officers
   - Overview
     * Article 8.2 of Bylaws state officers hold office until successor is duly elected. 
