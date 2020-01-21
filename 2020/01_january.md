@@ -25,7 +25,7 @@
   * ThunderPlains
   * UX Conference
   * OKC Networking Fair
-* User Groups - Kristin
+* User Groups - Kristin [UG Report](https://github.com/techlahoma/board_meetings/blob/master/2020/01_ug_comm.md)
 * Workshops - Kendall / Diana
 
 ## Committee Reports
