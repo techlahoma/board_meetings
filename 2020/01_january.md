@@ -43,7 +43,6 @@
 
 ## New Business
 * Approval of 2020 supported UGs
-* Approval of date & time of Board Strategic Retreat
 * Approval of 2020 Budget: https://docs.google.com/spreadsheets/d/1NgAvuGxFSfb76F_y2eXPzNShjrD6bIv7DzNp_e3c1rQ/edit?usp=sharing
 * Remove the "approved location" provision line 4.iii of [Techlahoma Alcohol Policy](https://github.com/techlahoma/legal/blob/master/policies/alcohol.md)
     - Line 4.iii states:"At this time, the locations of 36°N in Tulsa, StarSpace46 in Oklahoma City, and Project 3810 in Oklahoma City have been designated by Techlahoma as spaces in which alcohol may be served."
