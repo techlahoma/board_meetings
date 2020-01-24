@@ -41,9 +41,9 @@ Everyone on board to donate at least \$1 by Feb 1.
 
 ### Thank you callouts
 
-Ryan Bopp – leading networking event, doing an excellent job
+Ryan Bupp – leading networking event, doing an excellent job
 
-Bree Weathers – Techlahoma community member, graduate of ctrl shift school, helping out with alcohol policy and handling alcohol at networking event
+Bri Weathers – Techlahoma community member, graduate of ctrl shift school, helping out with alcohol policy and handling alcohol at networking event
 
 Kristin Garcia – Has done a great job with user group committee. Thank you!
 
