@@ -31,42 +31,44 @@
   - Constultants are reviewing survey results and all info we've given them
 - Infrastructure - Luke
 - Marketing - Matt
+- Membership - Ryan
+
+
+## Unfinished Business
+
+Board Retreat Action Items:
+[Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
+- Volunteers
+  - Techlahoma-wide communication to make it easier to find events, get involved & stay involved
+    - Immediate Website changes to align — Jeff & Dodzi
+    - Communicate impact on website - Jeff
+    - Recognize past and present members on website
+  - Strategic Marketing Plan — Matt 
+- Membership
+   - Formalize Memberships:
+     - What are our types of members? Personas & Descriptions (after survey)- **Luke, Kristin, Se Yeon, Diana**
+     - Corporate Membership includes sponsor at Conferences & Events (# of members); Program sponsorship
+     - Subscription vs Membership
+     - Communication of Level/Benefits
+     - Messaging for the Memberships
+     - *Likely not published until 2021 at earliest
+   - Newsletter/ Communication Channel of Techlahoma News
+   - Celebration of User Groups to establish they are Techlahoma Members- **Kristin** to Marketing 
+   - UGLS Retreat
+   - Identify a CRM/Who will run it/Where is all our data?- Membership Chair/ **Luke**
+   - Website (Get Involved page)- **Jeff**
+- Marketing
   - Techlahoma-wide communication to make it easier to find events, get involved & stay involved
     - Immediate Website changes to align — Jeff & Dodzi
     - Communicate impact on website - Jeff
     - Recognize past and present members on website
   - Strategic Marketing Plan — Matt 
 
-- Membership - Ryan
-  - Volunteers
-    - Techlahoma-wide communication to make it easier to find events, get involved & stay involved
-      - Immediate Website changes to align — Jeff & Dodzi
-      - Communicate impact on website - Jeff
-      - Recognize past and present members on website
-    - Strategic Marketing Plan — Matt 
-  - Membership
-     - Formalize Memberships:
-       - What are our types of members? Personas & Descriptions (after survey)- **Luke, Kristin, Se Yeon, Diana**
-       - Corporate Membership includes sponsor at Conferences & Events (# of members); Program sponsorship
-       - Subscription vs Membership
-       - Communication of Level/Benefits
-       - Messaging for the Memberships
-       - *Likely not published until 2021 at earliest
-     - Newsletter/ Communication Channel of Techlahoma News
-     - Celebration of User Groups to establish they are Techlahoma Members- **Kristin** to Marketing 
-     - UGLS Retreat
-     - Identify a CRM/Who will run it/Where is all our data?- Membership Chair/ **Luke**
-     - Website (Get Involved page)- **Jeff**
-
-[Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
-
-## Unfinished Business
+## New Business
 
  - Coronavirus discussion
    - 200OK
    - User Groups
    - Anything else?
-
-## New Business
-
+   
 ## Adjourn
