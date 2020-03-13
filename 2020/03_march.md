@@ -62,7 +62,7 @@
 
 ## Unfinished Business
 
- - Coronavirus dicussion
+ - Coronavirus discussion
    - 200OK
    - User Groups
    - Anything else?
