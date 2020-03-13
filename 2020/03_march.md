@@ -39,11 +39,12 @@
 Board Retreat Action Items:
 [Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
 - Volunteers
-  - Techlahoma-wide communication to make it easier to find events, get involved & stay involved
-    - Immediate Website changes to align — Jeff & Dodzi
-    - Communicate impact on website - Jeff
-    - Recognize past and present members on website
-  - Strategic Marketing Plan — Matt 
+  - Badge framework. **Dozi**
+    - 1 pager explainer on website. - **Jeff**
+  - Thank You notes & one-on-one check-ins for KEY Volunteers. “Are you okay? How can I unblock you? - **Jeff**
+  - Townhall presentation of thank yous to volunteers, public recognition (and give a gift, probably) -- **Kendall**
+  - Collect and share out volunteer testimonials (announce via Slack channel) and SHARE THE HECK OUT OF IT. --**Tommy**
+  - Recognition of volunteers/past board, ug leaders at our conferences!
 - Membership
    - Formalize Memberships:
      - What are our types of members? Personas & Descriptions (after survey)- **Luke, Kristin, Se Yeon, Diana**
@@ -52,17 +53,17 @@ Board Retreat Action Items:
      - Communication of Level/Benefits
      - Messaging for the Memberships
      - *Likely not published until 2021 at earliest
-   - Newsletter/ Communication Channel of Techlahoma News
+   - Newsletter/ Communication Channel of Techlahoma News (Strategic Marketing Plan)
    - Celebration of User Groups to establish they are Techlahoma Members- **Kristin** to Marketing 
    - UGLS Retreat
    - Identify a CRM/Who will run it/Where is all our data?- Membership Chair/ **Luke**
    - Website (Get Involved page)- **Jeff**
 - Marketing
   - Techlahoma-wide communication to make it easier to find events, get involved & stay involved
-    - Immediate Website changes to align — Jeff & Dodzi
-    - Communicate impact on website - Jeff
+    - Immediate Website changes to align — **Jeff & Dodzi**
+    - Communicate impact on website - **Jeff**
     - Recognize past and present members on website
-  - Strategic Marketing Plan — Matt 
+  - Strategic Marketing Plan — **Matt** 
 
 ## New Business
 
