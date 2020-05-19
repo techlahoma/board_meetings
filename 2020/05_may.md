@@ -7,11 +7,11 @@
 
 ## Officer Reports
 
-- Treasurer
-  - [2019 Budgets](https://docs.google.com/spreadsheets/d/1tw-q8jl-9VMMZ2OmxKM6sCq0A82pPU8yLPMsnaI-DGE/edit?usp=sharing)
-  - [Runway](https://docs.google.com/spreadsheets/d/1BdSo4lCJLIDFu0a3EfQ3AWu2wgmotYP-qIzIDC4PXsk/edit?usp=sharing)
+- President/Finacials
+  - [New Budgets](https://docs.google.com/spreadsheets/d/1NgAvuGxFSfb76F_y2eXPzNShjrD6bIv7DzNp_e3c1rQ/edit?usp=sharing)
+  - [2020 Budget Tracking](https://docs.google.com/spreadsheets/d/10KlK1Yb6_Gp2sAZvnNZ5tbD08TMlkY_XINKqSM74CLo/edit?usp=sharing)
+  - [Runway](https://docs.google.com/spreadsheets/d/1KJwYtzZFRyrqAQlxPbul3t5pmGXcjS-y4NlijMAU0Lk/edit?usp=sharing)
 - Vice President
-- President
 
 ## Program Reports
 
@@ -21,22 +21,31 @@
   - UX Conference
   - Networking Fairs
 - User Groups - Kristin
-- Workshops - Diana
+- Workshops & Civic Tech - Diana
 
 ## Committee Reports
 
 - Content Creation - Dodzi
 - Fundraising - Kendall - Audit report
-  - Constultants are reviewing survey results and all info we've given them
+  - Moving forward with Fundraising Plan
+  - Bridge Plan
+  - Annual Fund Design
 - Infrastructure - Luke
 - Marketing - Matt
 - Membership - Ryan
 
 ## Unfinished Business
 
-Board Retreat Action Items:
+Board Retreat Action Items (possibly table):
 [Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
 
 ## New Business
+
+Discuss what our guidance should be for in person meetings.
+
+Does Thunderplains need to be online in October?
+
+Should we fundraise?
+ - [Lindsay Jordan's Facebook post about fundraising](https://www.facebook.com/lindsay.goblejordan/videos/10102580579550258/?__xts__[0]=68.ARANgrpLbvT7VQG5Iiwpo_71P0O5q7cYkTzvb-Qf-mARaK68PQ0JdTRaemEKSsmE_OenUbrIkvuS6Auqy4kH1lM20PgoY6DnucrEFt-cMDjicf0mppyNcjq6djgMr9wqX0yirb9JBl0aTPUUSdx__xZLuO6RhODnJISY4myaqm1BEOXCJdMiYLLRLxYVX_qApcdeUTM3KYVz-ZhEozgqauS10IA&__tn__=-R)
 
 ## Adjourn
