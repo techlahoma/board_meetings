@@ -3,7 +3,7 @@
 ## Open
 
 - Attendance (please be on call with video enabled)
-- Approve [January 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/01_january_minutes.md)
+- Approve [March 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/03_march_minutes.md)
 
 ## Officer Reports
 
