@@ -7,7 +7,7 @@
 
 ## Officer Reports
 
-- President/Finacials
+- President/Financials
   - [New Budgets](https://docs.google.com/spreadsheets/d/1NgAvuGxFSfb76F_y2eXPzNShjrD6bIv7DzNp_e3c1rQ/edit?usp=sharing)
   - [2020 Budget Tracking](https://docs.google.com/spreadsheets/d/10KlK1Yb6_Gp2sAZvnNZ5tbD08TMlkY_XINKqSM74CLo/edit?usp=sharing)
   - [Runway](https://docs.google.com/spreadsheets/d/1KJwYtzZFRyrqAQlxPbul3t5pmGXcjS-y4NlijMAU0Lk/edit?usp=sharing)
