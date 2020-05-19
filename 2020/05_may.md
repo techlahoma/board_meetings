@@ -12,6 +12,12 @@
   - [2020 Budget Tracking](https://docs.google.com/spreadsheets/d/10KlK1Yb6_Gp2sAZvnNZ5tbD08TMlkY_XINKqSM74CLo/edit?usp=sharing)
   - [Runway](https://docs.google.com/spreadsheets/d/1KJwYtzZFRyrqAQlxPbul3t5pmGXcjS-y4NlijMAU0Lk/edit?usp=sharing)
 - Vice President
+  - [May 2020 Report](https://drive.google.com/file/d/163pLAbEZ7Lz9RmA-gpThKrVqZqBq3Coa/view?usp=sharing)
+  - Techlahoma Website Updates
+  - Guidestar non-profit profile updated
+  - Techlahoma Shields Program
+  - Nursing Home Virtual Visit partnership opportunity
+  - Impact data
 
 ## Program Reports
 
