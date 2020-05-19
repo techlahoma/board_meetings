@@ -30,6 +30,7 @@
   - Moving forward with Fundraising Plan
   - Bridge Plan
   - Annual Fund Design
+  - [Report](https://github.com/techlahoma/board_meetings/blob/master/2020/assets/Techlahoma%20Fundraising%20Readiness%20Assessment%20Combined%20Report.pdf)
 - Infrastructure - Luke
 - Marketing - Matt
 - Membership - Ryan
