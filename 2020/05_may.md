@@ -68,6 +68,6 @@ Should we fundraise?
 
 - [Lindsay Jordan's Facebook post about fundraising](https://www.facebook.com/lindsay.goblejordan/videos/10102580579550258/?__xts__[0]=68.ARANgrpLbvT7VQG5Iiwpo_71P0O5q7cYkTzvb-Qf-mARaK68PQ0JdTRaemEKSsmE_OenUbrIkvuS6Auqy4kH1lM20PgoY6DnucrEFt-cMDjicf0mppyNcjq6djgMr9wqX0yirb9JBl0aTPUUSdx__xZLuO6RhODnJISY4myaqm1BEOXCJdMiYLLRLxYVX_qApcdeUTM3KYVz-ZhEozgqauS10IA&__tn__=-R)
 
-[Community PPP Website Project] (https://github.com/techlahoma/board_meetings/blob/master/2020/PPP_Project.md)
+[Community PPP Website Project](https://github.com/techlahoma/board_meetings/blob/master/2020/PPP_Project.md)
 
 ## Adjourn
