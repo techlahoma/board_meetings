@@ -39,6 +39,18 @@
   - [Report](https://github.com/techlahoma/board_meetings/blob/master/2020/assets/Techlahoma%20Fundraising%20Readiness%20Assessment%20Combined%20Report.pdf)
 - Infrastructure - Luke
 - Marketing - Matt
+  - Added 8 new volunteers and started conducting monthly calls to coordinate activities. (Thanks to Dodzi for assisting with recruitment!)
+  - Helped promote Beginner Webinar which attracted 57 attendees.
+  - Helped promote 200OK which netted \$4,000+ in donations.
+  - Created a new "Learn" page to feature past user group talks at techlahoma.org/learn.
+  - Restarted the weekly newsletter to promote upcoming events & timely information. (Thanks to Kendall for helping restart this!)
+  - Started experimenting with new ways to reshare clips of past user group talks to social media.
+  - Other projects in-progress:
+    - Website Optimization & Updates
+    - Job Search Webinar
+    - Updating YouTube Playlists to increase discoverability
+    - Creating an outreach list of people who can help promote events.
+    - Drafting & setting up automated emails to welcome future newsletter subscribers.
 - Membership - Ryan
 
 ## Unfinished Business
@@ -53,7 +65,8 @@ Discuss what our guidance should be for in person meetings.
 Does Thunderplains need to be online in October?
 
 Should we fundraise?
- - [Lindsay Jordan's Facebook post about fundraising](https://www.facebook.com/lindsay.goblejordan/videos/10102580579550258/?__xts__[0]=68.ARANgrpLbvT7VQG5Iiwpo_71P0O5q7cYkTzvb-Qf-mARaK68PQ0JdTRaemEKSsmE_OenUbrIkvuS6Auqy4kH1lM20PgoY6DnucrEFt-cMDjicf0mppyNcjq6djgMr9wqX0yirb9JBl0aTPUUSdx__xZLuO6RhODnJISY4myaqm1BEOXCJdMiYLLRLxYVX_qApcdeUTM3KYVz-ZhEozgqauS10IA&__tn__=-R)
+
+- [Lindsay Jordan's Facebook post about fundraising](https://www.facebook.com/lindsay.goblejordan/videos/10102580579550258/?__xts__[0]=68.ARANgrpLbvT7VQG5Iiwpo_71P0O5q7cYkTzvb-Qf-mARaK68PQ0JdTRaemEKSsmE_OenUbrIkvuS6Auqy4kH1lM20PgoY6DnucrEFt-cMDjicf0mppyNcjq6djgMr9wqX0yirb9JBl0aTPUUSdx__xZLuO6RhODnJISY4myaqm1BEOXCJdMiYLLRLxYVX_qApcdeUTM3KYVz-ZhEozgqauS10IA&__tn__=-R)
 
 Community PPP Website Project
 
