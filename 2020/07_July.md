@@ -26,15 +26,15 @@
 
 - Content Creation - Dodzi
 - Fundraising - Kendall - Audit report
- - New Mission Statement:
-   - Enrich Oklahoma’s technologists of all backgrounds through education, connection, and opportunity.
+  - New Mission Statement:
+    - Enrich Oklahoma’s technologists of all backgrounds through education, connection, and opportunity.
 - Infrastructure - Luke
 - Marketing - Matt
 - Membership - Ryan
 
 ## Unfinished Business
 
-[Vision Discussion](Enrich Oklahoma’s technologists of all backgrounds through education, connection, and opportunity.)
+[Vision Discussion](https://docs.google.com/document/d/1XS7WrOjEUrEoWMxFdeL2BubBoOqozTDjAof3GvZ51Q4/edit#bookmark=id.29hq5ukobxyh)
 
 Board Retreat Action Items (table):
 [Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
@@ -47,7 +47,6 @@ New Budget Proposal
       - Including online content and volunteer recognition we talked about.
       - User Group communication
       - 5-10 hours/week
-    - User Group increase
     - Thunderplains or other event coordination? 
     - Anything else
     
