@@ -21,6 +21,8 @@
   - Networking Fairs
 - User Groups - Kristin
 - Workshops & Civic Tech - Diana
+  - Doing a DjangoGirls in collaboration with Holberton for GEW Nov 6-7 (Kaitlin doesn't have capacity to do at library anymore with COVID). 36N would like in person, but Diana and Obum working on virtual workshop.
+  -NotForProf.it new project, in collab with Code for Tulsa, Palomar (Ctrl+Shift School) - reaching out to Greenwood District and OKC Black Chamber of Commerce
 
 ## Committee Reports
 
@@ -49,6 +51,7 @@ New Budget Proposal
       - 5-10 hours/week
     - Thunderplains or other event coordination? 
     - Anything else
+    - DEI Training - 4 sessions 1 hour long each over lunch - create poll to see what day of the week works best and what month
     
 ## Thank Yous
 
