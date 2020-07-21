@@ -23,6 +23,7 @@
 - Workshops & Civic Tech - Diana
   - Doing a DjangoGirls in collaboration with Holberton for GEW Nov 6-7 (Kaitlin doesn't have capacity to do at library anymore with COVID). 36N would like in person, but Diana and Obum working on virtual workshop.
   -NotForProf.it new project, in collab with Code for Tulsa, Palomar (Ctrl+Shift School) - reaching out to Greenwood District and OKC Black Chamber of Commerce
+  -National Day of Civic Hacking - COVID Response & Social Safety Nets - Saturday, September 12
 
 ## Committee Reports
 
