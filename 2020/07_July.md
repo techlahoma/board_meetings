@@ -3,7 +3,7 @@
 ## Open
 
 - Attendance (please be on call with video enabled)
-- Approve [May 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/03_march_minutes.md)
+- Approve [May 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/05_may_minutes.md)
 
 ## Officer Reports
 
@@ -26,12 +26,15 @@
 
 - Content Creation - Dodzi
 - Fundraising - Kendall - Audit report
- - New Mission
+ - New Mission Statement:
+   - Enrich Oklahoma’s technologists of all backgrounds through education, connection, and opportunity.
 - Infrastructure - Luke
 - Marketing - Matt
 - Membership - Ryan
 
 ## Unfinished Business
+
+[Vision Discussion](Enrich Oklahoma’s technologists of all backgrounds through education, connection, and opportunity.)
 
 Board Retreat Action Items (table):
 [Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
@@ -39,6 +42,15 @@ Board Retreat Action Items (table):
 ## New Business
 
 New Budget Proposal
-
+  - Major changes: Hire someone for part time work
+    - Newsletter
+      - Including online content and volunteer recognition we talked about.
+      - User Group communication
+      - 5-10 hours/week
+    - User Group increase
+    - Thunderplains or other event coordination? 
+    - Anything else
+    
+## Thank Yous
 
 ## Adjourn
