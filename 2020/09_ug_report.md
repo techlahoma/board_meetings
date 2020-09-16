@@ -12,7 +12,7 @@
    - Draft being worked on by Kristin & Emily
    - Deadline to push is October 15
    - Discuss deadline for return of applications (Nov 1 or 15)
-   - Voting?
+   - Voting Dates? UGs and BOD 2021
 ## Webinars
    - Still hosting two monthly webinars for New to Tech and Jobs in Tech
    - Discussed with Emily at some point figuring out a good onboarding system for new members
