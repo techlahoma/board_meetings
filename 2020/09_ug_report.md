@@ -1,11 +1,13 @@
 ## User Group General Updates
   - Not all UGs are meeting (I'll create an activity list to share this week)
   - Virtual Meetups are still taking place
-  - Followup on Meetup:
-   - Quick Slack Survey (9 replies)
-   - All mentioned they needed something
-   - Some requested access to websites but other commented that updating websites wouldn't be consistant
-   - Overall: they need something to schedule events and invite, they rely on the event system, they want something with an API to push to other sources
+  - Questions still coming through about streaming Meetups: Recommendation of streaming training or videos
+  - Requested that Emily work on creating a solid directory of UGLs and a Mailchimp group for emails
+ # Followup on Meetup:
+    - Quick Slack Survey (9 replies)
+    - All mentioned they needed something
+    - Some requested access to websites but other commented that updating websites wouldn't be consistant
+    - Overall: they need something to schedule events and invite, they rely on the event system, they want something with an API to push to other sources
 ## User Group Applications
    - Draft being worked on by Kristin & Emily
    - Deadline to push is October 15
