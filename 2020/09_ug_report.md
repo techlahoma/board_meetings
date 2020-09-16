@@ -10,7 +10,7 @@
    - Overall: they need something to schedule events and invite, they rely on the event system, they want something with an API to push to other sources
 ## User Group Applications
    - Draft being worked on by Kristin & Emily
-   - Deadline to push is October 15
+   - Deadline to push is October 1
    - Discuss deadline for return of applications (Nov 1 or 15)
    - Voting Dates? UGs and BOD 2021
 ## Webinars
