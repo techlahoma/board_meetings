@@ -19,7 +19,7 @@
   - ThunderPlains
   - UX Conference
   - Networking Fairs
-- User Groups - Kristin
+- [User Groups](https://github.com/techlahoma/board_meetings/blob/master/2020/09_ug_report.md) - Kristin
 - Workshops & Civic Tech - Diana
 
 ## Committee Reports
