@@ -3,7 +3,7 @@
 ## Open
 
 - Attendance (please be on call with video enabled)
-- Approve [July 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/05_may_minutes.md)
+- Approve [July 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/07_july_minutes.md)
 
 ## Officer Reports
 
@@ -34,7 +34,8 @@
 ## Unfinished Business
 
 [Vision Discussion](https://docs.google.com/document/d/1XS7WrOjEUrEoWMxFdeL2BubBoOqozTDjAof3GvZ51Q4/edit#bookmark=id.29hq5ukobxyh)
- - Next steps are the value of membership--what do we get for being a member?
+
+- Next steps are the value of membership--what do we get for being a member?
 
 Board Retreat Action Items (table):
 [Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
