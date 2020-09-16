@@ -41,6 +41,8 @@ Board Retreat Action Items (table):
 
 ## New Business
 
+Next Meeting is Budgets and Elections
+
 ## Thank Yous
 
 ## Adjourn
