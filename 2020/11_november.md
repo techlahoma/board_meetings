@@ -4,7 +4,7 @@
 ## Open
 
 - Attendance (please be on call with video enabled)
-- Approve [July 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/11_september_minutes.md)
+- Approve [September 2020 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2020/11_september_minutes.md)
 
 ## Officer Reports
 
