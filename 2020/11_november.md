@@ -43,6 +43,8 @@ Board of Directors Elections
 
 Next Meeting is Officer elections and Budgets
 
+Giving Tuesday 2020
+
 ## Thank Yous
 
 ## Adjourn
