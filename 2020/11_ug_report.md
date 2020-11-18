@@ -11,6 +11,11 @@
   - Meetup:
     - Emily: any updates on usage and comparable sites?
     - Usage report: Emily or Jeff
+     - Slack Stats:
+      Members 3,844
+      Up by 93 (+2%) over the last 30 days.
+      Weekly active members 523
+      Up by 90 (+21%) over the last 30 days.
   - Monthly Webinars:
     - No webinars for November, deciding on Decemeber
     - Big Thank you to Dodzi and Chris for streaming them each month
