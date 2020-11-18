@@ -47,4 +47,6 @@ Giving Tuesday 2020
 
 ## Thank Yous
 
+- Chris Tse, ThunderPlains One-man Stream Team
+
 ## Adjourn
