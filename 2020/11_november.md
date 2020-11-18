@@ -1,5 +1,4 @@
-
-# Tuesday, Sep 15, 2020 7:00 pm
+# Tuesday, Nov 17, 2020 7:00 pm
 
 ## Open
 
