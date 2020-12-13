@@ -8,8 +8,8 @@
 ## Officer Reports
 
 - President/Financials
-  - [2020 Budget Tracking](https://docs.google.com/spreadsheets/d/10KlK1Yb6_Gp2sAZvnNZ5tbD08TMlkY_XINKqSM74CLo/edit?usp=sharing)
-  - [Runway](https://docs.google.com/spreadsheets/d/1KJwYtzZFRyrqAQlxPbul3t5pmGXcjS-y4NlijMAU0Lk/edit?usp=sharing)
+  - [Runway](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit#gid=688400469)
+  - [2021 Calendar]()
 - Vice President
 
 ## Program Reports
@@ -18,17 +18,10 @@
   - ThunderPlains
   - UX Conference
   - Networking Fairs
-- [User Groups](https://github.com/techlahoma/board_meetings/blob/master/2020/11_ug_report.md) - Kristin
-- Workshops & Civic Tech - Diana
+- User Groups - Kristin
 
 ## Committee Reports
 
-- Content Creation - Dodzi
-- Fundraising - Kendall - Audit report
-  - Membership dicussion feedback
-- Infrastructure - Luke
-- Marketing - Matt
-- Membership - Ryan
 
 ## Unfinished Business
 
@@ -38,6 +31,15 @@ Board Retreat Action Items (table):
 [Link to board retreat notes](https://docs.google.com/document/d/1TeeipFHbYwD6iJZ6vT2G7VaAnpDQ1C50DU8IhPW4_84/edit?usp=sharing)
 
 ## New Business
+
+Elect 2 new board members
+
+Elect Officers
+
+[Pass Budget](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit?usp=sharing)
+
+Discuss CRM
+
 
 ## Thank Yous
 
