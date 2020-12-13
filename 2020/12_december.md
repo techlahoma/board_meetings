@@ -9,15 +9,13 @@
 
 - President/Financials
   - [Runway](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit#gid=688400469)
-  - [2021 Calendar]()
+  - [2021 Calendar](https://docs.google.com/document/d/1xLEzSrZdUKeqlk-wMavdVG8gS-GwANfvHU5g6umFBfM/edit?usp=sharing)
 - Vice President
 
 ## Program Reports
 
 - Conferences & Events - Maxx
-  - ThunderPlains
   - UX Conference
-  - Networking Fairs
 - User Groups - Kristin
 
 ## Committee Reports
