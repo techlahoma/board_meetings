@@ -34,9 +34,12 @@ Elect 2 new board members
 
 Elect Officers
 
-[Pass Budget](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit?usp=sharing)
-
 Discuss CRM
+
+Budget discussion: [2021 potential Budget](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit?usp=sharing)
+ - CRM?
+ - When will we start meeting inperson again?
+ - Projected Event earnings
 
 
 ## Thank Yous
