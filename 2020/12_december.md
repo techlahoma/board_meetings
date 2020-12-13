@@ -43,6 +43,7 @@ Budget discussion: [2021 potential Budget](https://docs.google.com/spreadsheets/
 
 2021 Potential Projects:
  - Company Memberships
+ - Job Board
  - New Workshops
  - Internships
 
