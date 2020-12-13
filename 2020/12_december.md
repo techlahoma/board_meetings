@@ -41,6 +41,10 @@ Budget discussion: [2021 potential Budget](https://docs.google.com/spreadsheets/
  - When will we start meeting inperson again?
  - Projected Event earnings
 
+2021 Potential Projects:
+ - Company Memberships
+ - New Workshops
+ - Internships
 
 ## Thank Yous
 
