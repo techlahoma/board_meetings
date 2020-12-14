@@ -34,7 +34,7 @@ Elect 2 new board members
 
 Elect Officers
 
-Discuss CRM
+Discuss CRM [Emily's Presentation](https://docs.google.com/document/d/1E56Pi3kk3MBDlXA94zPxmkGTvOYV5UHIOU1PFGik13c/edit?usp=sharing)
 
 Budget discussion: [2021 potential Budget](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit?usp=sharing)
  - CRM?
