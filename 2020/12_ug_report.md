@@ -33,15 +33,7 @@ CocoaHeads OKC
 Tulsa Open Source Hardware
 Oklahoma City SharePoint Users Group / OKCSUG
 OKCLUGNuts
-  - Meetup:
-    - Emily: any updates on usage and comparable sites?
-    - Usage report: Emily or Jeff
-     - Slack Stats:
-      Members 3,844
-      Up by 93 (+2%) over the last 30 days.
-      Weekly active members 523
-      Up by 90 (+21%) over the last 30 days.
-  - Monthly Webinars:
-    - No webinars for November, deciding on Decemeber
-    - Big Thank you to Dodzi and Chris for streaming them each month
-    - Hartwig Staff sponsored webinar with Crack the Code Book giveaway
+  - Budget: Actual used in 2019 ($6,474), 2020 ($5,018), and requested for 2021 ($14,120)
+    - Recommendation of $4,700 from Kendall; 33% of request
+    - Suggest budget approval per UG (https://docs.google.com/spreadsheets/d/1N_Qn3r5TSev9ppkXE2YNDYOdBRSmJiLyu4dxYRquOSg/edit#gid=704099622)
+
