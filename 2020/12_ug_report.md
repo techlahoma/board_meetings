@@ -1,5 +1,5 @@
 ## User Group General Updates
-  - Old Business from last month: Funding remaining for the year:
+  - Old Business from last month to keep in mind for 2021:
     - Requests: Logo design, Zoom, Websites, Gift cards
     - Tips for 2021 Funding Usage
   - Applications:
@@ -7,33 +7,33 @@
     - 4 less than 2020; FCC Condensed from 3 to 1; Reactiviation of Big Data OKC; New Entrepreneurship & Tech
     - Full List of Sponsored:
       - FreeCodeCamp Oklahoma
-Big Data in Oklahoma City
-Code for Muskogee
-Code for Tulsa
-DevopsOKC
-Entrepreneurship & Tech
-OKC Design+Tech
-OKC Open Source Hardware
-OKC WebDevs
-OKC#
-Oklahoma City Functional Programming
-Oklahoma Game Developers
-Techogee
-Tulsa Agile Practitioners
-Tulsa Game Devs
-Tulsa Java Software Developers
-Tulsa Web Devs
-Urban Coders Guild Professionals (UCG Pros)
+      - Big Data in Oklahoma City
+      - Code for Muskogee
+      - Code for Tulsa
+      - DevopsOKC
+      - Entrepreneurship & Tech
+      - OKC Design+Tech
+      - OKC Open Source Hardware
+      - OKC WebDevs
+      - OKC#
+      - Oklahoma City Functional Programming
+      - Oklahoma Game Developers
+      - Techogee
+      - Tulsa Agile Practitioners
+      - Tulsa Game Devs
+      - Tulsa Java Software Developers
+      - Tulsa Web Devs
+      - Urban Coders Guild Professionals (UCG Pros)
     - Full List of Affiliated: 
-    Tulsa .NET User Group
-Tulsa Data Science
-She Codes Tulsa
-Tulsa UX
-CocoaHeads OKC
-Tulsa Open Source Hardware
-Oklahoma City SharePoint Users Group / OKCSUG
-OKCLUGNuts
+      - Tulsa .NET User Group
+      - Tulsa Data Science
+      - She Codes Tulsa
+      - Tulsa UX
+      - CocoaHeads OKC
+      - Tulsa Open Source Hardware
+      - Oklahoma City SharePoint Users Group / OKCSUG
+      - OKCLUGNuts
   - Budget: Actual used in 2019 ($6,474), 2020 ($5,018), and requested for 2021 ($14,120)
-    - Recommendation of $4,700 from Kendall; 33% of request
-    - Suggest budget approval per UG (https://docs.google.com/spreadsheets/d/1N_Qn3r5TSev9ppkXE2YNDYOdBRSmJiLyu4dxYRquOSg/edit#gid=704099622)
+    - Recommendation of $4,700 from Kendall; 33% of request for each budget with adjustments based on 2020 actual spend
+    - Suggested budget approval per UG (https://docs.google.com/spreadsheets/d/1N_Qn3r5TSev9ppkXE2YNDYOdBRSmJiLyu4dxYRquOSg/edit#gid=704099622)
 
