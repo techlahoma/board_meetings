@@ -6,7 +6,7 @@
     - 28 Applications submitted
     - 4 less than 2020; FCC Condensed from 3 to 1; Reactiviation of Big Data OKC; New Entrepreneurship & Tech
     - Full List of Sponsored:
-    FreeCodeCamp Oklahoma
+      - FreeCodeCamp Oklahoma
 Big Data in Oklahoma City
 Code for Muskogee
 Code for Tulsa
