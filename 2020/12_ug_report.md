@@ -4,7 +4,7 @@
     - Tips for 2021 Funding Usage
   - Applications:
     - 28 Applications submitted
-    - 4 less than 2020; FCC Condensed from 3 to 1; Reactiviation of Big Data OKC; New Entrepreneurship & Tech
+    - 4 less than 2020; FCC Condensed from 3 to 1; Reactiviation of Big Data OKC; New Entrepreneurship & Tech; Did not apply SheCodesOKC
     - Full List of Sponsored:
       - FreeCodeCamp Oklahoma
       - Big Data in Oklahoma City
@@ -33,7 +33,9 @@
       - Tulsa Open Source Hardware
       - Oklahoma City SharePoint Users Group / OKCSUG
       - OKCLUGNuts
-  - Budget: Actual used in 2019 ($6,474), 2020 ($5,018), and requested for 2021 ($14,120)
+  - UG Chair recommends to approval all User Groups who applied for 2021
+  - Budget: Actual used in 2019 ($6,474), 2020 ($1,843), and requested for 2021 ($14,120)
+    - User Groups were virtual from April - December 2020
     - Recommendation of $4,700 from Kendall; 33% of request for each budget with adjustments based on 2020 actual spend
-    - Suggested budget approval per UG (https://docs.google.com/spreadsheets/d/1N_Qn3r5TSev9ppkXE2YNDYOdBRSmJiLyu4dxYRquOSg/edit#gid=704099622)
+    - UG Chair recommends the following UG budgets for approval (https://docs.google.com/spreadsheets/d/1N_Qn3r5TSev9ppkXE2YNDYOdBRSmJiLyu4dxYRquOSg/edit#gid=704099622)
 
