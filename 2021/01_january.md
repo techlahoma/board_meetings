@@ -35,12 +35,18 @@ CRM Investigation Task Force Report - Emily
 
 ## New Business
 
-Joint Conferences:
+Joint Conferences
  - How to support other local conferences
  - advertise/endorsed by Techlahoma
 
 Retreat
  - (How) should we replace our yearly retreat?
+
+2021 Potential Projects:
+ - Company Memberships
+ - Job Board
+ - New Workshops
+ - Internships
  
 ## Thank Yous
 
