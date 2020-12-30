@@ -30,19 +30,19 @@
 
 ## Unfinished Business
 
-CRM Investigation Task Force Report - Emily
+### CRM Investigation Task Force Report - Emily
  - [Emily's old presentation](https://docs.google.com/document/d/1E56Pi3kk3MBDlXA94zPxmkGTvOYV5UHIOU1PFGik13c/edit?usp=sharing)
 
 ## New Business
 
-Joint Conferences
+### Joint Conferences
  - How to support other local conferences
  - advertise/endorsed by Techlahoma
 
-Retreat
+### Retreat
  - (How) should we replace our yearly retreat?
 
-2021 Potential Projects:
+### 2021 Potential Projects:
  - Company Memberships
  - Job Board
  - New Workshops
