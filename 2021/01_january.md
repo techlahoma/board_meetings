@@ -24,9 +24,9 @@
 
 - Content Creation - Dodzi
 - Fundraising - Kendall - Audit report
-- Infrastructure - Luke
-- Marketing - Matt
-- Membership - Ryan
+- Infrastructure - Let's get rid of this committee?
+- Marketing - 
+- ~~Membership~~ Should we just go back to "Conduct"?
 
 ## Unfinished Business
 
