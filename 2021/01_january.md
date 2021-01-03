@@ -42,6 +42,9 @@
 
 #### Retreat
  - (How) should we replace our yearly retreat?
+ 
+ #### Address
+ - (How) We need to update it
 
 #### 2021 Potential Projects:
  - Company Memberships
