@@ -85,7 +85,7 @@ None
  - Elect Officers (3 nominations accepted. Kendall President, Diana Varnes for VP, Cecely for Secretary) - Approved 
 	 - Nominations for Treasurer: Se Yeon Kim (accepted); Passed
 	 - 3 new board members who can be treasurer as well 
- - Approve BOK access for book keeper (Anna Lowe) - Approved - we give Anna Lowe access; she will be a signer & get a debit card (JeffLowe obtained from voting) 
+ - Approve bookkeeper (Anna Lowe) as Bank of Oklahoma signer - Approved - we give Anna Lowe access; she will be a signer & get a debit card (Jeff Lowe abstained from voting) 
  - End of Year Survey 
 	 - Take a look at it to see if there are any questions 
  - Budget Discussions (2021)
