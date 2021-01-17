@@ -39,7 +39,7 @@ Committee Proposal:
 
 #### Fundraising Plan
  - [Old Fundraising Report from 2020](https://raw.githubusercontent.com/techlahoma/board_meetings/master/2020/assets/Techlahoma%20Fundraising%20Readiness%20Assessment%20Combined%20Report.pdf)
- - [Write On Proposal]()
+ - [Write On Proposal](https://github.com/techlahoma/board_meetings/raw/master/2021/Techlahoma%20Proposal%202021.pdf)
 
 #### Alcohol Policy
  - [Official Policy](https://www.techlahoma.org/alcohol-policy)
