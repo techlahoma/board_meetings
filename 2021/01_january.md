@@ -15,19 +15,20 @@
   - [Runway](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit#gid=688400469)
 - Secretary - None
 
-## Program Reports
+## Program/Committee Reports
 
 - Conferences & Events - Maxx
-- User Groups - 
-- Workshops & Civic Tech - Diana
+- User Groups - Milecia
+- Workshops & Civic Tech - Alex
 
-## Committee Reports
+Committee Proposal:
 
-- Content Creation - Dodzi
-- Fundraising - Kendall - Audit report
-- Infrastructure - Let's get rid of this committee?
-- Marketing - 
-- ~~Membership~~ Should we just go back to "Conduct"?
+- Fundraising - Spot needs filling
+- Marketing - Emily
+  - Streaming - Dodzi
+- Membership - Spot needs filling
+  - Conduct - SeYeon
+- ~~Infrastructure~~
 
 ## Unfinished Business
 
@@ -35,6 +36,13 @@
  - [Emily's old presentation](https://docs.google.com/document/d/1E56Pi3kk3MBDlXA94zPxmkGTvOYV5UHIOU1PFGik13c/edit?usp=sharing)
 
 ## New Business
+
+#### Fundraising Plan
+ - [Old Fundraising Report from 2020](https://raw.githubusercontent.com/techlahoma/board_meetings/master/2020/assets/Techlahoma%20Fundraising%20Readiness%20Assessment%20Combined%20Report.pdf)
+ - [Write On Proposal]()
+
+#### Alcohol Policy
+ - [Official Policy](https://www.techlahoma.org/alcohol-policy)
 
 #### Joint Conferences
  - How to support other local conferences
