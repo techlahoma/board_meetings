@@ -1,4 +1,5 @@
 
+  
 # Tuesday, Jan 19, 2020 7:00 pm
 
 ## Open
@@ -13,7 +14,7 @@
 - Vice President
 - Treasurer 
   - [Runway](https://docs.google.com/spreadsheets/d/1re21C41a4cPuzVJAsDvooOWNAMjTX10gg8Ue9K0-CGE/edit#gid=688400469)
-- Secretary - None
+- Secretary 
 
 ## Program/Committee Reports
 
@@ -32,6 +33,8 @@ Committee Proposal:
 
 ## Unfinished Business
 
+#### 1Password & Email activation for new board members - Emily 
+#### User Groups use funds for advertising? - Emily 
 #### CRM Investigation Task Force Report - Emily
  - [Emily's old presentation](https://docs.google.com/document/d/1E56Pi3kk3MBDlXA94zPxmkGTvOYV5UHIOU1PFGik13c/edit?usp=sharing)
 
@@ -46,13 +49,13 @@ Committee Proposal:
 
 #### Joint Conferences
  - How to support other local conferences
- - advertise/endorsed by Techlahoma
+ - Advertise/endorsed by Techlahoma
 
 #### Retreat
  - (How) should we replace our yearly retreat?
  
  #### Address
- - (How) We need to update it
+ - (How) We need to update it / New Address? 
 
 #### 2021 Potential Projects:
  - Company Memberships
