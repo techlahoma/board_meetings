@@ -37,6 +37,7 @@ Committee Proposal:
 #### User Groups use funds for advertising? - Emily 
 #### CRM Investigation Task Force Report - Emily
  - [Emily's old presentation](https://docs.google.com/document/d/1E56Pi3kk3MBDlXA94zPxmkGTvOYV5UHIOU1PFGik13c/edit?usp=sharing)
+ - [Neon CRM Roll Out](https://docs.google.com/spreadsheets/d/1YC3ursUWZswf8AyZK2bnnTRVU9-WH1xgxGlXCHfwJYo/edit?usp=sharing)
 
 ## New Business
 
