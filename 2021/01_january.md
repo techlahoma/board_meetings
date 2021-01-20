@@ -19,6 +19,15 @@
 ## Program/Committee Reports
 
 - Conferences & Events - Maxx
+	- UXOK (Feb 5, 2021)
+		- 44 registered so far (including $250 in paid tickets)
+		- 3 sponsors so far, including $3k from Jinn Studios
+	- 200OK (May 21, 2021)
+		- [Website](https://200ok.us/) is updated to reflect new date, including ti.to "free" info only ticket
+		- We need to schedule a kick-off for this event. 
+	- Thunderplains (Oct/Nov 2021)
+		- No updates
+
 - User Groups - Milecia
 - Workshops & Civic Tech - Alex
 
