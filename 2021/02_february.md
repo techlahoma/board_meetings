@@ -1,7 +1,7 @@
 
   
   
-# Tuesday, Jan 19, 2020 7:00 pm
+# Tuesday, Feb 16, 2020 7:00 pm
 
 ## Open
 
