@@ -1,6 +1,7 @@
 
   
   
+  
 # Tuesday, March 16, 2021 7:00 pm
 
 ## Open
@@ -28,6 +29,10 @@
 - User Groups - Milecia
 	- Handbook update 
 - Workshops & Civic Tech - Alex
+- Streaming Committee - Dodzi 
+	- What is freeCodeCamp (is it part of Techlahoma)
+	- Some updates on streaming & splitting videos and keeping the videos 
+	- Asking to do a blast to both Slack & LinkedIn for Volunteer "registration" 
 
 
 ## Unfinished Business
