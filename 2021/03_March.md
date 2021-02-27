@@ -33,10 +33,15 @@
 	- What is freeCodeCamp (is it part of Techlahoma)
 	- Some updates on streaming & splitting videos and keeping the videos 
 	- Asking to do a blast to both Slack & LinkedIn for Volunteer "registration" 
+- Fundraising Committee
+	- Corporate Memberships
+	- Job Board (Online Tools like Ghost, Notion, Zoho, etc.)
+	- Potential Giving Campaign 
 
 
 ## Unfinished Business
 - Alcohol Policy Update 
+	- [ABLE Findings](https://docs.google.com/document/d/1DaFrU6qBykvTGi_O4wlaDCUJie5aER7Za3oUhFla9ug)
 - Retreat Update 
 - Address Update - Kendall / Paperwork filing 
 
@@ -47,8 +52,6 @@
 
 
 #### 2021 Potential Projects:
- - Company Memberships
- - Job Board
  - New Workshops
  - Internships
  
