@@ -20,7 +20,7 @@
 ## Program/Committee Reports
 
 - Conferences & Events - Maxx
-	- UXOK (Feb 5, 2021)
+	- UXOK (Feb 5, 2021) [Budget report](https://docs.google.com/spreadsheets/d/1CQUdIpnoJpjeVUbtM2UBSsdof1e9q70lmxqytoEV8fg/edit?usp=sharing)
 	- 200OK (May 21, 2021)
 	- Thunderplains (Oct/Nov 2021)
 
@@ -53,7 +53,10 @@
 
 
 ## New Business
-- Neon Donation [links](https://www.techlahoma.org/donations)
+- Emily Misc
+	- Neon Donation [links](https://www.techlahoma.org/donations)
+	- Anyone on monthly donations should switch
+	- Neon UG's trial run
 
 ## Thank Yous
 
