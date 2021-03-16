@@ -7,7 +7,7 @@
 ## Open
 
 - Attendance (please be on call with video enabled)
-- Approve [Janurary 2021 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2021/01_January_minutes.md)
+- Approve [January 2021 board meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2021/01_January_minutes.md)
 
 ## Officer Reports
 
@@ -32,6 +32,9 @@
 	- What is freeCodeCamp (is it part of Techlahoma)
 	- Some updates on streaming & splitting videos and keeping the videos 
 	- Asking to do a blast to both Slack & LinkedIn for Volunteer "registration" 
+- Marketing Committee	
+	- Virtual Backgrounds
+	- Newsletter Info
 - Fundraising Committee - Devon
 	- Corporate Memberships
 	- Job Board (Online Tools like Ghost, Notion, Zoho, etc.)
@@ -39,7 +42,6 @@
 - Membership - Kendall
 	- Sounds like a lot of people are looking for volunteers.
 	- Should we consolidate all that into one ask if we can?
-- Marketing - Emily
 
 
 ## Unfinished Business
@@ -51,7 +53,7 @@
 
 
 ## New Business
-
+- Neon Donation [links](https://www.techlahoma.org/donations)
 
 ## Thank Yous
 
