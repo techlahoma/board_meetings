@@ -12,10 +12,8 @@
 ## Officer Reports
 
 - President
- 
 - Vice President
 - Treasurer 
-  
 - Secretary 
 	- No Report
 
@@ -29,32 +27,32 @@
 - User Groups - Milecia
 	- Handbook update 
 - Workshops & Civic Tech - Alex
+	- New Workshops dicussion
 - Streaming Committee - Dodzi 
 	- What is freeCodeCamp (is it part of Techlahoma)
 	- Some updates on streaming & splitting videos and keeping the videos 
 	- Asking to do a blast to both Slack & LinkedIn for Volunteer "registration" 
-- Fundraising Committee
+- Fundraising Committee - Devon
 	- Corporate Memberships
 	- Job Board (Online Tools like Ghost, Notion, Zoho, etc.)
 	- Potential Giving Campaign 
+- Membership - Kendall
+	- Sounds like a lot of people are looking for volunteers.
+	- Should we consolidate all that into one ask if we can?
+- Marketing - Emily
 
 
 ## Unfinished Business
 - Alcohol Policy Update 
 	- [ABLE Findings](https://docs.google.com/document/d/1DaFrU6qBykvTGi_O4wlaDCUJie5aER7Za3oUhFla9ug)
 - Retreat Update 
-- Address Update - Kendall / Paperwork filing 
-
+- Address Update - done
+- Internships - no progress
 
 
 ## New Business
 
 
-
-#### 2021 Potential Projects:
- - New Workshops
- - Internships
- 
 ## Thank Yous
 
 ## Adjourn
