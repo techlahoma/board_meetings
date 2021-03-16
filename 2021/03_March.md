@@ -47,7 +47,7 @@
 ## Unfinished Business
 - Alcohol Policy Update 
 	- [ABLE Findings](https://docs.google.com/document/d/1DaFrU6qBykvTGi_O4wlaDCUJie5aER7Za3oUhFla9ug)
-- Retreat Update 
+- Retreat Update - Would like to pick a focus for the year. We can do that here if we have enough time, or we can schedule another meeting
 - Address Update - done
 - Internships - no progress
 
