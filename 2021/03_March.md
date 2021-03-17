@@ -13,6 +13,8 @@
 
 - President
 - Vice President
+ 	- UG Attendance: https://docs.google.com/spreadsheets/d/1lITYsBNwOoe-NolzZqRmt_jwmGU2cIW_g0cwO0yzt88/edit?usp=sharing 
+ 	- Social Media: https://docs.google.com/spreadsheets/d/1FyruvuJbMSklZlxgIqMzQU0UarVTDcMJcs0N25b4ako/edit?usp=sharing
 - Treasurer 
 - Secretary 
 	- No Report
