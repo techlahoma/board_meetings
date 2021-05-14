@@ -19,7 +19,11 @@
 - User Groups - Milecia
 - Workshops & Civic Tech - Alex
 - Streaming Committee - Dodzi 
-- Marketing Committee	
+- Marketing Committee - Emily
+	- Working on Social Media Pushes
+	- Can we get schedule finalized for rest of year? Workshops and Confs
+	- Neon Rollout Update
+	- Rebranding
 - Fundraising Committee - Devon
 - Membership - Kendall
 
