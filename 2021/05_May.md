@@ -17,7 +17,9 @@
 
 - Conferences & Events - Maxx
 - User Groups - Milecia
+	- No report 
 - Workshops & Civic Tech - Alex
+	- No report 
 - Streaming Committee - Dodzi 
 - Marketing Committee - Emily
 	- Working on Social Media Pushes
@@ -25,6 +27,9 @@
 	- Neon Rollout Update
 	- Rebranding
 - Fundraising Committee - Devon
+	- Individual Campaign
+	- Grant Writing Project
+	- Corporate Memberships 
 - Membership - Kendall
 
 ## Unfinished Business
