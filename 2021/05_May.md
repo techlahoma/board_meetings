@@ -23,6 +23,7 @@
 - Streaming Committee - Dodzi 
 - Marketing Committee - Emily
 	- Working on Social Media Pushes
+	- Google Ads
 	- Can we get schedule finalized for rest of year? Workshops and Confs
 	- Neon Rollout Update
 	- Rebranding
@@ -31,6 +32,11 @@
 	- Grant Writing Project
 	- Corporate Memberships 
 - Membership - Kendall
+- Code of Conduct Committee - Se Yeon
+	- Completing final decision on conduct violation
+	- Reached out to Asian Task Force (with YWCA) to have a panel discussion about Diversity and Inclusion, learning to be a better ally/bystander, and other D+I workshop
+	- How to be more proactive rather than a reactive Code of Conduct Committee
+	- Diversifying the voices in Techlahoma and Code of Conduct Committee
 
 ## Unfinished Business
 
