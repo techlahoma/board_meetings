@@ -44,7 +44,7 @@
 ## Unfinished Business
 - Alcohol Policy Update 
 - Retreat Update
-- Could do one soon?
+	- Could do one soon?
 	- In order to get to know eachother
 	- Set goals for next 6-12 months
 - Internships - Apprenticeships working with 
