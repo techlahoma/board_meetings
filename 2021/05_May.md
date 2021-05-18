@@ -46,16 +46,23 @@
 - Alcohol Policy Update 
 - Retreat Update
 	- Could do one soon?
-	- In order to get to know eachother
+	- In order to get to know each other
 	- Set goals for next 6-12 months
-- Internships - Apprenticeships working with 
+- Internships - Apprenticeships
+	- We have been working on this, but I didn't have time to gather materials for you
+	- Please talk to companies to guage interest if you have the opportunity.
+	- Idea is Techlahoma would do most training
+	- No funding for apprentices, but some comp available for compensation for time of the mentors.
 - Neon UG's trial run
 
 ## New Business
 
 - Tech ++ type event in Tulsa
+	- working with inTulsa and 36 degrees North (others?)
 - Cam Perry's event for junior developers
-- Jeff Yenzer to write up a guide to handling employment in OK
+	- We can help with possibly finding judges, sponsorships
+- Looking into a guide to handling employment in OK
+	- Talked with Jeff Yenzer
 
 ## Thank Yous
 
