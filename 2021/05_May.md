@@ -9,6 +9,7 @@
 ## Officer Reports
 
 - President
+  - No report, b/c I have a thousand things in new business!
 - Vice President
 - Treasurer 
 - Secretary 
@@ -41,8 +42,19 @@
 	- Diversifying the voices in Techlahoma and Code of Conduct Committee
 
 ## Unfinished Business
+- Alcohol Policy Update 
+- Retreat Update
+- Could do one soon?
+	- In order to get to know eachother
+	- Set goals for next 6-12 months
+- Internships - Apprenticeships working with 
+- Neon UG's trial run
 
 ## New Business
+
+- Tech ++ type event in Tulsa
+- Cam Perry's event for junior developers
+- Jeff Yenzer to write up a guide to handling employment in OK
 
 ## Thank Yous
 
