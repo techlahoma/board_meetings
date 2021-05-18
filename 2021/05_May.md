@@ -35,6 +35,7 @@
 	- Grant Writing Project
 	- Corporate Memberships 
 - Membership - Kendall
+	- Any ideas for new volunteer gifts since we are running out?
 - Code of Conduct Committee - Se Yeon
 	- Completing final decision on conduct violation
 	- Reached out to Asian Task Force (with YWCA) to have a panel discussion about Diversity and Inclusion, learning to be a better ally/bystander, and other D+I workshop
