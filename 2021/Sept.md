@@ -1,4 +1,4 @@
-# Tuesday, July 20th, 2021 7:00 pm
+# Tuesday, September 21, 2021 7:00 pm
 
 ## Open
 
@@ -20,6 +20,15 @@
 - Workshops & Civic Tech - Alex
 - Streaming Committee - Dodzi 
 - Marketing Committee - Emily
+	- Working on a holiday swag sale: temporary shop that will sell a select few items through Flash Flood Print
+	- Branding: working on figuring out a new site (not squarespace), overwhelming keep the logo the same, need brand colors
+	- Misc Emily Notes (not marketing)
+		- Job board is up! Need to get more posts before we advertise much
+		- Discuss workshop proposal (Diana)
+		- Throwback ThunderPlains (Maxx)'
+		- Prepping new UG apps and also Board member onboarding
+		- What do you all think of a UG leader session once or twice to answer questions at the beginning of next year? (Forgot to run this by Milecia)
+		- Miss you all, but also excited to see the mouse #disney 	
 
 - Fundraising Committee - Devon
 - Membership - Kendall
