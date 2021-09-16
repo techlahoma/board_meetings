@@ -1,3 +1,4 @@
+
 # Tuesday, September 21, 2021 7:00 pm
 
 ## Open
@@ -8,6 +9,9 @@
 ## Officer Reports
 
 - President
+	- Do people want to continue on the board 2022
+	- Anyone we think would make a great board member 
+	- UG Applications for 2022
 - Vice President
 - Treasurer 
 - Secretary 
