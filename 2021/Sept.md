@@ -9,9 +9,9 @@
 ## Officer Reports
 
 - President
-	- Do people want to continue on the board 2022
-	- Anyone we think would make a great board member 
-	- UG Applications for 2022
+	- [Nominations](https://docs.google.com/spreadsheets/d/1jRNdkFpPmqW3UO-49xZXssErVVT2nP62H39R_W43MR4/edit?usp=sharing)
+	- If your term is not up, you need to confirm
+	- If your term is up, let us know if you would like to run again
 - Vice President
 - Treasurer 
 - Secretary 
@@ -21,6 +21,7 @@
 
 - Conferences & Events - Maxx
 - User Groups - Milecia
+	- Kendall: Let's talk about UG applications for 2022! 
 - Workshops & Civic Tech - Alex
 - Streaming Committee - Dodzi 
 - Marketing Committee - Emily
@@ -36,9 +37,20 @@
 
 - Fundraising Committee - Devon
 - Membership - Kendall
+	- No news 
 - Code of Conduct Committee - Se Yeon
 
 ## Unfinished Business
+
+- Alcohol Policy Update 
+
+- Guide to handling employment in OK
+
+- Retreat Update
+	- User Groups Update
+	- Diversified Revenue Team Update
+	- Outside Organizations Update
+
 
 ## New Business
 
