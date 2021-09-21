@@ -13,6 +13,7 @@
 	- If your term is not up, you need to confirm
 	- If your term is up, let us know if you would like to run again
 - Vice President
+	- No Report 	
 - Treasurer 
 - Secretary 
 	- No Report
@@ -43,6 +44,9 @@
 ## Unfinished Business
 
 - Alcohol Policy Update 
+	- Alcohol will only be paid for/provided by Techlahoma at Techlahoma board organized events.
+	User groups may have alcohol at events, but 1) alcohol may not be purchased with Techlahoma funds, 2) a sponsor should be used to pay for alcohol, 3) no minors are allowed to 
+ drink, 4) meetups with alcohol must be held at locations with a licensed bartender, such as a brewery or coffee/wine bar.
 
 - Guide to handling employment in OK
 
@@ -53,6 +57,10 @@
 
 
 ## New Business
+- Shabano Technical Design Training 
+- Apprenticeships Update
+	- Network+ and Cybersecurity+ launching end of this month, curriculum taught by TCC
+	- For developers, TCC only offers courses for credit so they can't provide them outside of that scope, but teachers can be hired on their own time to teach 
 
 ## Thank Yous
 
