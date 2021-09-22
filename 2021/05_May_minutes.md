@@ -4,7 +4,7 @@
 
 - Attendance (please be on call with video enabled)
 	- Cecely Jones, Kendall Werts, Devon Mobley, Se Yeon Kim, Emily, Dodzidenu Dzakuma, Luke Crouch, Milecia McGregor, Diana Varnes, Mikeal Vaughn, Maxx Crawford, Alex Ayon
-- Approved [March 2020 Minutes](https://github.com/techlahoma/board_meetings/blob/master/2021/03_March_minutes.md)
+- Approved [March 2021 Minutes](https://github.com/techlahoma/board_meetings/blob/master/2021/03_March_minutes.md)
 
 ## Officer Reports
 
