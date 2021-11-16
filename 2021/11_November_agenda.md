@@ -13,14 +13,13 @@
 - Workshops & Civic Tech - Alex
 - Streaming Committee - Dodzi 
 - Marketing Committee & Emily Updates - Emily
-	- Onboarding/Offboarding of board members 
-	- Elections! 
 	- UG applications
 - Fundraising Committee - Devon
 - Membership - Kendall
 - Code of Conduct Committee - Se Yeon
 
 ## Unfinished Business
+- Elections! 
 
 ## New Business
 - Code for Tulsa CourtBot grant: https://docs.google.com/document/d/1ahNV1r2Z4qe2yyni_6VV5NLVrglHpZCan0hFz3LfOFc/edit?usp=sharing
