@@ -20,6 +20,7 @@
 
 ## Unfinished Business
 - Elections! 
+- Officer Roles
 
 ## New Business
 - Code for Tulsa CourtBot grant: https://docs.google.com/document/d/1ahNV1r2Z4qe2yyni_6VV5NLVrglHpZCan0hFz3LfOFc/edit?usp=sharing
