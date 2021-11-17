@@ -19,7 +19,7 @@
 - Code of Conduct Committee - Se Yeon
 
 ## Unfinished Business
-- Elections! https://www.surveymonkey.com/r/L5HQV7T
+- Elections!
 - Officer Roles
 
 ## New Business
