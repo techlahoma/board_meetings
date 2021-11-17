@@ -1,6 +1,10 @@
 ## Officer Reports
 
 - President
+ - Elections
+ - We will have a December board meeting to
+   * Elect Officers
+   * Approve Budgets
 - Vice President
 - Treasurer 
 - Secretary 
@@ -16,6 +20,7 @@
 	- UG applications
 - Fundraising Committee - Devon
 - Membership - Kendall
+  - No Report
 - Code of Conduct Committee - Se Yeon
 
 ## Unfinished Business
