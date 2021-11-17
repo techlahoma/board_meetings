@@ -1,8 +1,7 @@
 ## Officer Reports
 
 - President
- - Elections
- - We will have a December board meeting to
+  - We will have a December board meeting to
    * Elect Officers
    * Approve Budgets
 - Vice President
