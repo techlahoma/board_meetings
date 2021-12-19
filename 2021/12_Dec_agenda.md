@@ -24,6 +24,8 @@
   - Secretary
   - Workshops & Civic Tech committee chair
   - Anything else?
+- Should we move board meeting minutes to Google drive?
+  - Can they be easily published this way?
 
 ## Thank Yous
 
