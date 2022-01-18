@@ -3,7 +3,7 @@
 - Role Call
   Diana, Kendall, Alex, Devon, Maxx, Luke, Nilecia, Se Yeon (non voters: Emily, Bekah) present
 - [Approve previous meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2021/11_November_Minutes.md)
-- Approved.
+- Approved: 8 yes votes
 
 ## Officer Reports
 
@@ -29,8 +29,8 @@
 ## New Business
 - Officer Elections - Link to vote provided early if you will miss the meeting or at the time of the meeting
 - [Budget Approval](https://docs.google.com/spreadsheets/d/1viMU5AC1nP4BQG3Wmd1WLYqmfcuobmdreDWScpuD38g/edit?usp=sharing)
-- Budget Approved!
-- Congrats to Devon (President), Se Yeon (VP) and Kendall (Treasurer) for their new roles next year! (Passed by e-vote)
+- Budget Approved with 8 yes votes
+- Congrats to Devon (President), Se Yeon (VP) and Kendall (Treasurer) for their new roles next year! (Passed by e-vote) (all approved with 8 yes votes)
 - Discuss open roles
   - Secretary
   - Workshops & Civic Tech committee chair
