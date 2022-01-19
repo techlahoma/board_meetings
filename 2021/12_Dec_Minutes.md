@@ -1,7 +1,7 @@
 ## Call to Order
 
 - Role Call
-  Diana, Kendall, Alex, Devon, Maxx, Luke, Nilecia, Se Yeon (non voters: Emily, Bekah) present
+  Diana, Kendall, Alex, Devon, Maxx, Luke, Milecia, Se Yeon (non voters: Emily, Bekah) present
 - [Approve previous meeting minutes](https://github.com/techlahoma/board_meetings/blob/master/2021/11_November_Minutes.md)
   - Approved: 8 yes votes
 
